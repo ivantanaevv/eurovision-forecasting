@@ -1,0 +1,10 @@
+*.py text eol=lf
+*.md text eol=lf
+*.tex text eol=lf
+*.ipynb text eol=lf
+*.pdf binary
+*.png binary
+*.xlsx binary
+# Frozen data retain their exact bytes for the source hash checks.
+data/sources/** -text
+report/evidence/** -text

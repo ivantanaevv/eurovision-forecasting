@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+build/
+results/generated/
+*.npz
+*.aux
+*.log
+*.out
+*.synctex.gz
