@@ -7,7 +7,7 @@ a better audience rank than jury rank, and the winner of each national televote.
 We compare country-history baselines, feature models and hierarchical extensions,
 with and without bookmaker odds on the same observations.
 
-**[Read the report](report/eurovision_report.pdf)** · [Presentation](docs/presentation.pdf) · [Data sources](data/README.md)
+**[Read the report](report/eurovision_report.pdf)** · [Presentation](Eurovision_Final.pdf) · [Data sources](data/README.md)
 
 ## Main findings
 
