@@ -1,0 +1,14 @@
+{
+  "A_EDA_workbook_match": true,
+  "B_EDA_workbook_match": true,
+  "C_EDA_workbook_match": true,
+  "A_market_EDA_workbook_match": true,
+  "A_2025_metrics_recomputed": true,
+  "B_2025_metrics_recomputed": true,
+  "C_2025_metrics_recomputed": true,
+  "C_expected_counts_sum_to_36": true,
+  "all_tex_assets_exist": true,
+  "latex_no_overflow_or_unresolved_references": true,
+  "number_of_figures": 11,
+  "number_of_tables": 14
+}

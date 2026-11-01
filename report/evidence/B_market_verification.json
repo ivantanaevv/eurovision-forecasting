@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "nuts_fits": 12,
+  "max_rhat": 1.006732,
+  "min_bulk_ess": 609.80705,
+  "min_tail_ess": 514.743519,
+  "divergences": 0,
+  "holdout_train_end": 2024
+}

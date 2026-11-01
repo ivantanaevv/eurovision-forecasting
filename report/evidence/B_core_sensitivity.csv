@@ -1,0 +1,7 @@
+,model,prior,brier,log_loss
+0,M0,original,0.1940,0.5685
+1,M1,original,0.2119,0.6198
+2,M2,original,0.2218,0.6434
+3,M0,"Beta(0.5,0.5)",0.1971,0.5713
+4,M1,scales_2x,0.2254,0.6633
+5,M2,scales_2x,0.2231,0.6491

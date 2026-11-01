@@ -1,0 +1,22 @@
+{
+  "checks": "PASS",
+  "fits": 18,
+  "max_rhat": 1.006774,
+  "min_bulk_ess": 631.036689,
+  "min_tail_ess": 801.729133,
+  "divergences": 0,
+  "ranking_probability_mcse": [
+    {
+      "model": "M0",
+      "relative_MCSE_ranking_probability": 0.07697308213940841
+    },
+    {
+      "model": "M1",
+      "relative_MCSE_ranking_probability": 0.11473567368606519
+    },
+    {
+      "model": "M2",
+      "relative_MCSE_ranking_probability": 0.1497438025401884
+    }
+  ]
+}

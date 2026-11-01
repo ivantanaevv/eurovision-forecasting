@@ -1,0 +1,4 @@
+,model,year,prior_multiplier,train_start,train_end,rhat_max,ess_bulk_min,ess_tail_min,divergences,max_depth_hits,seconds,attempt,passed
+0,M0,2025,1.0,2016,2024,1.0058,6208.5384,2312.7636,0,0,38.7269,1,True
+1,M1,2025,1.0,2016,2024,1.0050,3345.9983,2221.7721,0,0,67.7513,1,True
+2,M2,2025,1.0,2016,2024,1.0044,837.0300,1348.9401,0,0,692.9105,2,True

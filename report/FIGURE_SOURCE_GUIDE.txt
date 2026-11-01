@@ -1,0 +1,82 @@
+FIGURES AND TABLES: SOURCE AND PURPOSE
+
+1. data_song_patterns.pdf
+   Untitled26 (1).ipynb, cells 3 and 6; same processed A data.
+   Running-order association and overlap of three audio-feature distributions.
+   Two original notebook plots are combined and relabelled in English.
+
+2. data_country_geography.pdf
+   Descriptive notebook, cells 4 and 5; processed B and C data.
+   Country-level audience/jury differences and raw geographic associations.
+   Year-bootstrap and Wilson calculations follow the notebook.
+
+3. market_increment.pdf
+   Development summaries from all three core/market model runs.
+   Matched addition of the odds variable; quantified in the companion table.
+
+4. annual_market_complete.pdf
+   Saved market development_metrics_by_year.csv, A/B/C.
+   Both losses shown in each notebook: A top-ten Brier and ranking log loss;
+   B Brier and binary log loss; C Brier and categorical log loss.
+
+5. forecast_ab_2025.pdf
+   A/B market comparison_2025.csv and no-odds notebook HTML comparison tables.
+   Shows which country probabilities change when odds enter M1.
+   Core probabilities retain displayed precision of 0.1 percentage point.
+
+6. forecast_c_2025.pdf
+   C market comparison_2025.csv and no-odds notebook cell 19 HTML table.
+   M2 probability of the actual national winner for every one of the 36 voters.
+   This is a realized-outcome diagnostic, not the full forecast distribution.
+
+7. pair_effects.pdf
+   C market feature_effects_2025.csv, posterior fitted through 2024.
+   Conditional coefficient magnitudes and 90% credible intervals.
+
+8. calibration_market.pdf
+   Saved A/B/C market calibration.csv.
+   Year-weighted reliability bins; marker sizes reflect raw bin counts.
+   A/B calibrate binary events; C calibrates top-choice correctness.
+
+9. national_win_counts.pdf
+   C market predictions_2025.csv and comparison_2025.csv.
+   Sum of national probabilities versus realized counts for each recipient.
+   Shows missed concentration in Israel and Estonia, without assuming that
+   summing means produces a complete predictive count distribution.
+
+10. A_core_annual_notebook.png, B_core_annual_notebook.png,
+    C_core_annual_notebook.png
+    Original embedded PNGs: A cell 17, B/C cell 15.
+    Kept unchanged because machine-readable annual core metrics were not
+    supplied. No values are inferred by digitizing the lines.
+
+11. regional_pairs.pdf
+    Descriptive notebook cell 9 calculation applied to its fixed ten-country
+    regional subset. Outcome-selected extra countries are omitted, explicitly
+    noted in the caption. Each label retains wins and eligible-year count.
+
+DESCRIPTIVE TABLES
+   Annual coverage replaces the descriptive notebook's coverage heat map:
+   exact counts are more useful here than a second image of the same coverage.
+   Feature summaries show the scale, dispersion and missing counts.
+   The archived 2025 top-twelve market table replaces the notebook's market-rank
+   diagram and preserves both normalized input probabilities and final places.
+
+ADDITIONAL MODEL TABLES
+   Full-ranking and overall-winner log losses for A.
+   Top-one/top-three national-winner accuracy for C.
+   Six no-odds feature-model prior-sensitivity comparisons for 2024.
+
+NOT DUPLICATED IN THE MANUSCRIPT
+   Individual MCMC trace plots: numerical diagnostics and convergence gates
+   are already reported; a few visually selected chains add little evidence.
+   Large C probability matrices: the all-voter realized-winner diagnostic and
+   aggregate count plot give clearer explanations of the reported losses.
+   Repeated core calibration screenshots: the main text includes the saved
+   market calibration bins, with sparse-bin limitations stated explicitly.
+   Original A/B forecast charts: replaced by a direct matched odds comparison
+   of individual M1 forecasts; M0/M2 aggregate scores remain in the tables.
+
+All numerical charts can be rebuilt from evidence/ using the two Python
+scripts, except the three clearly identified original notebook PNGs.
+The figure folder also contains PNG previews of the vector figures.

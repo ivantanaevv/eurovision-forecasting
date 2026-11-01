@@ -1,0 +1,130 @@
+[
+  {
+    "output": "evidence/eda_A.csv",
+    "source": "data/processed/model_A.csv",
+    "source_sha256": "29ca7f8c242d2532ceb16d7f9166e4c1b12d699b8ea3091341f169fbe26de1ba"
+  },
+  {
+    "output": "evidence/A_market_comparison_2025.csv",
+    "source": "outputs/forecast_A_validation/market/comparison_2025.csv",
+    "source_sha256": "ace8a1d63cc42c76d1ad7d203de47aeff9b711015c997115c1f8aac91dbe0be7"
+  },
+  {
+    "output": "evidence/A_market_predictions_2025.csv",
+    "source": "outputs/forecast_A_validation/market/predictions_2025.csv",
+    "source_sha256": "7cb4fd4fba706498fc1733757ca4324527bb6676efc9b3a6947dee66e8b1e40d"
+  },
+  {
+    "output": "evidence/A_market_prior_predictive.csv",
+    "source": "outputs/forecast_A_validation/market/prior_predictive.csv",
+    "source_sha256": "a0504f9a292fe52dbf35e17e6b4e0506ecbdd6d323f71fb6456749a641745aa0"
+  },
+  {
+    "output": "evidence/eda_B.csv",
+    "source": "data/processed/model_B.csv",
+    "source_sha256": "c76ab34800d47107c33f0e3e64708d038008f3454ae1f9dadd352e5d1c2d0d5a"
+  },
+  {
+    "output": "evidence/B_market_comparison_2025.csv",
+    "source": "outputs/forecast_B_validation/market/comparison_2025.csv",
+    "source_sha256": "5b0c8e7404ccf71125ee1cab7e3ad3433b7bdbe230e71d58b0996b9b0e506a45"
+  },
+  {
+    "output": "evidence/B_market_predictions_2025.csv",
+    "source": "outputs/forecast_B_validation/market/predictions_2025.csv",
+    "source_sha256": "e7faa7e6c39e53057ec1f59b6698783349ced4d9a0eee550c7f151ba7fa9c08d"
+  },
+  {
+    "output": "evidence/B_market_prior_predictive.csv",
+    "source": "outputs/forecast_B_validation/market/prior_predictive.csv",
+    "source_sha256": "e43316e142a745930044db6f460c6e601e00eec99c637c94ee3015c02c3020be"
+  },
+  {
+    "output": "evidence/eda_C.csv",
+    "source": "data/processed/model_C.csv",
+    "source_sha256": "14d479ba40d382e99c41bf326435b710acd6985be700e5b84e05e346563b93a6"
+  },
+  {
+    "output": "evidence/C_market_comparison_2025.csv",
+    "source": "outputs/forecast_C_validation/market/comparison_2025.csv",
+    "source_sha256": "0f90b12eed8ab6e5ef493ec78eb3f94ba794b7e0b6ab7c3ebd6ee28e6b72e717"
+  },
+  {
+    "output": "evidence/C_market_predictions_2025.csv",
+    "source": "outputs/forecast_C_validation/market/predictions_2025.csv",
+    "source_sha256": "4b0ccbbd13476a7fb812e50fec809094c15c908ac4ab4a1f3d674f4dceba5804"
+  },
+  {
+    "output": "evidence/C_market_prior_predictive.csv",
+    "source": "outputs/forecast_C_validation/market/prior_predictive.csv",
+    "source_sha256": "b9c4700adba54bd161bd6200fa0da0e5cb295add157d9c4ff7f9507a0299365d"
+  },
+  {
+    "output": "evidence/eda_A_market.csv",
+    "source": "data/processed/model_A_market.csv",
+    "source_sha256": "c179582a5e33bbd3b4a420014e7b9e8c2e3cad1eac9c4748fe9bba06493efd3d"
+  },
+  {
+    "output": "evidence/country_names.csv",
+    "source": "data/config/countries.csv",
+    "source_sha256": "750c37b4d4951db3f414858f5daff6d420c5d5be97c63f881af8289a0f0d5548"
+  },
+  {
+    "output": "figures/A_core_annual_notebook.png",
+    "source": "report_inputs/core_A.ipynb",
+    "cell_zero_based": 17,
+    "source_sha256": "3f07c6e125619ef8ed021208810ce6b91353af62797ab355989c75f736089fbd",
+    "method": "Original embedded PNG; no numerical digitization"
+  },
+  {
+    "output": "figures/B_core_annual_notebook.png",
+    "source": "report_inputs/core_B.ipynb",
+    "cell_zero_based": 15,
+    "source_sha256": "87c7975fa9463498522b6f255f9033ec1b361a7e609b22b7afd8f91c32649e38",
+    "method": "Original embedded PNG; no numerical digitization"
+  },
+  {
+    "output": "figures/C_core_annual_notebook.png",
+    "source": "report_inputs/core_C_latest.ipynb",
+    "cell_zero_based": 15,
+    "source_sha256": "4740673d62616eec93e77b83b55e5dc2047cedcbe073d778cd4b43b124548124",
+    "method": "Original embedded PNG; no numerical digitization"
+  },
+  {
+    "output": "evidence/A_core_comparison_2025.csv",
+    "source": "report_inputs/core_A.ipynb",
+    "cell_zero_based": 21,
+    "source_sha256": "3f07c6e125619ef8ed021208810ce6b91353af62797ab355989c75f736089fbd",
+    "precision": "Probabilities rounded to 0.1 percentage point in notebook HTML display"
+  },
+  {
+    "output": "evidence/B_core_comparison_2025.csv",
+    "source": "report_inputs/core_B.ipynb",
+    "cell_zero_based": 19,
+    "source_sha256": "87c7975fa9463498522b6f255f9033ec1b361a7e609b22b7afd8f91c32649e38",
+    "precision": "Probabilities rounded to 0.1 percentage point in notebook HTML display"
+  },
+  {
+    "output": "evidence/C_core_comparison_2025.csv",
+    "source": "report_inputs/core_C_latest.ipynb",
+    "cell_zero_based": 19,
+    "source_sha256": "4740673d62616eec93e77b83b55e5dc2047cedcbe073d778cd4b43b124548124",
+    "precision": "Probabilities rounded to 0.1 percentage point in notebook HTML display"
+  },
+  {
+    "source": "Untitled26 (1).ipynb",
+    "local_source": "report_inputs/data_overview.ipynb",
+    "library_file_id": "libfile_63490b0c7f688191abc2aa494faa43bf",
+    "source_sha256": "7f48a29a2e470709b47fb305473ae66f87fb65bd87505459530d467c0e16c5ed",
+    "cells_used_zero_based": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "method": "Descriptive calculations reimplemented in build_extended_assets.py from frozen processed tables"
+  }
+]

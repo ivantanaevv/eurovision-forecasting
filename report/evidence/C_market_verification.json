@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "fits": 18,
+  "max_rhat": 1.008206,
+  "min_bulk_ess": 425.618773,
+  "min_tail_ess": 306.387613,
+  "divergences": 0,
+  "holdout_train_end": 2024,
+  "national_votes_2025": 36,
+  "candidate_rows_2025": 911,
+  "country_catalog": 45
+}

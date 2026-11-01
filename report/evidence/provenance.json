@@ -1,0 +1,134 @@
+[
+  {
+    "output": "A_core_development.csv",
+    "source": "core_A.ipynb",
+    "cell_zero_based": 16,
+    "source_sha256": "3f07c6e125619ef8ed021208810ce6b91353af62797ab355989c75f736089fbd",
+    "precision": "4 decimal places as displayed"
+  },
+  {
+    "output": "A_core_holdout.csv",
+    "source": "core_A.ipynb",
+    "cell_zero_based": 21,
+    "source_sha256": "3f07c6e125619ef8ed021208810ce6b91353af62797ab355989c75f736089fbd",
+    "precision": "4 decimal places as displayed"
+  },
+  {
+    "output": "A_market_development.csv",
+    "source": "outputs/forecast_A_validation/market/development_summary.csv",
+    "source_sha256": "1df40669bdca22e6759976c7e3b62a841fc6bf09da67e89670e6b7eb888dbb52"
+  },
+  {
+    "output": "A_market_holdout.csv",
+    "source": "outputs/forecast_A_validation/market/metrics_2025.csv",
+    "source_sha256": "0c7eaa69bc422c830a8ddbc086a917cd65a2e5534eb24d0fa9a232ca6cd08a18"
+  },
+  {
+    "output": "A_market_years.csv",
+    "source": "outputs/forecast_A_validation/market/development_metrics_by_year.csv",
+    "source_sha256": "f82b3257aec9f7f6365a3014ad40edcb713f99f7c2b17fed09032f1a389ffb3b"
+  },
+  {
+    "output": "A_market_diagnostics.csv",
+    "source": "outputs/forecast_A_validation/market/diagnostics.csv",
+    "source_sha256": "c4121d3165f9b0988bbcfc06bf916e6b9246df35059a1a45c89a4f8e4de42f1a"
+  },
+  {
+    "output": "A_market_sensitivity.csv",
+    "source": "outputs/forecast_A_validation/market/prior_sensitivity_2024.csv",
+    "source_sha256": "652e808823d1e6698359f7a0a8a4eaf42ff0e56aed80a4d12fa17c8fb205e367"
+  },
+  {
+    "output": "A_market_calibration.csv",
+    "source": "outputs/forecast_A_validation/market/calibration.csv",
+    "source_sha256": "ffdf7636c56a50e5ab68e844b7cf7bda92eb2400ebde9b3ab8ba40dc637aa5a2"
+  },
+  {
+    "output": "B_core_development.csv",
+    "source": "core_B.ipynb",
+    "cell_zero_based": 14,
+    "source_sha256": "87c7975fa9463498522b6f255f9033ec1b361a7e609b22b7afd8f91c32649e38",
+    "precision": "4 decimal places as displayed"
+  },
+  {
+    "output": "B_core_holdout.csv",
+    "source": "core_B.ipynb",
+    "cell_zero_based": 19,
+    "source_sha256": "87c7975fa9463498522b6f255f9033ec1b361a7e609b22b7afd8f91c32649e38",
+    "precision": "4 decimal places as displayed"
+  },
+  {
+    "output": "B_market_development.csv",
+    "source": "outputs/forecast_B_validation/market/development_summary.csv",
+    "source_sha256": "5c506efe556d526dd330e1d70c26511c83396a922cf9a5090dd03c9bac1ecc6c"
+  },
+  {
+    "output": "B_market_holdout.csv",
+    "source": "outputs/forecast_B_validation/market/metrics_2025.csv",
+    "source_sha256": "3fe1167eb65e5560e738a128181dd4b3d09657c5934d0ab7cef01099129193bf"
+  },
+  {
+    "output": "B_market_years.csv",
+    "source": "outputs/forecast_B_validation/market/development_metrics_by_year.csv",
+    "source_sha256": "faa4179a8659706d22b6e2525c9c1621a9059c336c2b079c7fba60563347288e"
+  },
+  {
+    "output": "B_market_diagnostics.csv",
+    "source": "outputs/forecast_B_validation/market/diagnostics.csv",
+    "source_sha256": "4dbaeab2e33b6bfcbe06d01ba1fd5e73e9b4345d547fe0b97e9a7ba9c859fbe0"
+  },
+  {
+    "output": "B_market_sensitivity.csv",
+    "source": "outputs/forecast_B_validation/market/prior_sensitivity_2024.csv",
+    "source_sha256": "3ddfa7de1a4633ba8eb5b7b1e374fb8f71b37591bbcf262be670bdb38f3d4ae9"
+  },
+  {
+    "output": "B_market_calibration.csv",
+    "source": "outputs/forecast_B_validation/market/calibration.csv",
+    "source_sha256": "7845836134e838efdeceede08f17c5a33e2ada71d9736a64745fe0c73ac3041c"
+  },
+  {
+    "output": "C_core_development.csv",
+    "source": "core_C_complete.ipynb",
+    "cell_zero_based": 14,
+    "source_sha256": "4740673d62616eec93e77b83b55e5dc2047cedcbe073d778cd4b43b124548124",
+    "precision": "4 decimal places as displayed"
+  },
+  {
+    "output": "C_core_holdout.csv",
+    "source": "core_C_complete.ipynb",
+    "cell_zero_based": 19,
+    "source_sha256": "4740673d62616eec93e77b83b55e5dc2047cedcbe073d778cd4b43b124548124",
+    "precision": "4 decimal places as displayed"
+  },
+  {
+    "output": "C_market_development.csv",
+    "source": "outputs/forecast_C_validation/market/development_summary.csv",
+    "source_sha256": "2a42af6f1cc84e08f8895a1a36f66ec7f5ad48fff258a9058702eae0124377c0"
+  },
+  {
+    "output": "C_market_holdout.csv",
+    "source": "outputs/forecast_C_validation/market/metrics_2025.csv",
+    "source_sha256": "9008b1baef0e3f54ac598eb0a888b84937674c03c0d7d1a70e46b9240c27808e"
+  },
+  {
+    "output": "C_market_years.csv",
+    "source": "outputs/forecast_C_validation/market/development_metrics_by_year.csv",
+    "source_sha256": "d6b122940eddc85d2da4bf84b5841e562ab0fd3facead9f949330248be61504d"
+  },
+  {
+    "output": "C_market_diagnostics.csv",
+    "source": "outputs/forecast_C_validation/market/diagnostics.csv",
+    "source_sha256": "ed3cce97db3f82f12097155387cb285e6ddcd971e35da5f6bca3155732300a67"
+  },
+  {
+    "output": "C_market_sensitivity.csv",
+    "source": "outputs/forecast_C_validation/market/prior_sensitivity_2024.csv",
+    "source_sha256": "ede3f8e6fa2d9973e3554027654874f0012e863ec07b94c8ac2399da21dc9812"
+  },
+  {
+    "output": "C_market_calibration.csv",
+    "source": "outputs/forecast_C_validation/market/calibration.csv",
+    "source_sha256": "aa8e30598b5a16b565d1fc876b6d4c9b7ca91e2e2af23f991f3e70fe4380a557"
+  }
+]
