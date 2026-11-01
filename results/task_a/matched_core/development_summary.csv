@@ -1,0 +1,4 @@
+model,brier,binary_log_loss,ranking_log_loss,winner_log_loss
+M0,0.2266,0.6440,58.0457,2.9504
+M1,0.2388,0.6751,58.1356,3.0683
+M2,0.2382,0.6749,58.0973,3.0816

@@ -1,0 +1,43 @@
+{
+  "task": "B",
+  "experiment": "market",
+  "sheet": "B С рынком",
+  "features": [
+    "running_position",
+    "host",
+    "english_only",
+    "english_mixed",
+    "bpm",
+    "danceability",
+    "dynamic_complexity",
+    "log_word_count",
+    "repetitiveness",
+    "past_audience_advantage",
+    "past_split_count",
+    "market_strength"
+  ],
+  "target": "target_audience_above_jury",
+  "holdout": 2025,
+  "development_test_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "train_rule": "year < test_year",
+  "seed": 20261025,
+  "model_version": "B-country-probit-v1",
+  "country_sd": 1.0,
+  "beta_sd": 0.5,
+  "tau_sd": 0.5,
+  "chains": 4,
+  "warmup": 1000,
+  "samples": 1000,
+  "input_sha256": "98bc3703024eeaeee722e1c03ce456013969c3bc426c79643406e2ba264f362c",
+  "versions": {
+    "numpyro": "0.19.0",
+    "jax": "0.7.2",
+    "arviz": "0.22.0"
+  },
+  "market_snapshot_time": "unknown_accepted"
+}

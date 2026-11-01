@@ -1,0 +1,5 @@
+,comparison,metric,mean_difference,q025,q975,n_years
+0,M1 − M0,brier,0.0210,-0.0002,0.0385,4
+1,M2 − M1,brier,0.0036,-0.0068,0.0122,4
+2,M1 − M0,log_loss,0.0477,-0.0075,0.0958,4
+3,M2 − M1,log_loss,0.0123,-0.0087,0.0284,4

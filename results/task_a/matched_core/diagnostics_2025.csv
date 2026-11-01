@@ -1,0 +1,4 @@
+,model,train_end,rhat_max,ess_bulk_min,ess_tail_min,divergences,passed
+0,M0,2024,1.0053,8648.4931,2150.5194,0,True
+1,M1,2024,1.0048,3391.7714,2432.9384,0,True
+2,M2,2024,1.0055,664.2218,1164.2780,0,True
