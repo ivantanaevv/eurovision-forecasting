@@ -1,0 +1,44 @@
+{
+  "id": 13,
+  "country": "IL",
+  "artist": "Hovi Star",
+  "song": "Made of Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SS5TB2XUdgs",
+    "https://www.youtube-nocookie.com/embed/SpWKfcjXcp0",
+    "https://www.youtube-nocookie.com/embed/xU1WtfovOWk",
+    "https://www.youtube-nocookie.com/embed/E8KVkt4JNcs",
+    "https://www.youtube-nocookie.com/embed/5Vukp-kbrjY"
+  ],
+  "bpm": 140,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Hovav Sekulets (חובב סקולץ)"
+  ],
+  "backings": [
+    "Almog Kapach",
+    "Imri Ziv",
+    "Matan Agami"
+  ],
+  "dancers": [
+    "Amir Ner-Goan",
+    "Jennifer Cohen"
+  ],
+  "stageDirector": "Doron Medalie",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Doron Medalie"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": [
+    "Betty Pablo",
+    "Chaya Zel",
+    "Nathan Slor",
+    "Rhone Rabin",
+    "Tsach Zimroni"
+  ],
+  "spokesperson": "Ofer Nachshon"
+}

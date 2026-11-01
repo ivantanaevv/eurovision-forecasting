@@ -1,0 +1,44 @@
+{
+  "id": 22,
+  "country": "LT",
+  "artist": "Sasha Son",
+  "song": "Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ukSmGIp_xVk",
+    "https://www.youtube-nocookie.com/embed/QJrPfCs8ub0",
+    "https://www.youtube-nocookie.com/embed/Ctkw_95OwqQ",
+    "https://www.youtube-nocookie.com/embed/SZClZ8Z5TI0",
+    "https://www.youtube-nocookie.com/embed/8G1uPPmTx5A",
+    "https://www.youtube-nocookie.com/embed/uxUboko95vQ"
+  ],
+  "bpm": 103,
+  "tone": "A minor",
+  "artistPeople": [
+    "Dmitry Shavrov"
+  ],
+  "backings": [
+    "Baiba Skurstene",
+    "Nora Strolyte",
+    "Sam Hywel James"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sasha Son"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": [
+    "Edita Vilčiauskienė",
+    "Egmontas Bžeskas",
+    "Linas Adomaitis",
+    "Linas Rimša",
+    "Rūta Lukoševičiūtė"
+  ],
+  "spokesperson": "Ignas Krupavičius"
+}

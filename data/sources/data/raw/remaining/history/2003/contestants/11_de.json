@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "country": "DE",
+  "artist": "Lou",
+  "song": "Let's Get Happy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zK484ulgM50",
+    "https://www.youtube-nocookie.com/embed/2TuM525xE48"
+  ],
+  "bpm": 145,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Louise Hoffner"
+  ],
+  "backings": [
+    "Claudet De Moura-Bosch",
+    "Daniela Burghardt",
+    "Julian Feiffel",
+    "Mira Elben",
+    "Ron van Lankeren"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Axel Bulthaupt"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 6,
+  "country": "SE",
+  "artist": "Benjamin Ingrosso",
+  "song": "Dance You Off",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z101xtUBflU",
+    "https://www.youtube-nocookie.com/embed/U2UmYBkszOA",
+    "https://www.youtube-nocookie.com/embed/4lGDRmrQLTA",
+    "https://www.youtube-nocookie.com/embed/o9Hw0tyXtdU",
+    "https://www.youtube-nocookie.com/embed/jnhCboS98FU",
+    "https://www.youtube-nocookie.com/embed/I70hzgo7oaQ",
+    "https://www.youtube-nocookie.com/embed/cfVptFfb7Ac"
+  ],
+  "bpm": 109,
+  "tone": "C# major",
+  "artistPeople": [
+    "Benjamin Daniele Wahlgren Ingrosso"
+  ],
+  "backings": [
+    "Evelina Olsén",
+    "Greg Curtis jr.",
+    "Lars Säfsund",
+    "Maria Hazell",
+    "Stran Çetin"
+  ],
+  "dancers": null,
+  "stageDirector": "Dennis Bröchner, Zain Odelstål",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Benjamin Ingrosso",
+    "K Nita",
+    "Louis Schoorl",
+    "MAG"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Sanna Nielsen"
+  ],
+  "jury": [
+    "Arantxa Álvarez",
+    "Josefin Glenmark",
+    "K-One",
+    "Mariette",
+    "Robert Stefan Sehlberg"
+  ],
+  "spokesperson": "Felix Sandman"
+}

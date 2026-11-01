@@ -1,0 +1,50 @@
+{
+  "id": 22,
+  "country": "NL",
+  "artist": "Jeangu Macrooy",
+  "song": "Birth Of A New Age",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o3Da5cr2fTs",
+    "https://www.youtube-nocookie.com/embed/y6ZJbSAudxk",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/p4Fag4yajxk",
+    "https://www.youtube-nocookie.com/embed/osE3fnQ5LkA",
+    "https://www.youtube-nocookie.com/embed/Md6DAg2P1jc",
+    "https://www.youtube-nocookie.com/embed/1ABcmIAT_Ec"
+  ],
+  "bpm": 95,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Jeangu Macrooy"
+  ],
+  "backings": [
+    "Milaisa Breeveld",
+    "Xillan Macrooy"
+  ],
+  "dancers": [
+    "Gil Gomes Leal"
+  ],
+  "stageDirector": "Hans Pannecoucke",
+  "composers": [
+    "Jeangu Macrooy",
+    "Pieter Perquin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jeangu Macrooy"
+  ],
+  "writers": null,
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Sander Lantinga"
+  ],
+  "jury": [
+    "Brainpower",
+    "Giovanca",
+    "Jessica van Amerongen",
+    "Lakshmi",
+    "Leo Blokhuis"
+  ],
+  "spokesperson": "Romy Monteiro"
+}

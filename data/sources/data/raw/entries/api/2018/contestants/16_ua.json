@@ -1,0 +1,52 @@
+{
+  "id": 16,
+  "country": "UA",
+  "artist": "Mélovin",
+  "song": "Under The Ladder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lhOuMYtQ94M",
+    "https://www.youtube-nocookie.com/embed/cKM8c-9rGC0",
+    "https://www.youtube-nocookie.com/embed/DJ9ajcic9fI",
+    "https://www.youtube-nocookie.com/embed/XpQwJl-niqE",
+    "https://www.youtube-nocookie.com/embed/xAlyLy_CElE",
+    "https://www.youtube-nocookie.com/embed/1liNT4qbIVw",
+    "https://www.youtube-nocookie.com/embed/EOIEYXtXXmw"
+  ],
+  "bpm": 140,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Kostyantyn Mykolayovych Bocharov (Костянти́н Микола́йович Бочаро́в)"
+  ],
+  "backings": [
+    "Dasha Ptashnik",
+    "Denis Nadyozhin",
+    "Konstantin Sologub",
+    "Luiza Kazaryan"
+  ],
+  "dancers": null,
+  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
+  "composers": [
+    "Kostyantyn Mykolayovych Bocharov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mike Ryals"
+  ],
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Alyosha",
+    "Jamala",
+    "Mariya Yaremchuk",
+    "Serhiy Prytula",
+    "Timur Miroshnychenko"
+  ],
+  "jury": [
+    "Alloise",
+    "Artur Danielyan",
+    "Denys Zhupnyk",
+    "Khrystyna Soloviy",
+    "Vitaliy Klimov"
+  ],
+  "spokesperson": "Nata Zhyzhchenko"
+}

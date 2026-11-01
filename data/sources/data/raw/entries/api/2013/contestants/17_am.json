@@ -1,0 +1,39 @@
+{
+  "id": 17,
+  "country": "AM",
+  "artist": "Dorians",
+  "song": "Lonely Planet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UGOSZ7Uufno",
+    "https://www.youtube-nocookie.com/embed/pDUzd6DjgBw"
+  ],
+  "bpm": 162,
+  "tone": "F# major",
+  "artistPeople": [
+    "Arman Jalalyan",
+    "Arman Pahlevanyan",
+    "Edgar Sahakyan",
+    "Gagik Khodavirdi",
+    "Gor Sujyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tony Iommi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vardan Zadoyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "André",
+    "Anna Avanesyan",
+    "Arevik Udumyan",
+    "Erik Antaranyan"
+  ],
+  "jury": null,
+  "spokesperson": "André"
+}

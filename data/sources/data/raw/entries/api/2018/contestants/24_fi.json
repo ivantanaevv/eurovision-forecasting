@@ -1,0 +1,53 @@
+{
+  "id": 24,
+  "country": "FI",
+  "artist": "Saara Aalto",
+  "song": "Monsters",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hdjiuCUUpPc",
+    "https://www.youtube-nocookie.com/embed/syjrB5lVIQI",
+    "https://www.youtube-nocookie.com/embed/W3IyQI1wEwU",
+    "https://www.youtube-nocookie.com/embed/Gq4eTM7VePM",
+    "https://www.youtube-nocookie.com/embed/0vmt9nrWHYQ",
+    "https://www.youtube-nocookie.com/embed/anAYXsGi3XA",
+    "https://www.youtube-nocookie.com/embed/jSZ_gU112lM"
+  ],
+  "bpm": 122,
+  "tone": "G major",
+  "artistPeople": [
+    "Saara Sofia Aalto"
+  ],
+  "backings": [
+    "Heli Lyytikäinen",
+    "Teemu Roivainen",
+    "Tuuli Ikonen"
+  ],
+  "dancers": [
+    "Kane Horn",
+    "Yves Cueni"
+  ],
+  "stageDirector": "Brian Friedman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Joy Deb",
+    "Ki Fitzgerald",
+    "Linnea Deb",
+    "Saara Aalto"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Aija Puurtinen",
+    "Laura Marketta Vähähyyppä",
+    "Matias Veikko Olavi Keskiruokanen",
+    "Petri Laaksonen",
+    "Vilma Alina"
+  ],
+  "spokesperson": "Anna Abreu"
+}

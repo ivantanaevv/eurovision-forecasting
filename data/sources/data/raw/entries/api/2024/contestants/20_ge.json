@@ -1,0 +1,47 @@
+{
+  "id": 20,
+  "country": "GE",
+  "artist": "Nutsa Buzaladze",
+  "song": "Firefighter",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/He4PGhm7jOw",
+    "https://www.youtube-nocookie.com/embed/blMwY8Jabyk",
+    "https://www.youtube-nocookie.com/embed/9zrWufVsIeM",
+    "https://www.youtube-nocookie.com/embed/agrlHAeFSPo",
+    "https://www.youtube-nocookie.com/embed/Wo7Cd2WWSNI",
+    "https://www.youtube-nocookie.com/embed/up6MPflwbis",
+    "https://www.youtube-nocookie.com/embed/0mZvg0_7KhU"
+  ],
+  "bpm": 115,
+  "tone": "E minor",
+  "artistPeople": [
+    "Nutsa Buzaladze"
+  ],
+  "backings": null,
+  "dancers": [
+    "Andrea Marici",
+    "Daniele Nocchi",
+    "Dante Jonathan Gerlo",
+    "Nicolas de Souza"
+  ],
+  "stageDirector": "Sagiv Karpel",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ada Satka",
+    "Darko Dimitrov"
+  ],
+  "broadcaster": "GPB",
+  "commentators": [
+    "Nika Lobiladze"
+  ],
+  "jury": [
+    "Arhil Nizharadze",
+    "Merab Nutsubidze",
+    "Merab Sanodze",
+    "Nino Badurashvili",
+    "Tinatin Jamburia"
+  ],
+  "spokesperson": "Sopho Khalvashi"
+}

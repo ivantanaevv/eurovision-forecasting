@@ -1,0 +1,43 @@
+{
+  "id": 24,
+  "country": "GB",
+  "artist": "Josh",
+  "song": "That Sounds Good To Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fR7l2xC4cOY",
+    "https://www.youtube-nocookie.com/embed/InTgD_9DB3I",
+    "https://www.youtube-nocookie.com/embed/b8363R9XbGY",
+    "https://www.youtube-nocookie.com/embed/wlUGdYXB5T8"
+  ],
+  "bpm": 126,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Josh Dubovie"
+  ],
+  "backings": [
+    "Joanna Breheny",
+    "Kirsten Joy",
+    "Suzanne Carley"
+  ],
+  "dancers": [
+    "Ciarán Connolly",
+    "Filippo Calvagno"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mike Stock",
+    "Pete Waterman",
+    "Steve Crosby"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Paddy O'Connell",
+    "Sarah Cawood"
+  ],
+  "jury": null,
+  "spokesperson": "Scott Mills"
+}

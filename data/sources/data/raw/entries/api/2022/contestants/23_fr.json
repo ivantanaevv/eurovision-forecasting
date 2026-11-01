@@ -1,0 +1,49 @@
+{
+  "id": 23,
+  "country": "FR",
+  "artist": "Alvan & Ahez",
+  "song": "Fulenn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H1lcGXwOqJI",
+    "https://www.youtube-nocookie.com/embed/pe29d9luZOc",
+    "https://www.youtube-nocookie.com/embed/CO07xLUlK2g",
+    "https://www.youtube-nocookie.com/embed/AD7Xx6Vc1GM",
+    "https://www.youtube-nocookie.com/embed/qAmZVnPXZN8",
+    "https://www.youtube-nocookie.com/embed/IJEN9TBVV_s",
+    "https://www.youtube-nocookie.com/embed/LjflTL_RdHw"
+  ],
+  "bpm": 120,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Alexis Morvan-Rosius",
+    "Marine Lavigne",
+    "Sterenn Diridollou",
+    "Sterenn Le Guillou"
+  ],
+  "backings": null,
+  "dancers": [
+    "Soleïla Chaou"
+  ],
+  "stageDirector": "Marika Prochet",
+  "composers": [
+    "Alexis Morvan-Rosius"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Marine Lavigne"
+  ],
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Laurence Boccolini",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Fabienne Moszer",
+    "Jean-Philippe Lemonnier",
+    "Maeva Raharisoa",
+    "Moe",
+    "Xavier Bonnetain"
+  ],
+  "spokesperson": "Élodie Gossuin"
+}

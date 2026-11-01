@@ -1,0 +1,51 @@
+{
+  "id": 0,
+  "country": "UA",
+  "artist": "Kalush Orchestra",
+  "song": "Stefania",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/F1fl60ypdLs",
+    "https://www.youtube-nocookie.com/embed/obZi8fbESWw",
+    "https://www.youtube-nocookie.com/embed/jfm8hVNZt8g",
+    "https://www.youtube-nocookie.com/embed/foqgjD_SNss",
+    "https://www.youtube-nocookie.com/embed/Z8Z51no1TD0",
+    "https://www.youtube-nocookie.com/embed/SQfZbvGsW_g",
+    "https://www.youtube-nocookie.com/embed/UoOTQZ53AB8"
+  ],
+  "bpm": 105,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ihor Didenchuk",
+    "Psyuchyy Syn",
+    "Sasha Tab",
+    "Tymofii Muzychuk",
+    "Vitalii Duzhyk",
+    "KilimMen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Oleksii Zhembrovskyi",
+  "composers": [
+    "Ihor Didenchuk",
+    "Tymofii Muzychuk",
+    "Vitalii Duzhyk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ivan Klymenko",
+    "Oleh Psiuk"
+  ],
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": [
+    "Andriy Kapral",
+    "Andriy Yatskiv",
+    "Iryna Fedyshyn",
+    "Lukian Halkin",
+    "Vadym Lysycia"
+  ],
+  "spokesperson": "Kateryna Pavlenko"
+}

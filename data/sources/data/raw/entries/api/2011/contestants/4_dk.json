@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "DK",
+  "artist": "A Friend In London",
+  "song": "New Tomorrow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YDXeK0r3aKs",
+    "https://www.youtube-nocookie.com/embed/CP_Tczl7YQ8",
+    "https://www.youtube-nocookie.com/embed/BKbAjqAFgHE",
+    "https://www.youtube-nocookie.com/embed/_mUNDMpSNCQ"
+  ],
+  "bpm": 147,
+  "tone": "G major",
+  "artistPeople": [
+    "Tim Schou"
+  ],
+  "backings": [
+    "Aske Damm Bramming",
+    "Esben Svane",
+    "Sebastian Vinther Olsen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jakob Glæsner",
+    "Lise Cabble"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": null,
+  "spokesperson": "Lise Rønne"
+}

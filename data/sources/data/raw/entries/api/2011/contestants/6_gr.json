@@ -1,0 +1,39 @@
+{
+  "id": 6,
+  "country": "GR",
+  "artist": "Loucas Yiorkas feat. Stereo Mike",
+  "song": "Watch My Dance",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FdZzklXoAOg",
+    "https://www.youtube-nocookie.com/embed/oPQafht2J5g",
+    "https://www.youtube-nocookie.com/embed/jtaD4Ayt0kg",
+    "https://www.youtube-nocookie.com/embed/WvtUdbrJONs"
+  ],
+  "bpm": 134,
+  "tone": "A major",
+  "artistPeople": [
+    "Loukas Giorkas",
+    "Mihalis Exarhos"
+  ],
+  "backings": null,
+  "dancers": [
+    "Giannis Saikin",
+    "Manos Davarias",
+    "Michalis Spiridis",
+    "Pavlos Manogiannakis"
+  ],
+  "stageDirector": "Konstantinos Rigos",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eleana Vrahali",
+    "Giannis Christodoulopoulos"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Maria Kozakou"
+  ],
+  "jury": null,
+  "spokesperson": "Lena Aroni"
+}

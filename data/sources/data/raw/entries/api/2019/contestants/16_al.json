@@ -1,0 +1,45 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Jonida Maliqi",
+  "song": "Ktheju tokës",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-NAbYUoxIfg",
+    "https://www.youtube-nocookie.com/embed/eo4aFzAkQkA",
+    "https://www.youtube-nocookie.com/embed/OQFbA7yfzjo",
+    "https://www.youtube-nocookie.com/embed/-vZDCw9Pedw",
+    "https://www.youtube-nocookie.com/embed/eGH20RCBUyI",
+    "https://www.youtube-nocookie.com/embed/P0lToVjUzDM",
+    "https://www.youtube-nocookie.com/embed/BIIORUGI2xY"
+  ],
+  "bpm": 117,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Jonida Maliqi"
+  ],
+  "backings": [
+    "Artemisa Mithi",
+    "Tiri Gjoci",
+    "Wendi Mancaku"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eriona Rushiti"
+  ],
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Dilan Reka",
+    "Eranda Libohova",
+    "Gent Rushi",
+    "Julka Gramo",
+    "Vikena Kamenica"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

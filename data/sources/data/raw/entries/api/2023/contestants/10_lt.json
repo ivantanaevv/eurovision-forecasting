@@ -1,0 +1,47 @@
+{
+  "id": 10,
+  "country": "LT",
+  "artist": "Monika Linkytė",
+  "song": "Stay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QsgouAEd34U",
+    "https://www.youtube-nocookie.com/embed/g6dUTkgN8K0",
+    "https://www.youtube-nocookie.com/embed/68lbEUDuWUQ",
+    "https://www.youtube-nocookie.com/embed/oKXHCf33ELQ",
+    "https://www.youtube-nocookie.com/embed/_gjsEb4YSy0",
+    "https://www.youtube-nocookie.com/embed/joZphGV7zPQ",
+    "https://www.youtube-nocookie.com/embed/BzzqTR8CGTM"
+  ],
+  "bpm": 98,
+  "tone": "B major",
+  "artistPeople": [
+    "Monika Linkytė"
+  ],
+  "backings": [
+    "Charleen Afolabi",
+    "Deborah Osibidu",
+    "Nicola Lambrianos",
+    "Yvonne Garshong"
+  ],
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Krists Indrišonoks",
+    "Monika Linkytė"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Ramūnas Zilnys"
+  ],
+  "jury": [
+    "Eglė Juozapaitienė",
+    "Jonas Nainys",
+    "Julijus Grickevičius",
+    "Nombeko Augustė",
+    "Vaidotas Valiukevičius"
+  ],
+  "spokesperson": "Monika Liu"
+}

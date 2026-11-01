@@ -1,0 +1,45 @@
+{
+  "id": 13,
+  "country": "PL",
+  "artist": "Donatan & Cleo",
+  "song": "My Słowianie - We Are Slavic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VJ920cN2HmA",
+    "https://www.youtube-nocookie.com/embed/q8J3GAg5zaI",
+    "https://www.youtube-nocookie.com/embed/BQp7z8yYZUI"
+  ],
+  "bpm": 156,
+  "tone": "A minor",
+  "artistPeople": [
+    "Joanna Klepko"
+  ],
+  "backings": [
+    "Alesia Turonak",
+    "Anna Łapińska",
+    "Sylwia Klan"
+  ],
+  "dancers": [
+    "Ola Ciupa",
+    "Paula Tomala"
+  ],
+  "stageDirector": "Mikołaj Dobrowolski",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Cleo",
+    "Donatan"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Dorota Szpetkowska",
+    "Krzysztof Kasowski",
+    "Magdalena Tul",
+    "Mietek Szcześniak",
+    "Paweł Sztompke"
+  ],
+  "spokesperson": "Paulina Chylewska"
+}

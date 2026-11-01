@@ -1,0 +1,1610 @@
+[
+  {
+    "file": "geography/ne_10m_admin_0_boundary_lines_land.geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_boundary_lines_land.geojson",
+    "resolved_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_boundary_lines_land.geojson",
+    "bytes": 2284669,
+    "sha256": "74d9c16229c095fde65943a9919e337682f044bcebccb120764f38edf3b70f4a",
+    "retrieved_utc": "2026-10-24T17:22:15.880566+00:00"
+  },
+  {
+    "file": "geography/ne_10m_populated_places.geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_populated_places.geojson",
+    "resolved_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_populated_places.geojson",
+    "bytes": 19359003,
+    "sha256": "9b8e3de09048ef00dfc70357dbb9fa324493f214b5e0ae4daf1aa79a8d10116b",
+    "retrieved_utc": "2026-10-24T17:22:18.836300+00:00"
+  },
+  {
+    "file": "history/2003/contestants/0_tr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/0_tr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/0_tr/contestant.json",
+    "bytes": 921,
+    "sha256": "f3b112eb77574dc86ad4036211e92eaa211c2bdc7a87cc4841f937b310e65776",
+    "retrieved_utc": "2026-10-24T17:22:04.546957+00:00"
+  },
+  {
+    "file": "history/2003/contestants/10_ie.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/10_ie/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/10_ie/contestant.json",
+    "bytes": 708,
+    "sha256": "8c9025bc0b575f6efe3a4a1fdf1095ddd3731ec35b4abb1e969530e4bb0baf90",
+    "retrieved_utc": "2026-10-24T17:22:04.550147+00:00"
+  },
+  {
+    "file": "history/2003/contestants/11_de.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/11_de/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/11_de/contestant.json",
+    "bytes": 727,
+    "sha256": "0a8c3063532cb93b19a6b205343436a87a864cd8ccda748a2dc9230d03f78529",
+    "retrieved_utc": "2026-10-24T17:22:04.551369+00:00"
+  },
+  {
+    "file": "history/2003/contestants/12_nl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/12_nl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/12_nl/contestant.json",
+    "bytes": 714,
+    "sha256": "62df433a4f09b1a40c6908fa71130c36dfc6257cdc9ab3c3de4361e82dcec202",
+    "retrieved_utc": "2026-10-24T17:22:04.900195+00:00"
+  },
+  {
+    "file": "history/2003/contestants/13_ua.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/13_ua/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/13_ua/contestant.json",
+    "bytes": 656,
+    "sha256": "9c1a93aef3da1e3b89b3958f4334d19e258d153264a1f7caf27c3fa490039be7",
+    "retrieved_utc": "2026-10-24T17:22:04.935934+00:00"
+  },
+  {
+    "file": "history/2003/contestants/14_hr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/14_hr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/14_hr/contestant.json",
+    "bytes": 767,
+    "sha256": "e2117342e460425bcc5eb609b56c00d8408a971c79b293d9c6eab8868c122a5f",
+    "retrieved_utc": "2026-10-24T17:22:04.922092+00:00"
+  },
+  {
+    "file": "history/2003/contestants/15_ba.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/15_ba/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/15_ba/contestant.json",
+    "bytes": 753,
+    "sha256": "3b915903c1095e27d0d12587abc2f4537daa843f07e762e60b3770ec95ce3142",
+    "retrieved_utc": "2026-10-24T17:22:04.937918+00:00"
+  },
+  {
+    "file": "history/2003/contestants/16_gr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/16_gr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/16_gr/contestant.json",
+    "bytes": 818,
+    "sha256": "6ef4ee2fd96733f6f3ff20af69de1685103f73441c4c23cbba2546583f636a80",
+    "retrieved_utc": "2026-10-24T17:22:04.914762+00:00"
+  },
+  {
+    "file": "history/2003/contestants/17_fr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/17_fr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/17_fr/contestant.json",
+    "bytes": 583,
+    "sha256": "9b04cbc17a3928612518b42381e28e0bd751c0bf52c14b5dbc103b6c2432e211",
+    "retrieved_utc": "2026-10-24T17:22:04.956114+00:00"
+  },
+  {
+    "file": "history/2003/contestants/18_il.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/18_il/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/18_il/contestant.json",
+    "bytes": 682,
+    "sha256": "f673d4d9db27fa73e83b7475c582c8f45797a5b60484f1f12fc038f783927178",
+    "retrieved_utc": "2026-10-24T17:22:04.943805+00:00"
+  },
+  {
+    "file": "history/2003/contestants/19_cy.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/19_cy/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/19_cy/contestant.json",
+    "bytes": 638,
+    "sha256": "0be10d942e55d9f612b32bb8e4f0c3c2dc4b0542ef64da43c4b6558818955ce4",
+    "retrieved_utc": "2026-10-24T17:22:04.932386+00:00"
+  },
+  {
+    "file": "history/2003/contestants/1_be.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/1_be/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/1_be/contestant.json",
+    "bytes": 737,
+    "sha256": "2096904508d1f1750725546df9b826017d2fe24fea06b9e46efc78ae9473aa39",
+    "retrieved_utc": "2026-10-24T17:22:05.273483+00:00"
+  },
+  {
+    "file": "history/2003/contestants/20_ee.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/20_ee/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/20_ee/contestant.json",
+    "bytes": 713,
+    "sha256": "097c4d2fe246a2d894ef2d441a204697f0dd1e0900e7cec95270a1709bb0badb",
+    "retrieved_utc": "2026-10-24T17:22:05.280489+00:00"
+  },
+  {
+    "file": "history/2003/contestants/21_pt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/21_pt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/21_pt/contestant.json",
+    "bytes": 635,
+    "sha256": "3be4e6e32a55bdbb5d84055238d6f724426fce4e6f2ba65027fef2abe83ef2d7",
+    "retrieved_utc": "2026-10-24T17:22:05.269413+00:00"
+  },
+  {
+    "file": "history/2003/contestants/22_si.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/22_si/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/22_si/contestant.json",
+    "bytes": 717,
+    "sha256": "dcb640023db1a55399720dbbeb9f97529560ab0dfd3757babf70820241c31eb2",
+    "retrieved_utc": "2026-10-24T17:22:05.324903+00:00"
+  },
+  {
+    "file": "history/2003/contestants/23_lv.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/23_lv/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/23_lv/contestant.json",
+    "bytes": 722,
+    "sha256": "e34621b6e0b0fb5d8120b73e6d79f4741c84f53d5637b4fad11b738419f8c229",
+    "retrieved_utc": "2026-10-24T17:22:05.273258+00:00"
+  },
+  {
+    "file": "history/2003/contestants/24_mt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/24_mt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/24_mt/contestant.json",
+    "bytes": 778,
+    "sha256": "e4aa7ad108eabab2c0e6c8170097ecacb79375bf0092b49d6c7c06ae5de2bca6",
+    "retrieved_utc": "2026-10-24T17:22:05.325602+00:00"
+  },
+  {
+    "file": "history/2003/contestants/25_gb.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/25_gb/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/25_gb/contestant.json",
+    "bytes": 661,
+    "sha256": "cc2cbadaf7be8b4745bd50f0a5082d715b899f636f304a0c5bb235fd5e2b8292",
+    "retrieved_utc": "2026-10-24T17:22:05.329106+00:00"
+  },
+  {
+    "file": "history/2003/contestants/2_ru.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/2_ru/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/2_ru/contestant.json",
+    "bytes": 733,
+    "sha256": "24d3a377d107a6c94bdd041425fdc699046411a0165d80160bfbdabc61061da6",
+    "retrieved_utc": "2026-10-24T17:22:05.326852+00:00"
+  },
+  {
+    "file": "history/2003/contestants/3_no.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/3_no/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/3_no/contestant.json",
+    "bytes": 738,
+    "sha256": "d08346cc4f8780695f720ff7edc54cfd570689ed3a59767ac81241591ac4f202",
+    "retrieved_utc": "2026-10-24T17:22:05.620886+00:00"
+  },
+  {
+    "file": "history/2003/contestants/4_se.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/4_se/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/4_se/contestant.json",
+    "bytes": 725,
+    "sha256": "2400dfc3bf5098e1425897654662d7b32fc8d8fb87e5c50a931732517eb5c5a5",
+    "retrieved_utc": "2026-10-24T17:22:05.663651+00:00"
+  },
+  {
+    "file": "history/2003/contestants/5_at.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/5_at/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/5_at/contestant.json",
+    "bytes": 629,
+    "sha256": "58e3d50a475288cef4eb7f7388df1d14c1669a4b3a5585da825c8b78aee1d8c1",
+    "retrieved_utc": "2026-10-24T17:22:05.625309+00:00"
+  },
+  {
+    "file": "history/2003/contestants/6_pl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/6_pl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/6_pl/contestant.json",
+    "bytes": 811,
+    "sha256": "c2e9295d4b0bd5dc81fc8d7dc5b1b088cb023a4dfee629f10f727ac3f13c29dd",
+    "retrieved_utc": "2026-10-24T17:22:05.643968+00:00"
+  },
+  {
+    "file": "history/2003/contestants/7_is.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/7_is/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/7_is/contestant.json",
+    "bytes": 841,
+    "sha256": "1da6c19fa88a23a1d21b54fc8ae9fd469b33929c7499a46da9b209d6ea556498",
+    "retrieved_utc": "2026-10-24T17:22:05.669025+00:00"
+  },
+  {
+    "file": "history/2003/contestants/8_es.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/8_es/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/8_es/contestant.json",
+    "bytes": 794,
+    "sha256": "a082cce3a5af4e2e344ec634cf68f082e264bf7d67b4524d75d056e50c43b832",
+    "retrieved_utc": "2026-10-24T17:22:05.702765+00:00"
+  },
+  {
+    "file": "history/2003/contestants/9_ro.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/9_ro/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/contestants/9_ro/contestant.json",
+    "bytes": 591,
+    "sha256": "00fd6d0c43e56e3b2b1bfc6bb5ed2f5fffb099200d809bcf636261cc01f75736",
+    "retrieved_utc": "2026-10-24T17:22:05.676112+00:00"
+  },
+  {
+    "file": "history/2003/final.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/rounds/final.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2003/rounds/final.json",
+    "bytes": 19181,
+    "sha256": "e710d53c9e6f57b5bc3a0049e8bc7f12d1641dac39fc437d892f4251012c6d1d",
+    "retrieved_utc": "2026-10-24T17:22:04.546663+00:00"
+  },
+  {
+    "file": "history/2004/contestants/0_ua.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/0_ua/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/0_ua/contestant.json",
+    "bytes": 986,
+    "sha256": "6f8aee4465184a2e359e497d6b86d41778aedb2285bac3a1c4bf96513af775d4",
+    "retrieved_utc": "2026-10-24T17:22:05.729154+00:00"
+  },
+  {
+    "file": "history/2004/contestants/10_ru.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/10_ru/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/10_ru/contestant.json",
+    "bytes": 659,
+    "sha256": "668f05a955ea6fb55f50ec98061247639287435e9709fa52674622fbb8827360",
+    "retrieved_utc": "2026-10-24T17:22:05.996418+00:00"
+  },
+  {
+    "file": "history/2004/contestants/11_mt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/11_mt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/11_mt/contestant.json",
+    "bytes": 803,
+    "sha256": "0c6298276855b8d1a6a466299e62ee63fc40c90968eb72a7d42f145bc5458714",
+    "retrieved_utc": "2026-10-24T17:22:05.974396+00:00"
+  },
+  {
+    "file": "history/2004/contestants/12_hr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/12_hr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/12_hr/contestant.json",
+    "bytes": 978,
+    "sha256": "433043cb24dd30adece35a5b97125901992792001816464a805f9a309ba0404e",
+    "retrieved_utc": "2026-10-24T17:22:05.994922+00:00"
+  },
+  {
+    "file": "history/2004/contestants/13_mk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/13_mk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/13_mk/contestant.json",
+    "bytes": 755,
+    "sha256": "36dc8db4999635320932c5d8eab739d01059875bf3aa969feda36942031a4aa9",
+    "retrieved_utc": "2026-10-24T17:22:06.002662+00:00"
+  },
+  {
+    "file": "history/2004/contestants/14_fr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/14_fr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/14_fr/contestant.json",
+    "bytes": 628,
+    "sha256": "e71baf67ea2ea10e5736751d5a714f14202f5321050f30bef4d802de9c87dd05",
+    "retrieved_utc": "2026-10-24T17:22:06.100171+00:00"
+  },
+  {
+    "file": "history/2004/contestants/15_gb.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/15_gb/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/15_gb/contestant.json",
+    "bytes": 634,
+    "sha256": "7acd55ea99ddddf33536ba8fdfb0e788b0b45a2b7dc4d016d2d9264c153155ab",
+    "retrieved_utc": "2026-10-24T17:22:06.029952+00:00"
+  },
+  {
+    "file": "history/2004/contestants/16_pl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/16_pl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/16_pl/contestant.json",
+    "bytes": 720,
+    "sha256": "7e0d672d5f474d4258cff2dd17190fcda101a1db432d765755ea9b3fbe7387b8",
+    "retrieved_utc": "2026-10-24T17:22:06.050709+00:00"
+  },
+  {
+    "file": "history/2004/contestants/17_ro.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/17_ro/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/17_ro/contestant.json",
+    "bytes": 550,
+    "sha256": "a4859ef945065b7224418104c6e1695c9d60a303fb46aecc99c6839cdc46ce81",
+    "retrieved_utc": "2026-10-24T17:22:06.127972+00:00"
+  },
+  {
+    "file": "history/2004/contestants/18_is.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/18_is/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/18_is/contestant.json",
+    "bytes": 610,
+    "sha256": "673f9b55b9a0338479c6fc58a1b105a787d433556b772291506406c8009b8abf",
+    "retrieved_utc": "2026-10-24T17:22:06.343079+00:00"
+  },
+  {
+    "file": "history/2004/contestants/19_nl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/19_nl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/19_nl/contestant.json",
+    "bytes": 856,
+    "sha256": "d8bc1ed3ed382ee625132053619ec4ad25743b130db865b1cf6ad49ea3bd3166",
+    "retrieved_utc": "2026-10-24T17:22:06.346684+00:00"
+  },
+  {
+    "file": "history/2004/contestants/1_cs.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/1_cs/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/1_cs/contestant.json",
+    "bytes": 997,
+    "sha256": "c9df83008b7766b851609e9475e3c7e83e1498d8f81d8d4fb2c7e38f97eb26c8",
+    "retrieved_utc": "2026-10-24T17:22:06.330423+00:00"
+  },
+  {
+    "file": "history/2004/contestants/20_at.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/20_at/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/20_at/contestant.json",
+    "bytes": 635,
+    "sha256": "31f8ff16ad5a949b0150556746dda9371e0844bd7e52b92854b887191c6446a3",
+    "retrieved_utc": "2026-10-24T17:22:06.368389+00:00"
+  },
+  {
+    "file": "history/2004/contestants/21_be.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/21_be/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/21_be/contestant.json",
+    "bytes": 744,
+    "sha256": "e21d9d311a6618025af671fbeee816680659fba77763a10daf426470234963de",
+    "retrieved_utc": "2026-10-24T17:22:06.402076+00:00"
+  },
+  {
+    "file": "history/2004/contestants/22_ie.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/22_ie/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/22_ie/contestant.json",
+    "bytes": 627,
+    "sha256": "0f22d15dc2113386faa3db016cec408906ce17a9945218ddc6111f7bf0ed5e91",
+    "retrieved_utc": "2026-10-24T17:22:06.429844+00:00"
+  },
+  {
+    "file": "history/2004/contestants/23_no.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/23_no/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/23_no/contestant.json",
+    "bytes": 753,
+    "sha256": "7281b6cf59e63d5cef2e8bc7b247366cd90e35dfe1d02f3549f06e0721f8f8f0",
+    "retrieved_utc": "2026-10-24T17:22:06.470994+00:00"
+  },
+  {
+    "file": "history/2004/contestants/24_ee.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/24_ee/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/24_ee/contestant.json",
+    "bytes": 834,
+    "sha256": "11b254acfd6b666977ffb6cf564f32ee7bb8b2f4927d4fd08efb1a9f3c08d4b1",
+    "retrieved_utc": "2026-10-24T17:22:06.754835+00:00"
+  },
+  {
+    "file": "history/2004/contestants/25_il.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/25_il/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/25_il/contestant.json",
+    "bytes": 819,
+    "sha256": "f17cacea56c47869488a66162aba34ca437093cd08c2038e1237f5924fca14b7",
+    "retrieved_utc": "2026-10-24T17:22:06.688078+00:00"
+  },
+  {
+    "file": "history/2004/contestants/26_dk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/26_dk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/26_dk/contestant.json",
+    "bytes": 723,
+    "sha256": "d2d0703b427a8df3703d7a511da3114c8e3aad41407b2258ab434c978f1439cd",
+    "retrieved_utc": "2026-10-24T17:22:06.700348+00:00"
+  },
+  {
+    "file": "history/2004/contestants/27_fi.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/27_fi/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/27_fi/contestant.json",
+    "bytes": 823,
+    "sha256": "1ca009dbbb493160261ed3d77d2039c0394a08f78688fe18d124107f4fe2c392",
+    "retrieved_utc": "2026-10-24T17:22:06.716496+00:00"
+  },
+  {
+    "file": "history/2004/contestants/28_pt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/28_pt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/28_pt/contestant.json",
+    "bytes": 700,
+    "sha256": "acb8ee8541144afb56c722ad20657b6534cce7b108700fa70891a86c6d99dd12",
+    "retrieved_utc": "2026-10-24T17:22:06.735472+00:00"
+  },
+  {
+    "file": "history/2004/contestants/29_lt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/29_lt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/29_lt/contestant.json",
+    "bytes": 754,
+    "sha256": "dc2fd487aee8b5fbcefed14ea28f1ef52bb75e754f0fb08ca0907f9ba921dd31",
+    "retrieved_utc": "2026-10-24T17:22:06.850890+00:00"
+  },
+  {
+    "file": "history/2004/contestants/2_gr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/2_gr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/2_gr/contestant.json",
+    "bytes": 807,
+    "sha256": "6105acea659d001bfae1173c9353aab003ad5d4601ecd90b051777fce1b9b642",
+    "retrieved_utc": "2026-10-24T17:22:06.797644+00:00"
+  },
+  {
+    "file": "history/2004/contestants/30_lv.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/30_lv/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/30_lv/contestant.json",
+    "bytes": 792,
+    "sha256": "3fb73f779399242bdd14d863e2798de3b1e01a95c24730a10c0ce7a7be982370",
+    "retrieved_utc": "2026-10-24T17:22:06.851030+00:00"
+  },
+  {
+    "file": "history/2004/contestants/31_ad.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/31_ad/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/31_ad/contestant.json",
+    "bytes": 747,
+    "sha256": "2ad17b3194ea1c711b1f35f415b3dc4d13c919d5382ba062c79e73af915afca0",
+    "retrieved_utc": "2026-10-24T17:22:07.058470+00:00"
+  },
+  {
+    "file": "history/2004/contestants/32_by.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/32_by/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/32_by/contestant.json",
+    "bytes": 710,
+    "sha256": "3e27fb8684fbc06ec4395bc544dabb6b62e0e940cb5bf1427b4cee70eb56a2ea",
+    "retrieved_utc": "2026-10-24T17:22:07.104430+00:00"
+  },
+  {
+    "file": "history/2004/contestants/33_mc.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/33_mc/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/33_mc/contestant.json",
+    "bytes": 579,
+    "sha256": "39b34209376af609df6b9ed754bce13d8df83059af8fa5e41ad9bfff09daa8e8",
+    "retrieved_utc": "2026-10-24T17:22:07.107914+00:00"
+  },
+  {
+    "file": "history/2004/contestants/34_si.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/34_si/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/34_si/contestant.json",
+    "bytes": 685,
+    "sha256": "bf3f597e42320fb3cef9194f343d15d5dfec69a6d0c5e7912676900a0a46e146",
+    "retrieved_utc": "2026-10-24T17:22:07.118138+00:00"
+  },
+  {
+    "file": "history/2004/contestants/35_ch.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/35_ch/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/35_ch/contestant.json",
+    "bytes": 790,
+    "sha256": "2c5caa444ef0addd1dd0a87ec7422f31f93dff93c1d2788fed24b14093280b55",
+    "retrieved_utc": "2026-10-24T17:22:07.153329+00:00"
+  },
+  {
+    "file": "history/2004/contestants/3_tr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/3_tr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/3_tr/contestant.json",
+    "bytes": 820,
+    "sha256": "5bb5062754b0509a23c97e7c146240fb30d1b5007efd20f75f101b545a927e9d",
+    "retrieved_utc": "2026-10-24T17:22:07.186600+00:00"
+  },
+  {
+    "file": "history/2004/contestants/4_cy.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/4_cy/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/4_cy/contestant.json",
+    "bytes": 719,
+    "sha256": "bbeb005d98f2fe3df931dc6f50df6fe7419daf1565f01651dad9ff0328999f57",
+    "retrieved_utc": "2026-10-24T17:22:07.224702+00:00"
+  },
+  {
+    "file": "history/2004/contestants/5_se.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/5_se/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/5_se/contestant.json",
+    "bytes": 837,
+    "sha256": "3ce88a4a959312fff93f1c62ae511ebeba1e53a702312682e9d88fc7fd5a99f1",
+    "retrieved_utc": "2026-10-24T17:22:07.227678+00:00"
+  },
+  {
+    "file": "history/2004/contestants/6_al.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/6_al/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/6_al/contestant.json",
+    "bytes": 936,
+    "sha256": "f3ebe313635917b231141a644518416541bbad8feae24567c78e69723b3a977c",
+    "retrieved_utc": "2026-10-24T17:22:07.420108+00:00"
+  },
+  {
+    "file": "history/2004/contestants/7_de.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/7_de/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/7_de/contestant.json",
+    "bytes": 775,
+    "sha256": "f90356968c757584a8fcb374a2f26ff918e795200f08671fc841e73f7afd3649",
+    "retrieved_utc": "2026-10-24T17:22:07.502226+00:00"
+  },
+  {
+    "file": "history/2004/contestants/8_ba.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/8_ba/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/8_ba/contestant.json",
+    "bytes": 707,
+    "sha256": "448ac8232aafa43662865f4a0aca0efe552f4983c089a6347bda9ae2e3cf77bc",
+    "retrieved_utc": "2026-10-24T17:22:07.493962+00:00"
+  },
+  {
+    "file": "history/2004/contestants/9_es.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/9_es/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/contestants/9_es/contestant.json",
+    "bytes": 725,
+    "sha256": "f8bb6363832b9462528f8f1da06f0ae4565b5345ac4db2a1b9e0f61ec7f6f4a8",
+    "retrieved_utc": "2026-10-24T17:22:07.487223+00:00"
+  },
+  {
+    "file": "history/2004/final.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/rounds/final.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2004/rounds/final.json",
+    "bytes": 22776,
+    "sha256": "8f70312b610555f15862981ed9a3b304fc82cf35e2747c0f991c9d6814034999",
+    "retrieved_utc": "2026-10-24T17:22:04.570610+00:00"
+  },
+  {
+    "file": "history/2005/contestants/0_gr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/0_gr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/0_gr/contestant.json",
+    "bytes": 931,
+    "sha256": "c8523ee486cfc562db8b04f5f0c16b28a06979067e137ff1a2ddd7cb8acfe072",
+    "retrieved_utc": "2026-10-24T17:22:07.512397+00:00"
+  },
+  {
+    "file": "history/2005/contestants/10_hr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/10_hr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/10_hr/contestant.json",
+    "bytes": 819,
+    "sha256": "d8514c445bc3a60dd15bdfdb3974e8b6e10f80e5cf32498bb82603a38cc6cb00",
+    "retrieved_utc": "2026-10-24T17:22:07.558998+00:00"
+  },
+  {
+    "file": "history/2005/contestants/11_hu.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/11_hu/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/11_hu/contestant.json",
+    "bytes": 888,
+    "sha256": "99a793d86e155bff1bf476f97ff9828cec7dbed6ca4c1905874482d6116a64b1",
+    "retrieved_utc": "2026-10-24T17:22:07.572994+00:00"
+  },
+  {
+    "file": "history/2005/contestants/12_tr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/12_tr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/12_tr/contestant.json",
+    "bytes": 914,
+    "sha256": "8e5e37c101c6314e8d80a7c934967af1868fc021535cc387ecf1130dd633e35b",
+    "retrieved_utc": "2026-10-24T17:22:07.584310+00:00"
+  },
+  {
+    "file": "history/2005/contestants/13_ba.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/13_ba/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/13_ba/contestant.json",
+    "bytes": 752,
+    "sha256": "39ada68bd0034c81d25f5478b8f0ece5523a78374a6085d707d6980e745bf768",
+    "retrieved_utc": "2026-10-24T17:22:07.843905+00:00"
+  },
+  {
+    "file": "history/2005/contestants/14_ru.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/14_ru/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/14_ru/contestant.json",
+    "bytes": 841,
+    "sha256": "33a43f5a6061ab8daf57e42cf0d5b1cb2e7ec2cb486c33ba689b4799b7abb515",
+    "retrieved_utc": "2026-10-24T17:22:07.859459+00:00"
+  },
+  {
+    "file": "history/2005/contestants/15_al.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/15_al/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/15_al/contestant.json",
+    "bytes": 684,
+    "sha256": "1f083645f68246ce6fc64309557b6d7e20b0609dfcaca81b42913dd549a83251",
+    "retrieved_utc": "2026-10-24T17:22:07.852565+00:00"
+  },
+  {
+    "file": "history/2005/contestants/16_mk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/16_mk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/16_mk/contestant.json",
+    "bytes": 725,
+    "sha256": "69c81bb0ff89efb9d38f734916eb9447daa5f45658dbf0e6535d69a3c1be385b",
+    "retrieved_utc": "2026-10-24T17:22:07.892926+00:00"
+  },
+  {
+    "file": "history/2005/contestants/17_cy.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/17_cy/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/17_cy/contestant.json",
+    "bytes": 655,
+    "sha256": "10dc794e0c28ebd2dae8c19c77fae71186b268e42a8e7399dd032a4c488fb0f7",
+    "retrieved_utc": "2026-10-24T17:22:07.864668+00:00"
+  },
+  {
+    "file": "history/2005/contestants/18_se.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/18_se/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/18_se/contestant.json",
+    "bytes": 770,
+    "sha256": "07f9f041ec01997f319740fca5a3cf576a60091dcee95ef46960458db3ae811c",
+    "retrieved_utc": "2026-10-24T17:22:07.946951+00:00"
+  },
+  {
+    "file": "history/2005/contestants/19_ua.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/19_ua/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/19_ua/contestant.json",
+    "bytes": 831,
+    "sha256": "4e0189be9fa91dc9803b597e53abb8abe92ce391e2571d25898ce3aae5fef867",
+    "retrieved_utc": "2026-10-24T17:22:07.939654+00:00"
+  },
+  {
+    "file": "history/2005/contestants/1_mt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/1_mt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/1_mt/contestant.json",
+    "bytes": 574,
+    "sha256": "de29233fd70d5226203f1b1b1c387d7d6acd0cde7f1b8318e9731699bac34697",
+    "retrieved_utc": "2026-10-24T17:22:07.937828+00:00"
+  },
+  {
+    "file": "history/2005/contestants/20_es.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/20_es/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/20_es/contestant.json",
+    "bytes": 734,
+    "sha256": "8a4522f2014ce2a29e626f33073f7bb7f9c82d9c1642feb3b0c035cecca32e18",
+    "retrieved_utc": "2026-10-24T17:22:08.207617+00:00"
+  },
+  {
+    "file": "history/2005/contestants/21_gb.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/21_gb/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/21_gb/contestant.json",
+    "bytes": 626,
+    "sha256": "b7c1cbe48df9027455804cc0e6179b4ecd8f5e7f8ce644b7629bc9147644ed58",
+    "retrieved_utc": "2026-10-24T17:22:08.233855+00:00"
+  },
+  {
+    "file": "history/2005/contestants/22_fr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/22_fr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/22_fr/contestant.json",
+    "bytes": 758,
+    "sha256": "060412f7f850e3ab9a25b28dc22da4a22d98880c54cee96b40046659e4775c84",
+    "retrieved_utc": "2026-10-24T17:22:08.244981+00:00"
+  },
+  {
+    "file": "history/2005/contestants/23_de.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/23_de/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/23_de/contestant.json",
+    "bytes": 746,
+    "sha256": "06c7275ff4be05647da92ea3caeab7dbb48b1020da24b4cf191182e25db27e8a",
+    "retrieved_utc": "2026-10-24T17:22:08.237423+00:00"
+  },
+  {
+    "file": "history/2005/contestants/24_pl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/24_pl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/24_pl/contestant.json",
+    "bytes": 737,
+    "sha256": "c2e3aab6c0563637e6ca6ee9a69c2270c5a4547a7845a4b909a24f42dccf11de",
+    "retrieved_utc": "2026-10-24T17:22:08.277156+00:00"
+  },
+  {
+    "file": "history/2005/contestants/25_si.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/25_si/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/25_si/contestant.json",
+    "bytes": 643,
+    "sha256": "659f86ac0a655a04363879be9f95bcfaccfabd68405416c76adcb4a398a100f5",
+    "retrieved_utc": "2026-10-24T17:22:08.322448+00:00"
+  },
+  {
+    "file": "history/2005/contestants/26_by.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/26_by/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/26_by/contestant.json",
+    "bytes": 627,
+    "sha256": "8d3686baff4f75623cb57026c8377cafa503f70872cbc2d185514b8574f18f02",
+    "retrieved_utc": "2026-10-24T17:22:08.291367+00:00"
+  },
+  {
+    "file": "history/2005/contestants/27_nl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/27_nl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/27_nl/contestant.json",
+    "bytes": 646,
+    "sha256": "ad739ca41f7b84ff5a1b4cc26ea7ffedc76c6e09b3f227e8af7ba7a8ce1dde34",
+    "retrieved_utc": "2026-10-24T17:22:08.319195+00:00"
+  },
+  {
+    "file": "history/2005/contestants/28_ie.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/28_ie/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/28_ie/contestant.json",
+    "bytes": 685,
+    "sha256": "678f9eeac2d8bf3ea67ca6d19a6cb81dd59348e5f2d7b3f7fe2e18d13267da2f",
+    "retrieved_utc": "2026-10-24T17:22:08.585733+00:00"
+  },
+  {
+    "file": "history/2005/contestants/29_is.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/29_is/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/29_is/contestant.json",
+    "bytes": 749,
+    "sha256": "24adaa9133521d8caecbf3235e23532679b816f08d4ff84a50010ed19c562ce3",
+    "retrieved_utc": "2026-10-24T17:22:08.625008+00:00"
+  },
+  {
+    "file": "history/2005/contestants/2_ro.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/2_ro/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/2_ro/contestant.json",
+    "bytes": 826,
+    "sha256": "c1253a10d1124a2a81f1c9ffb55c90ae82b7e854084a23cbf49393e299848224",
+    "retrieved_utc": "2026-10-24T17:22:08.605410+00:00"
+  },
+  {
+    "file": "history/2005/contestants/30_pt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/30_pt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/30_pt/contestant.json",
+    "bytes": 768,
+    "sha256": "a5d28338e09b9bffcae9a9e8bab64043963afdd51de1241cb15f881d20436e5a",
+    "retrieved_utc": "2026-10-24T17:22:08.609581+00:00"
+  },
+  {
+    "file": "history/2005/contestants/31_fi.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/31_fi/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/31_fi/contestant.json",
+    "bytes": 825,
+    "sha256": "5978c5fccd0cb8b36f2f6993c90a1825b43cf51a721e34584a018e63290c2fbb",
+    "retrieved_utc": "2026-10-24T17:22:08.649628+00:00"
+  },
+  {
+    "file": "history/2005/contestants/32_bg.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/32_bg/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/32_bg/contestant.json",
+    "bytes": 914,
+    "sha256": "01ed6f1e99a7a334711ce984905dc44d794d4401e0aa381bee3ef3c5e57161a1",
+    "retrieved_utc": "2026-10-24T17:22:08.688536+00:00"
+  },
+  {
+    "file": "history/2005/contestants/33_ee.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/33_ee/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/33_ee/contestant.json",
+    "bytes": 864,
+    "sha256": "3ee40515808feb364ca64066a6fb0a0bd068829ca785f7fdcee231c390570531",
+    "retrieved_utc": "2026-10-24T17:22:08.785744+00:00"
+  },
+  {
+    "file": "history/2005/contestants/34_at.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/34_at/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/34_at/contestant.json",
+    "bytes": 845,
+    "sha256": "eb912e7b2fc31f6dd7f7d66480abf4a34224226dbcf37a0169a116a3a1119aca",
+    "retrieved_utc": "2026-10-24T17:22:08.684761+00:00"
+  },
+  {
+    "file": "history/2005/contestants/35_be.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/35_be/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/35_be/contestant.json",
+    "bytes": 672,
+    "sha256": "afc9234190d5f0282f4b4b2cdbacad0570acfb0d1fc6059b64683502edf7698a",
+    "retrieved_utc": "2026-10-24T17:22:08.988552+00:00"
+  },
+  {
+    "file": "history/2005/contestants/36_ad.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/36_ad/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/36_ad/contestant.json",
+    "bytes": 872,
+    "sha256": "20c8b4eb773136cec709f1cc0aff240d0884a4da38332a4ec212150e8e283f93",
+    "retrieved_utc": "2026-10-24T17:22:08.966857+00:00"
+  },
+  {
+    "file": "history/2005/contestants/37_mc.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/37_mc/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/37_mc/contestant.json",
+    "bytes": 613,
+    "sha256": "8c41a6033c4042ca7715f78c46b24dab4f280fe14ce7752a4caf6251799d85ca",
+    "retrieved_utc": "2026-10-24T17:22:08.994899+00:00"
+  },
+  {
+    "file": "history/2005/contestants/38_lt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/38_lt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/38_lt/contestant.json",
+    "bytes": 831,
+    "sha256": "83aaf22e5469635417c8888ae82d886c30a9f6ac3da24ffdc194d0c67d38f40a",
+    "retrieved_utc": "2026-10-24T17:22:08.985490+00:00"
+  },
+  {
+    "file": "history/2005/contestants/3_il.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/3_il/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/3_il/contestant.json",
+    "bytes": 792,
+    "sha256": "1aced1dff1422f28e8953884d83a2ff556292994cfe2f8bdb212c3ac180c33fc",
+    "retrieved_utc": "2026-10-24T17:22:09.008303+00:00"
+  },
+  {
+    "file": "history/2005/contestants/4_lv.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/4_lv/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/4_lv/contestant.json",
+    "bytes": 695,
+    "sha256": "e7313bbc8d4351744c5f3802bd22f5c0ac1c6616bdcef596701157c371111e9d",
+    "retrieved_utc": "2026-10-24T17:22:09.079367+00:00"
+  },
+  {
+    "file": "history/2005/contestants/5_md.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/5_md/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/5_md/contestant.json",
+    "bytes": 783,
+    "sha256": "5c69d9c36971d862a3ac72ea00111bbbef5d28a3d88dd4c50208b52dea2468ca",
+    "retrieved_utc": "2026-10-24T17:22:09.035950+00:00"
+  },
+  {
+    "file": "history/2005/contestants/6_cs.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/6_cs/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/6_cs/contestant.json",
+    "bytes": 813,
+    "sha256": "206dce9f9e1cd332272578730320dea68abf71bba15c85360f9493aa340a415c",
+    "retrieved_utc": "2026-10-24T17:22:09.142871+00:00"
+  },
+  {
+    "file": "history/2005/contestants/7_ch.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/7_ch/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/7_ch/contestant.json",
+    "bytes": 800,
+    "sha256": "a169a64a94ed6723e2e6a325737d1941437b2612130d64251450f46228b5422f",
+    "retrieved_utc": "2026-10-24T17:22:09.328981+00:00"
+  },
+  {
+    "file": "history/2005/contestants/8_no.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/8_no/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/8_no/contestant.json",
+    "bytes": 716,
+    "sha256": "eb9815cb78b453c2b2a3e4e207bbfed3236d20212f8455f56070b9fdc54df142",
+    "retrieved_utc": "2026-10-24T17:22:09.347580+00:00"
+  },
+  {
+    "file": "history/2005/contestants/9_dk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/9_dk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/contestants/9_dk/contestant.json",
+    "bytes": 788,
+    "sha256": "f7a633ba1f1e66a08effb0ae0599da72957bfb7b1810f0f751df25404cc1a59e",
+    "retrieved_utc": "2026-10-24T17:22:09.354460+00:00"
+  },
+  {
+    "file": "history/2005/final.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/rounds/final.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2005/rounds/final.json",
+    "bytes": 24300,
+    "sha256": "8257a66497c21b47cc9504a7a3a3193205bcd7ba2c7cd52e9153413191aabe16",
+    "retrieved_utc": "2026-10-24T17:22:04.550807+00:00"
+  },
+  {
+    "file": "history/2006/contestants/0_fi.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/0_fi/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/0_fi/contestant.json",
+    "bytes": 901,
+    "sha256": "c290ea935778358868773b330f52f6f8f7aae12a959c6da16a7482a1dcaabca0",
+    "retrieved_utc": "2026-10-24T17:22:09.348129+00:00"
+  },
+  {
+    "file": "history/2006/contestants/10_tr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/10_tr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/10_tr/contestant.json",
+    "bytes": 744,
+    "sha256": "c7c31c9d6ffadd97b1073102a6c50f5f4f110a51bf8ab1c84feed93e196649dc",
+    "retrieved_utc": "2026-10-24T17:22:09.355699+00:00"
+  },
+  {
+    "file": "history/2006/contestants/11_mk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/11_mk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/11_mk/contestant.json",
+    "bytes": 871,
+    "sha256": "057980542f396f5e061576ffea4973c10040fbd645c290b1cc6872f0673aaf3b",
+    "retrieved_utc": "2026-10-24T17:22:09.402479+00:00"
+  },
+  {
+    "file": "history/2006/contestants/12_hr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/12_hr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/12_hr/contestant.json",
+    "bytes": 815,
+    "sha256": "baca39b6fe1a34e9e123eeb5580d1bae2f8cd7c0e1154c7bba29a003b5d00866",
+    "retrieved_utc": "2026-10-24T17:22:09.413463+00:00"
+  },
+  {
+    "file": "history/2006/contestants/13_no.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/13_no/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/13_no/contestant.json",
+    "bytes": 763,
+    "sha256": "2e30d07ce3adcef64a69f403cad8d7990dfa28a0b3f7b544695821e10f7ec8d7",
+    "retrieved_utc": "2026-10-24T17:22:09.563799+00:00"
+  },
+  {
+    "file": "history/2006/contestants/14_de.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/14_de/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/14_de/contestant.json",
+    "bytes": 801,
+    "sha256": "a33c8bc7be2080cdfd2f1feae440c104d1a2a997750f6adfdee964f1738dadda",
+    "retrieved_utc": "2026-10-24T17:22:09.690839+00:00"
+  },
+  {
+    "file": "history/2006/contestants/15_ch.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/15_ch/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/15_ch/contestant.json",
+    "bytes": 847,
+    "sha256": "a91137926fe1d657ca6ae267baba72dfa653af571b82e686498b4b496e8fc466",
+    "retrieved_utc": "2026-10-24T17:22:09.709915+00:00"
+  },
+  {
+    "file": "history/2006/contestants/16_lv.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/16_lv/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/16_lv/contestant.json",
+    "bytes": 788,
+    "sha256": "040d1797c2c17498c9233e03db85c01a8217639c9a8fcc7239d5a404c445dea4",
+    "retrieved_utc": "2026-10-24T17:22:09.714085+00:00"
+  },
+  {
+    "file": "history/2006/contestants/17_dk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/17_dk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/17_dk/contestant.json",
+    "bytes": 769,
+    "sha256": "8ae84061e4bfff1f41fcd005eb820c7f0b23aa579bbae768fe4d0d4f0ce4ca6e",
+    "retrieved_utc": "2026-10-24T17:22:09.742812+00:00"
+  },
+  {
+    "file": "history/2006/contestants/18_gb.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/18_gb/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/18_gb/contestant.json",
+    "bytes": 765,
+    "sha256": "a3554b212fe3ff3a090376bfeed327001ea2512033ce865a7ec368edc3887cbe",
+    "retrieved_utc": "2026-10-24T17:22:09.714216+00:00"
+  },
+  {
+    "file": "history/2006/contestants/19_md.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/19_md/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/19_md/contestant.json",
+    "bytes": 712,
+    "sha256": "c13fe7db92a29d00f47c412a382a93e0910d1e712f29ac8976df2b7bcf2031fe",
+    "retrieved_utc": "2026-10-24T17:22:09.777924+00:00"
+  },
+  {
+    "file": "history/2006/contestants/1_ru.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/1_ru/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/1_ru/contestant.json",
+    "bytes": 898,
+    "sha256": "10e8d5e0e404e18988346a24e93be971eccfea15f2ed73bc4803c691d692cd02",
+    "retrieved_utc": "2026-10-24T17:22:09.814376+00:00"
+  },
+  {
+    "file": "history/2006/contestants/20_es.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/20_es/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/20_es/contestant.json",
+    "bytes": 626,
+    "sha256": "56a102204fa1f747f6f1656a5fd7ae3f6696747666329458f96b96480d962cc7",
+    "retrieved_utc": "2026-10-24T17:22:09.906751+00:00"
+  },
+  {
+    "file": "history/2006/contestants/21_fr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/21_fr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/21_fr/contestant.json",
+    "bytes": 630,
+    "sha256": "813c902c9ffce803c6f9929c252c343029e03591f0336407e3f98a9847376eae",
+    "retrieved_utc": "2026-10-24T17:22:10.058695+00:00"
+  },
+  {
+    "file": "history/2006/contestants/22_il.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/22_il/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/22_il/contestant.json",
+    "bytes": 773,
+    "sha256": "9ff5bc52e82cb3d64e405b7caf9a3f23c76560e7469640e95d6f28a500a78900",
+    "retrieved_utc": "2026-10-24T17:22:10.071236+00:00"
+  },
+  {
+    "file": "history/2006/contestants/23_mt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/23_mt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/23_mt/contestant.json",
+    "bytes": 728,
+    "sha256": "09f9b0d4705272db8f1fcfe23932e38c70702dedd63f2fc10730692d95f06773",
+    "retrieved_utc": "2026-10-24T17:22:10.058562+00:00"
+  },
+  {
+    "file": "history/2006/contestants/24_pl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/24_pl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/24_pl/contestant.json",
+    "bytes": 927,
+    "sha256": "3d2541fe5f028032b1da54659a641c2c2341ca851203c1354c44565c93b1104f",
+    "retrieved_utc": "2026-10-24T17:22:10.074925+00:00"
+  },
+  {
+    "file": "history/2006/contestants/25_be.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/25_be/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/25_be/contestant.json",
+    "bytes": 904,
+    "sha256": "753731472d18d3fae2f29d6cc8a3ebc89fa8d66128adc58321cd9cd3e6eaf6d1",
+    "retrieved_utc": "2026-10-24T17:22:10.133156+00:00"
+  },
+  {
+    "file": "history/2006/contestants/26_is.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/26_is/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/26_is/contestant.json",
+    "bytes": 868,
+    "sha256": "1e4057c7724625386959c9487266e1e6425ba8055cf799014d22623ea06c7ab9",
+    "retrieved_utc": "2026-10-24T17:22:10.129083+00:00"
+  },
+  {
+    "file": "history/2006/contestants/27_al.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/27_al/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/27_al/contestant.json",
+    "bytes": 770,
+    "sha256": "52b3f2c16f8c65fa44e2ed4046f2ac74d67d28bccaa3d4ca7d80d355918447f1",
+    "retrieved_utc": "2026-10-24T17:22:10.146644+00:00"
+  },
+  {
+    "file": "history/2006/contestants/28_cy.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/28_cy/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/28_cy/contestant.json",
+    "bytes": 795,
+    "sha256": "ca3d7d0ae325bf4f676e205b004a6d15a8cd1cc81ad5470d509adbfaa985e619",
+    "retrieved_utc": "2026-10-24T17:22:10.291146+00:00"
+  },
+  {
+    "file": "history/2006/contestants/29_si.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/29_si/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/29_si/contestant.json",
+    "bytes": 836,
+    "sha256": "d8ab09b26f6aa1453b447ea8e98ab688ebd95a35f2f3f62496d091fb697e27f7",
+    "retrieved_utc": "2026-10-24T17:22:10.429489+00:00"
+  },
+  {
+    "file": "history/2006/contestants/2_ba.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/2_ba/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/2_ba/contestant.json",
+    "bytes": 789,
+    "sha256": "9a8e1952aed9c25f85bc7b4fa5ae313f75d4cf29e6da813186ac597293b75ea3",
+    "retrieved_utc": "2026-10-24T17:22:10.392166+00:00"
+  },
+  {
+    "file": "history/2006/contestants/30_bg.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/30_bg/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/30_bg/contestant.json",
+    "bytes": 845,
+    "sha256": "4fd8d482284f6d1e2027607d42eb78ce6dc2017b5684fd2488a14bf2d9e6d7ad",
+    "retrieved_utc": "2026-10-24T17:22:10.519152+00:00"
+  },
+  {
+    "file": "history/2006/contestants/31_ee.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/31_ee/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/31_ee/contestant.json",
+    "bytes": 873,
+    "sha256": "dec1fab940ad78cd71010d946befd2b2ecd838c3ae90c0970134e376842761a6",
+    "retrieved_utc": "2026-10-24T17:22:10.474715+00:00"
+  },
+  {
+    "file": "history/2006/contestants/32_pt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/32_pt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/32_pt/contestant.json",
+    "bytes": 746,
+    "sha256": "9b36df32f940dbac4f9356db02b38bc00c1b91896f456f7b39ec909807b28090",
+    "retrieved_utc": "2026-10-24T17:22:10.519322+00:00"
+  },
+  {
+    "file": "history/2006/contestants/33_nl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/33_nl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/33_nl/contestant.json",
+    "bytes": 752,
+    "sha256": "0e21b1e1caf3706ae0a2251c7fa52a74dae7ec3f7beba06b5720a590391820e6",
+    "retrieved_utc": "2026-10-24T17:22:10.491037+00:00"
+  },
+  {
+    "file": "history/2006/contestants/34_mc.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/34_mc/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/34_mc/contestant.json",
+    "bytes": 645,
+    "sha256": "798506d27722f5e038482a9132f53676894d4ebfbf30facfae9daa54a5e6361a",
+    "retrieved_utc": "2026-10-24T17:22:10.529990+00:00"
+  },
+  {
+    "file": "history/2006/contestants/35_by.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/35_by/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/35_by/contestant.json",
+    "bytes": 666,
+    "sha256": "6cb491e7043d79afd265680ebc85ac38ace368731b2415879943dd9f2ce520da",
+    "retrieved_utc": "2026-10-24T17:22:10.685216+00:00"
+  },
+  {
+    "file": "history/2006/contestants/36_ad.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/36_ad/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/36_ad/contestant.json",
+    "bytes": 668,
+    "sha256": "f40ab0c807ae052c0a4b0744c47679c724303b48fe8c4a5faf0de43c1b18e5f1",
+    "retrieved_utc": "2026-10-24T17:22:10.754244+00:00"
+  },
+  {
+    "file": "history/2006/contestants/3_ro.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/3_ro/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/3_ro/contestant.json",
+    "bytes": 687,
+    "sha256": "36e1deb1143c6c27e82dea4532ca92fde0ae6fc8b4081556976b47b90f910bbe",
+    "retrieved_utc": "2026-10-24T17:22:10.832641+00:00"
+  },
+  {
+    "file": "history/2006/contestants/4_se.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/4_se/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/4_se/contestant.json",
+    "bytes": 903,
+    "sha256": "1568df5178c352106167dddd6203f96e9800a01b460e32754672315dc2e461da",
+    "retrieved_utc": "2026-10-24T17:22:10.826964+00:00"
+  },
+  {
+    "file": "history/2006/contestants/5_lt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/5_lt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/5_lt/contestant.json",
+    "bytes": 958,
+    "sha256": "bea20fdad9d246c986ef13dabe88ff0cfc72213c85030ee087c4735215e6c0b6",
+    "retrieved_utc": "2026-10-24T17:22:10.820779+00:00"
+  },
+  {
+    "file": "history/2006/contestants/6_ua.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/6_ua/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/6_ua/contestant.json",
+    "bytes": 764,
+    "sha256": "f428d044f14cb9c664b14315accf722f11a08d81ff937ca84e4a8c859d9ccc5a",
+    "retrieved_utc": "2026-10-24T17:22:10.890340+00:00"
+  },
+  {
+    "file": "history/2006/contestants/7_am.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/7_am/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/7_am/contestant.json",
+    "bytes": 678,
+    "sha256": "6d0bd71c89a6c7520168347172c128e9bb424a15e0ea175712fdf6329e175d87",
+    "retrieved_utc": "2026-10-24T17:22:10.878660+00:00"
+  },
+  {
+    "file": "history/2006/contestants/8_gr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/8_gr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/8_gr/contestant.json",
+    "bytes": 701,
+    "sha256": "fe752676af74279157dd68dfc7782e5afe06fd7333d180a1390d6ac5bc3fcddd",
+    "retrieved_utc": "2026-10-24T17:22:10.888395+00:00"
+  },
+  {
+    "file": "history/2006/contestants/9_ie.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/9_ie/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/contestants/9_ie/contestant.json",
+    "bytes": 697,
+    "sha256": "58fba836ea342875c09a9009e35907bd921d1326e040be9c4db57af59fed2df3",
+    "retrieved_utc": "2026-10-24T17:22:11.067005+00:00"
+  },
+  {
+    "file": "history/2006/final.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/rounds/final.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2006/rounds/final.json",
+    "bytes": 23791,
+    "sha256": "d03ca1bb09df0b3e2563d952960ff71cda8a4c212765df5a1bd6c8f037b177b7",
+    "retrieved_utc": "2026-10-24T17:22:04.577012+00:00"
+  },
+  {
+    "file": "history/2007/contestants/0_rs.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/0_rs/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/0_rs/contestant.json",
+    "bytes": 892,
+    "sha256": "5c2c9dbf3fbaa52b7d8efdb40cb7014f22488e3a0b195434bda4e9401d0002e6",
+    "retrieved_utc": "2026-10-24T17:22:11.105485+00:00"
+  },
+  {
+    "file": "history/2007/contestants/10_ba.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/10_ba/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/10_ba/contestant.json",
+    "bytes": 896,
+    "sha256": "5cbbdee38a1e74fc38bac4ca43c430f0169e6b1d79dfff1c0c20b2c55617cabd",
+    "retrieved_utc": "2026-10-24T17:22:11.173646+00:00"
+  },
+  {
+    "file": "history/2007/contestants/11_ge.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/11_ge/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/11_ge/contestant.json",
+    "bytes": 815,
+    "sha256": "3c8f0729a585c044233390130350cb935b817c52384b078511a0750360547be1",
+    "retrieved_utc": "2026-10-24T17:22:11.172429+00:00"
+  },
+  {
+    "file": "history/2007/contestants/12_ro.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/12_ro/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/12_ro/contestant.json",
+    "bytes": 879,
+    "sha256": "8ebb0d430246641191e76ed0e33460536cfb1343354f919d7d7bd115befb5dba",
+    "retrieved_utc": "2026-10-24T17:22:11.179983+00:00"
+  },
+  {
+    "file": "history/2007/contestants/13_mk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/13_mk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/13_mk/contestant.json",
+    "bytes": 793,
+    "sha256": "a68b5c02db1950dd291ac51b49db931b46f9fdf8c6ec0c6abd10b2f75e5c565b",
+    "retrieved_utc": "2026-10-24T17:22:11.255592+00:00"
+  },
+  {
+    "file": "history/2007/contestants/14_si.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/14_si/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/14_si/contestant.json",
+    "bytes": 808,
+    "sha256": "ce9b798139b1be49287fb3352a2d19a96b98e7dc6dc9ed75c73ab483c2df3195",
+    "retrieved_utc": "2026-10-24T17:22:11.232889+00:00"
+  },
+  {
+    "file": "history/2007/contestants/15_lv.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/15_lv/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/15_lv/contestant.json",
+    "bytes": 917,
+    "sha256": "0d40f68b7572cc071a553d85ae55ba1719bdcc60521461f5d2bcff9eb8b96e3d",
+    "retrieved_utc": "2026-10-24T17:22:11.227634+00:00"
+  },
+  {
+    "file": "history/2007/contestants/16_fi.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/16_fi/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/16_fi/contestant.json",
+    "bytes": 955,
+    "sha256": "ab76dd848e0883dcf7481ef37a51f9965f309567710c41867d1c2a76cea679c2",
+    "retrieved_utc": "2026-10-24T17:22:11.405140+00:00"
+  },
+  {
+    "file": "history/2007/contestants/17_se.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/17_se/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/17_se/contestant.json",
+    "bytes": 739,
+    "sha256": "1e39dcb53eb5c2002785b6b79b4cd9d18e114b45a6cb16406ef9a3a9d62d6353",
+    "retrieved_utc": "2026-10-24T17:22:11.456410+00:00"
+  },
+  {
+    "file": "history/2007/contestants/18_de.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/18_de/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/18_de/contestant.json",
+    "bytes": 846,
+    "sha256": "0936d6974d0fb835825d6c22c7e2961d7a9a64805f37db40312020e5b7534ac9",
+    "retrieved_utc": "2026-10-24T17:22:11.584155+00:00"
+  },
+  {
+    "file": "history/2007/contestants/19_es.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/19_es/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/19_es/contestant.json",
+    "bytes": 945,
+    "sha256": "bf1a3058a3490fa598a8d2d50de9c7d80f3800a6cc4af17c67db4df597297549",
+    "retrieved_utc": "2026-10-24T17:22:11.684908+00:00"
+  },
+  {
+    "file": "history/2007/contestants/1_ua.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/1_ua/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/1_ua/contestant.json",
+    "bytes": 1044,
+    "sha256": "fb55a0ff1f5cffdd56cd503cc550555361106a17b72292671b2e3598939924b4",
+    "retrieved_utc": "2026-10-24T17:22:11.503890+00:00"
+  },
+  {
+    "file": "history/2007/contestants/20_lt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/20_lt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/20_lt/contestant.json",
+    "bytes": 811,
+    "sha256": "e48a557a4472c3f96b01e09963901f6b7d4e28113c57aa2cc9eea0c4e0d6b16c",
+    "retrieved_utc": "2026-10-24T17:22:11.584332+00:00"
+  },
+  {
+    "file": "history/2007/contestants/21_fr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/21_fr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/21_fr/contestant.json",
+    "bytes": 898,
+    "sha256": "d1c61e890ec302ff13075270ddbe8c6fea3e98ab228cda3a58733cc0271eac8f",
+    "retrieved_utc": "2026-10-24T17:22:11.697628+00:00"
+  },
+  {
+    "file": "history/2007/contestants/22_gb.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/22_gb/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/22_gb/contestant.json",
+    "bytes": 842,
+    "sha256": "067d1e43e65e15c7f73fdb0ab71102c9127e7345fc10b6c86540a9117f1f617a",
+    "retrieved_utc": "2026-10-24T17:22:11.591264+00:00"
+  },
+  {
+    "file": "history/2007/contestants/23_ie.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/23_ie/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/23_ie/contestant.json",
+    "bytes": 775,
+    "sha256": "f268eed486100e3bfb13767d56fcfe0f65a330088169522f6022528761d88f9c",
+    "retrieved_utc": "2026-10-24T17:22:11.727406+00:00"
+  },
+  {
+    "file": "history/2007/contestants/24_pt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/24_pt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/24_pt/contestant.json",
+    "bytes": 776,
+    "sha256": "017caa618505935f4167b790a59886b0c6afcc137be8067620465d5ca3838782",
+    "retrieved_utc": "2026-10-24T17:22:11.831334+00:00"
+  },
+  {
+    "file": "history/2007/contestants/25_ad.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/25_ad/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/25_ad/contestant.json",
+    "bytes": 805,
+    "sha256": "720686ab115f818ad21d7627ccf98aaa097d0c5b15714eda5d8d79ffd07f36ff",
+    "retrieved_utc": "2026-10-24T17:22:11.864819+00:00"
+  },
+  {
+    "file": "history/2007/contestants/26_is.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/26_is/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/26_is/contestant.json",
+    "bytes": 856,
+    "sha256": "faf1a4b42483220dc1c063b217232afc43b194eb54373f936d4254fcd67923bb",
+    "retrieved_utc": "2026-10-24T17:22:11.980668+00:00"
+  },
+  {
+    "file": "history/2007/contestants/27_pl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/27_pl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/27_pl/contestant.json",
+    "bytes": 738,
+    "sha256": "37c28efaf3523c4e0ec7c305297d23a27257d104536de6f1b68a5c78c94cf9de",
+    "retrieved_utc": "2026-10-24T17:22:11.906434+00:00"
+  },
+  {
+    "file": "history/2007/contestants/28_cy.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/28_cy/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/28_cy/contestant.json",
+    "bytes": 704,
+    "sha256": "49eb1f247b7e91ceac8120c7fd8e63f5bff1b026f97464f970448c1f4f76dbd7",
+    "retrieved_utc": "2026-10-24T17:22:11.938341+00:00"
+  },
+  {
+    "file": "history/2007/contestants/29_hr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/29_hr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/29_hr/contestant.json",
+    "bytes": 701,
+    "sha256": "e459074c14f4e28c7f3558cdd1ce7e797c7e45d49a3594740a7dd5440e66e388",
+    "retrieved_utc": "2026-10-24T17:22:12.067519+00:00"
+  },
+  {
+    "file": "history/2007/contestants/2_ru.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/2_ru/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/2_ru/contestant.json",
+    "bytes": 789,
+    "sha256": "5bd1913f8062b2c9fd4cf9a5a475ad56bbd7baeecffe6e0531db03592f37f095",
+    "retrieved_utc": "2026-10-24T17:22:12.029418+00:00"
+  },
+  {
+    "file": "history/2007/contestants/30_al.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/30_al/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/30_al/contestant.json",
+    "bytes": 721,
+    "sha256": "3c2edda53a62c3afbb70ce77c25efb5fa8c77128ec2413d6c862568957d7e775",
+    "retrieved_utc": "2026-10-24T17:22:12.101704+00:00"
+  },
+  {
+    "file": "history/2007/contestants/31_no.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/31_no/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/31_no/contestant.json",
+    "bytes": 718,
+    "sha256": "8234b80cb7edf98ef7f4bc4578b7260fe77b064752f3dc80f9e2a47934e39230",
+    "retrieved_utc": "2026-10-24T17:22:12.180041+00:00"
+  },
+  {
+    "file": "history/2007/contestants/32_dk.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/32_dk/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/32_dk/contestant.json",
+    "bytes": 806,
+    "sha256": "31699d8fbe8904dd7c2410d3aeb881f4fa7667e70cc7626bb4270cef9ed181a3",
+    "retrieved_utc": "2026-10-24T17:22:12.269043+00:00"
+  },
+  {
+    "file": "history/2007/contestants/33_ch.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/33_ch/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/33_ch/contestant.json",
+    "bytes": 807,
+    "sha256": "26adaa362b4a7949f5949c3d6783ab1a8b1553e95ed411938b9f98250f7adc04",
+    "retrieved_utc": "2026-10-24T17:22:12.264108+00:00"
+  },
+  {
+    "file": "history/2007/contestants/34_nl.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/34_nl/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/34_nl/contestant.json",
+    "bytes": 894,
+    "sha256": "bfe0b4fae842dce1bf05fbaa4a600579126c10eaca7fe6786f6972cd3745e6ca",
+    "retrieved_utc": "2026-10-24T17:22:12.302229+00:00"
+  },
+  {
+    "file": "history/2007/contestants/35_me.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/35_me/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/35_me/contestant.json",
+    "bytes": 697,
+    "sha256": "af24455bc946c106ee5113e2971842b8df4d6253989a92c9273fc5dbb76e32d6",
+    "retrieved_utc": "2026-10-24T17:22:12.315969+00:00"
+  },
+  {
+    "file": "history/2007/contestants/36_ee.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/36_ee/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/36_ee/contestant.json",
+    "bytes": 905,
+    "sha256": "f43df6091faf0d7f016211d9420459eb2a9439de2d36915c15f2831a2cd236fd",
+    "retrieved_utc": "2026-10-24T17:22:12.350468+00:00"
+  },
+  {
+    "file": "history/2007/contestants/37_il.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/37_il/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/37_il/contestant.json",
+    "bytes": 657,
+    "sha256": "c4da068562201f6e388ae1bce31c8687d84e77bf9a39393e8dc6f317b46fdb64",
+    "retrieved_utc": "2026-10-24T17:22:12.392715+00:00"
+  },
+  {
+    "file": "history/2007/contestants/38_mt.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/38_mt/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/38_mt/contestant.json",
+    "bytes": 754,
+    "sha256": "3a7bb612d8685f2a26c0ba89d7acf137249f32e17b3de0f9da18fc2e900d6876",
+    "retrieved_utc": "2026-10-24T17:22:12.447465+00:00"
+  },
+  {
+    "file": "history/2007/contestants/39_be.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/39_be/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/39_be/contestant.json",
+    "bytes": 783,
+    "sha256": "38d50880795e1da7eaaae20416ebbc12d94c0a43650b24da6e515f77c9da736b",
+    "retrieved_utc": "2026-10-24T17:22:12.529431+00:00"
+  },
+  {
+    "file": "history/2007/contestants/3_tr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/3_tr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/3_tr/contestant.json",
+    "bytes": 714,
+    "sha256": "a9d407a5049f65fe72a3fb0a0fc1ecd77fe3e5b867a1074c363d31088b7b323d",
+    "retrieved_utc": "2026-10-24T17:22:12.561980+00:00"
+  },
+  {
+    "file": "history/2007/contestants/40_at.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/40_at/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/40_at/contestant.json",
+    "bytes": 721,
+    "sha256": "bb14e89440bde5965a78ea789473fee3367bc38e52123bc4d3fbc519e01bffd2",
+    "retrieved_utc": "2026-10-24T17:22:12.635100+00:00"
+  },
+  {
+    "file": "history/2007/contestants/41_cz.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/41_cz/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/41_cz/contestant.json",
+    "bytes": 816,
+    "sha256": "44ecae950b663dcb73dc024391158f81bc41d3bc0253bc71bae8c58b5efd0880",
+    "retrieved_utc": "2026-10-24T17:22:12.620890+00:00"
+  },
+  {
+    "file": "history/2007/contestants/4_bg.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/4_bg/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/4_bg/contestant.json",
+    "bytes": 878,
+    "sha256": "aa9bccb96c3856a5de13e8c582647173a14b457122fd7a31d26296f1d9470d93",
+    "retrieved_utc": "2026-10-24T17:22:12.647122+00:00"
+  },
+  {
+    "file": "history/2007/contestants/5_by.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/5_by/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/5_by/contestant.json",
+    "bytes": 1086,
+    "sha256": "23c2744c27603ba93be54a05333d204663fe0f65716d0fbe5991a3e7760e5c39",
+    "retrieved_utc": "2026-10-24T17:22:12.692633+00:00"
+  },
+  {
+    "file": "history/2007/contestants/6_gr.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/6_gr/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/6_gr/contestant.json",
+    "bytes": 840,
+    "sha256": "ce854b3d2ad8b038ef39cddab61ad0755e573fdacb0b0f76c297983b5e4155e5",
+    "retrieved_utc": "2026-10-24T17:22:12.747721+00:00"
+  },
+  {
+    "file": "history/2007/contestants/7_am.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/7_am/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/7_am/contestant.json",
+    "bytes": 777,
+    "sha256": "d4f44409257fb4d9a3188cd54e5b82f01f9677e1749914de7180a61eed4db14e",
+    "retrieved_utc": "2026-10-24T17:22:12.783804+00:00"
+  },
+  {
+    "file": "history/2007/contestants/8_hu.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/8_hu/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/8_hu/contestant.json",
+    "bytes": 779,
+    "sha256": "d2a36c3febdc0949092db65c46b9faca6ad76b3433097f1c5e60c68555cf0389",
+    "retrieved_utc": "2026-10-24T17:22:12.856542+00:00"
+  },
+  {
+    "file": "history/2007/contestants/9_md.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/9_md/contestant.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/contestants/9_md/contestant.json",
+    "bytes": 718,
+    "sha256": "63c550e2abd04fe06fb8fa3156c1c8b0755d5ad440c998023c4034c32349a12c",
+    "retrieved_utc": "2026-10-24T17:22:12.960578+00:00"
+  },
+  {
+    "file": "history/2007/final.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/rounds/final.json",
+    "resolved_url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/bdb665313b2372687ec9d3a0f5701f00377ef53d/data/senior/2007/rounds/final.json",
+    "bytes": 25819,
+    "sha256": "63b671c10b2fbd0f2b35b4b1e94c389b6d42b2bcb6ebda3b76c413bc9f3fe9ba",
+    "retrieved_utc": "2026-10-24T17:22:04.553763+00:00"
+  },
+  {
+    "file": "validation/Eurovision_2003.html",
+    "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2003",
+    "resolved_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2003",
+    "bytes": 1044781,
+    "sha256": "37af0c3e26b10e8449a5fabe2cfcbe28f8cd3191da8fddfcc353b6ec2c38db29",
+    "retrieved_utc": "2026-10-24T17:24:31.742417+00:00"
+  },
+  {
+    "file": "validation/Eurovision_2004.html",
+    "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2004",
+    "resolved_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2004",
+    "bytes": 1162084,
+    "sha256": "f8e94eb4a2eeb2147c9bdec1e839a5b5837bbe78933ef2b79f2e0bee5dd27db2",
+    "retrieved_utc": "2026-10-24T17:24:31.493010+00:00"
+  },
+  {
+    "file": "validation/Eurovision_2005.html",
+    "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2005",
+    "resolved_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2005",
+    "bytes": 1263744,
+    "sha256": "3bd825dddff11889995a4eab0f0765f7c2f8743e0750cf2c5d3556270480c06f",
+    "retrieved_utc": "2026-10-24T17:24:31.494355+00:00"
+  },
+  {
+    "file": "validation/Eurovision_2006.html",
+    "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2006",
+    "resolved_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2006",
+    "bytes": 1365037,
+    "sha256": "5d746abc4742adcdead37f07d0f240e3ff5bceffaf80effe148373225f2c3e18",
+    "retrieved_utc": "2026-10-24T17:24:31.367935+00:00"
+  },
+  {
+    "file": "validation/Eurovision_2007.html",
+    "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2007",
+    "resolved_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2007",
+    "bytes": 1324316,
+    "sha256": "2ab1b920b6f9e3177176947ed1586216ac28865ee78cf18847f1222e71a42d10",
+    "retrieved_utc": "2026-10-24T17:24:31.361817+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2016.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2016",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2016",
+    "bytes": 419714,
+    "sha256": "f609dc5a173b7edbe375235a78127f4b5b5d660bc86a9716a18f5209926d9f3a",
+    "retrieved_utc": "2026-10-24T17:22:15.426152+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2017.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2017",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2017",
+    "bytes": 388987,
+    "sha256": "aa7f41bcc95d09658973d934696fd13818208a6c5466ddffea3806d6a35a6bad",
+    "retrieved_utc": "2026-10-24T17:22:15.194547+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2018.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2018",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2018",
+    "bytes": 520810,
+    "sha256": "170fbc4c54d5980243c410860501f974dd33c3713c249766df8621036c73c3bc",
+    "retrieved_utc": "2026-10-24T17:22:16.370706+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2019.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2019",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2019",
+    "bytes": 443781,
+    "sha256": "c51beca4ff1a8bf951d5ce28f6e9adac5af83ff1bf2a4ebee8d0a3ae8e9b8c2b",
+    "retrieved_utc": "2026-10-24T17:22:15.710077+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2021.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2021",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2021",
+    "bytes": 460447,
+    "sha256": "faf5954a36984955f186f9b0949bf9c68094b324453b89ea1e6fa6d1352995df",
+    "retrieved_utc": "2026-10-24T17:22:14.993332+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2022.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2022",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2022",
+    "bytes": 617049,
+    "sha256": "d686e56c410f10d54fbf3c2aa8f0cc0301a69876dff42bf717b1c76ccc9b9ca5",
+    "retrieved_utc": "2026-10-24T17:22:16.356651+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2023.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2023",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2023",
+    "bytes": 501255,
+    "sha256": "c9ac875850efffb03ec043c5ccda418a1fbe078400582050e19483281014905d",
+    "retrieved_utc": "2026-10-24T17:22:17.201416+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2024.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2024",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2024",
+    "bytes": 609217,
+    "sha256": "916f3dacde70f24831b9baea5d18daaf17c4aae77617f4125c0a72665bff843f",
+    "retrieved_utc": "2026-10-24T17:22:17.748624+00:00"
+  },
+  {
+    "file": "validation/San_Marino_2025.html",
+    "url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2025",
+    "resolved_url": "https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2025",
+    "bytes": 879474,
+    "sha256": "12b6612476088c0093051603723ec57964ec3b1d055504b4128d8dae4472abac",
+    "retrieved_utc": "2026-10-24T17:22:17.436721+00:00"
+  }
+]

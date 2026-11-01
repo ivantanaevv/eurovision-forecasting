@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "country": "RU",
+  "artist": "Dima Bilan",
+  "song": "Believe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-72s4WzUcKI",
+    "https://www.youtube-nocookie.com/embed/uE9oiDOsEmU",
+    "https://www.youtube-nocookie.com/embed/aOhk16C0JBA",
+    "https://www.youtube-nocookie.com/embed/3RoGOcEA_Ck",
+    "https://www.youtube-nocookie.com/embed/gv7Jv7ipZU4",
+    "https://www.youtube-nocookie.com/embed/aNO48xhobpI"
+  ],
+  "bpm": 133,
+  "tone": "C# major",
+  "artistPeople": [
+    "Viktor Belan"
+  ],
+  "backings": [
+    "Edvin Marton",
+    "Evgeni Viktorovich Plushenko",
+    "Yulia Nalimova"
+  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Jim Beanz"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dima Bilan"
+  ],
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "jury": null,
+  "spokesperson": "Oxana Fedorova"
+}

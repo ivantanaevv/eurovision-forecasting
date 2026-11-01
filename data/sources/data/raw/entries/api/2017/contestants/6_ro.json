@@ -1,0 +1,46 @@
+{
+  "id": 6,
+  "country": "RO",
+  "artist": "Ilinca feat. Alex Florea",
+  "song": "Yodel It!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZSHc7iDuBCQ",
+    "https://www.youtube-nocookie.com/embed/LlDzaRK8fSM",
+    "https://www.youtube-nocookie.com/embed/mX8LYc5eaEM",
+    "https://www.youtube-nocookie.com/embed/QpFdUoMjf3w",
+    "https://www.youtube-nocookie.com/embed/pk4IGlrdyEk",
+    "https://www.youtube-nocookie.com/embed/q6ag8adq8vE",
+    "https://www.youtube-nocookie.com/embed/flKmU5Wd8oE"
+  ],
+  "bpm": 87,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Alexandru Ionuț Florea",
+    "Maria Ilinca Băcilă"
+  ],
+  "backings": [
+    "Cristian Goaie"
+  ],
+  "dancers": null,
+  "stageDirector": "Aurel Badea",
+  "composers": [
+    "Mihai Alexandru"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexa Niculae"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Liana Stanciu"
+  ],
+  "jury": [
+    "Florin Cezar Ouatu",
+    "Luminiţa Anghel",
+    "Mihai Trăistariu",
+    "Paula Seling",
+    "Tavi Colen"
+  ],
+  "spokesperson": "Sonia Argint-Ionescu"
+}

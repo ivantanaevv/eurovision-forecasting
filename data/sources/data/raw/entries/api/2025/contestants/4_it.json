@@ -1,0 +1,45 @@
+{
+  "id": 4,
+  "country": "IT",
+  "artist": "Lucio Corsi",
+  "song": "Volevo essere un duro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vlu5XXDwHos",
+    "https://www.youtube-nocookie.com/embed/0uT_Y3i7B6A",
+    "https://www.youtube-nocookie.com/embed/mfAf9-5Oevw",
+    "https://www.youtube-nocookie.com/embed/vkWEvDK45pE",
+    "https://www.youtube-nocookie.com/embed/yu3aL4pIB2g",
+    "https://www.youtube-nocookie.com/embed/va39Y2IPZPE",
+    "https://www.youtube-nocookie.com/embed/PwqeDw-2_kk"
+  ],
+  "bpm": 79,
+  "tone": "E major",
+  "artistPeople": [
+    "Lucio Corsi"
+  ],
+  "backings": [
+    "Tommaso Ottomano"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lucio Corsi",
+    "Tommaso Ottomano"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "BigMama",
+    "Gabriele Corsi"
+  ],
+  "jury": [
+    "Andrea Settembre",
+    "Diego Calvetti",
+    "Giulia Ausani",
+    "Manola Moslehi",
+    "Mattia Marzi"
+  ],
+  "spokesperson": null
+}

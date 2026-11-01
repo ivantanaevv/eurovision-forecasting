@@ -1,0 +1,47 @@
+{
+  "id": 6,
+  "country": "MT",
+  "artist": "Destiny",
+  "song": "Je me casse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jbbc2yKnv0M",
+    "https://www.youtube-nocookie.com/embed/uUElgja4B9w",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/PQKiHr5qEfA",
+    "https://www.youtube-nocookie.com/embed/xVnTwSllHp8",
+    "https://www.youtube-nocookie.com/embed/_3zyOSMMOKU",
+    "https://www.youtube-nocookie.com/embed/JphfEg3YAxM"
+  ],
+  "bpm": 112,
+  "tone": "C minor",
+  "artistPeople": [
+    "Destiny Chukunyere"
+  ],
+  "backings": null,
+  "dancers": [
+    "Jennifer Pacaanas",
+    "Kim Pastor",
+    "Milena Jacuniak",
+    "Pauline Eddeborn"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Amanuel Dermont",
+    "Malin Christin",
+    "Nicklas Eklund",
+    "Pete Barringer"
+  ],
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": [
+    "Anna Azzopardi",
+    "Ira Losco",
+    "Kevin Abela",
+    "Michela",
+    "Sigmund Mifsud"
+  ],
+  "spokesperson": "Stephanie Spiteri"
+}

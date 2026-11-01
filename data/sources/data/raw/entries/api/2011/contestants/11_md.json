@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "country": "MD",
+  "artist": "Zdob și Zdub",
+  "song": "So Lucky",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nHAY_OVN_gY",
+    "https://www.youtube-nocookie.com/embed/IqrnwSY8PAk",
+    "https://www.youtube-nocookie.com/embed/lV540FTufdE"
+  ],
+  "bpm": 148,
+  "tone": "E minor",
+  "artistPeople": [
+    "Andrei Cebotari",
+    "Mihail Gincu",
+    "Roman Iagupov",
+    "Sveatoslav Starus",
+    "Valeriu Mazîlu"
+  ],
+  "backings": [
+    "Tatjana Ilescu"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Elsner",
+    "Mihai Gîncu",
+    "Roman Iagupov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andy Shuman",
+    "Marc Elsner"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Marcel Spătari"
+  ],
+  "jury": null,
+  "spokesperson": "Geta Burlacu"
+}

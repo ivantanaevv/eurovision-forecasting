@@ -1,0 +1,46 @@
+{
+  "id": 18,
+  "country": "RO",
+  "artist": "Elena",
+  "song": "The Balkan Girls",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2uf7trjAj20",
+    "https://www.youtube-nocookie.com/embed/07anOmpqykk",
+    "https://www.youtube-nocookie.com/embed/lXIxph-txS8"
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "artistPeople": [
+    "Elena Gheorghe"
+  ],
+  "backings": [
+    "Andreea Comşa",
+    "Flavia Brigitta Mihasan",
+    "Liliana Caunii",
+    "Lucia Dumitrescu",
+    "Roxana Ureche"
+  ],
+  "dancers": null,
+  "stageDirector": "Oana Draghici",
+  "composers": [
+    "Daris Mangal",
+    "Laurenţiu Duţă",
+    "Ovidiu Bistriceanu"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexandru Pelin",
+    "Laurenţiu Duţă"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": [
+    "Andrei Kerestely",
+    "Andrei Tudor",
+    "Corina Despot",
+    "Luminiţa Anghel",
+    "Mihai Alexandru"
+  ],
+  "spokesperson": "Alina Sorescu"
+}

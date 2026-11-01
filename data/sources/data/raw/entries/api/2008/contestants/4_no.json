@@ -1,0 +1,39 @@
+{
+  "id": 4,
+  "country": "NO",
+  "artist": "Maria",
+  "song": "Hold On Be Strong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/arSnpxfOD2k",
+    "https://www.youtube-nocookie.com/embed/VCORVtTCh5A",
+    "https://www.youtube-nocookie.com/embed/iKdHKxm1RTQ",
+    "https://www.youtube-nocookie.com/embed/JaSgbcirhTU"
+  ],
+  "bpm": 92,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Maria Haukaas Storeng"
+  ],
+  "backings": [
+    "Håvard Gryting",
+    "Jorunn Hauge",
+    "Karianne Kjærnes",
+    "May Kristin Kaspersen",
+    "Øystein Nesbakken"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mira Craig"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Hanne Hoftun",
+    "Per Sundnes"
+  ],
+  "jury": null,
+  "spokesperson": "Stian Barsnes-Simonsen"
+}

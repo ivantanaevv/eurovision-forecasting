@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "country": "LT",
+  "artist": "Donny Montell",
+  "song": "Love Is Blind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/x2vNoZnJxgY",
+    "https://www.youtube-nocookie.com/embed/-wK-1sdpBEA",
+    "https://www.youtube-nocookie.com/embed/28Zel35BCwo",
+    "https://www.youtube-nocookie.com/embed/wRTSkk410mI",
+    "https://www.youtube-nocookie.com/embed/eMFJISgJ0i0"
+  ],
+  "bpm": 124,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Donatas Montvydas"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Brandon Stone"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Ignas Krupavičius"
+}

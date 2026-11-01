@@ -1,0 +1,50 @@
+{
+  "id": 24,
+  "country": "NO",
+  "artist": "Gåte",
+  "song": "Ulveham",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YBbL8ORqNVU",
+    "https://www.youtube-nocookie.com/embed/JArm2ozAm0Q",
+    "https://www.youtube-nocookie.com/embed/UycoKAz1Jm8",
+    "https://www.youtube-nocookie.com/embed/UipzszlJwRQ",
+    "https://www.youtube-nocookie.com/embed/67V4QTypleM",
+    "https://www.youtube-nocookie.com/embed/Qs4ibmEh-qk",
+    "https://www.youtube-nocookie.com/embed/EmmXeF0MvQI"
+  ],
+  "bpm": 130,
+  "tone": "B minor",
+  "artistPeople": [
+    "Gunnhild Sundli",
+    "John Stenersen",
+    "Jon Even Schärer",
+    "Magnus Børmark",
+    "Mats Paulsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mona Berntsen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gunnhild Sundli",
+    "Jon Even Schärer",
+    "Magnus Børmark",
+    "Marit Jensen Lillebuen",
+    "Ronny Graff Janssen",
+    "Sveinung Eklo Sundli"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": [
+    "Annprincess Johnson Koffa",
+    "Daniel Johansen Elmrhari",
+    "Gunnilla Sussmann",
+    "Lars Horn Lavik",
+    "Lisa Stokke"
+  ],
+  "spokesperson": "Ingvild Helljesen"
+}

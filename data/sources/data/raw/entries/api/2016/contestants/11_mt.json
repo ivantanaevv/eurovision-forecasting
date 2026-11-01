@@ -1,0 +1,51 @@
+{
+  "id": 11,
+  "country": "MT",
+  "artist": "Ira Losco",
+  "song": "Walk on Water",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/58YS5m3EYVY",
+    "https://www.youtube-nocookie.com/embed/9J7O5BGqPDk",
+    "https://www.youtube-nocookie.com/embed/owdRmyu_Jac",
+    "https://www.youtube-nocookie.com/embed/LVMuYvchTgs",
+    "https://www.youtube-nocookie.com/embed/cuTXiWb0oas",
+    "https://www.youtube-nocookie.com/embed/8o_lSMrLADk"
+  ],
+  "bpm": 124,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ira Losco"
+  ],
+  "backings": [
+    "Anna Azzopardi",
+    "Lars Säfsund",
+    "Molly Pettersson Hammar",
+    "Pamela Bezzina"
+  ],
+  "dancers": [
+    "Fransman Skorpion"
+  ],
+  "stageDirector": "Stephane Boko",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ira Losco",
+    "Lisa Desmond",
+    "Molly Pettersson Hammar",
+    "Tim Larsson",
+    "Tobias Lundgren"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Arthur Caruana"
+  ],
+  "jury": [
+    "Angie Laus",
+    "Ismael Portelli",
+    "Maria Abdilla",
+    "Matthew Merceica",
+    "Peter Borg"
+  ],
+  "spokesperson": "Ben Camille"
+}

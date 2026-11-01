@@ -1,0 +1,42 @@
+{
+  "id": 3,
+  "country": "AM",
+  "artist": "Aram MP3",
+  "song": "Not Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oj0oOV-2fRQ",
+    "https://www.youtube-nocookie.com/embed/ChkJpnOgIwQ",
+    "https://www.youtube-nocookie.com/embed/mUt_A_9YxNI"
+  ],
+  "bpm": 140,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Aram Sargsyan (Արամ Սարգսյան)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aram Sargsyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Garik Papoyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Anna Avanesyan",
+    "Arevik Udumyan",
+    "Erik Antaranyan",
+    "Tigran Danielyan"
+  ],
+  "jury": [
+    "Anush Arshakyan",
+    "Arman Davtyan",
+    "Asatur Asatryan",
+    "Avet Barseghyan",
+    "Inga Arshakyan"
+  ],
+  "spokesperson": "Anna Avanesyan"
+}

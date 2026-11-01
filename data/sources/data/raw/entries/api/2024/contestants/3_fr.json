@@ -1,0 +1,47 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Slimane",
+  "song": "Mon amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-XyLecY2JyE",
+    "https://www.youtube-nocookie.com/embed/tfoOop2HXxQ",
+    "https://www.youtube-nocookie.com/embed/f-z9PFfpzeE",
+    "https://www.youtube-nocookie.com/embed/VCzc5C6Gu5M",
+    "https://www.youtube-nocookie.com/embed/HosHeYbojbY",
+    "https://www.youtube-nocookie.com/embed/ti9v1qjn5-o",
+    "https://www.youtube-nocookie.com/embed/9pNPhNJL7aQ"
+  ],
+  "bpm": 142,
+  "tone": "B minor",
+  "artistPeople": [
+    "Slimane Nebchi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Meïr Salah",
+    "Slimane Nebchi",
+    "Yaacov Salah"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Slimane Nebchi"
+  ],
+  "writers": null,
+  "broadcaster": "FR",
+  "commentators": [
+    "Laurence Boccolini",
+    "Nicky Doll",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Elise Mollet",
+    "Fanny Llado",
+    "Pierre Suppa",
+    "Sébastien Surel D'assigny",
+    "Valérie Dissaux"
+  ],
+  "spokesperson": "Natasha St-Pier"
+}

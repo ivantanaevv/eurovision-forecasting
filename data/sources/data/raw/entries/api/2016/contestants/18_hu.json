@@ -1,0 +1,46 @@
+{
+  "id": 18,
+  "country": "HU",
+  "artist": "Freddie",
+  "song": "Pioneer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bT2DcpqvorI",
+    "https://www.youtube-nocookie.com/embed/SD1ESQeYU3U",
+    "https://www.youtube-nocookie.com/embed/wpIg3bJ__GE",
+    "https://www.youtube-nocookie.com/embed/U0_FjDoin3c",
+    "https://www.youtube-nocookie.com/embed/yE0ZzBY5sLY"
+  ],
+  "bpm": 144,
+  "tone": "C minor",
+  "artistPeople": [
+    "Gábor Alfréd Fehérvári"
+  ],
+  "backings": [
+    "Barnabás Wodala",
+    "Dávid Baranya",
+    "Gábor Molnár",
+    "Tamás Mészáros"
+  ],
+  "dancers": null,
+  "stageDirector": "Szabolcs Gyöngyösi",
+  "composers": [
+    "Zé Szabó"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Borbála Csarnai"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": [
+    "Károly Frenreisz",
+    "Kati Wolf",
+    "Lotfi Begi",
+    "Péter Novák",
+    "Viktor Rakonczai"
+  ],
+  "spokesperson": "Csilla Tatár"
+}

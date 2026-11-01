@@ -1,0 +1,37 @@
+{
+  "id": 9,
+  "country": "HU",
+  "artist": "ByeAlex",
+  "song": "Kedvesem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rOimfHq76xk",
+    "https://www.youtube-nocookie.com/embed/XVJddk9YXZo",
+    "https://www.youtube-nocookie.com/embed/UmjsIhihJMY"
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "artistPeople": [
+    "Alex Márta"
+  ],
+  "backings": [
+    "Dániel Kővágó",
+    "Helga Wéber"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "ByeAlex",
+    "Zoohacker"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "ByeAlex"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": null,
+  "spokesperson": "Éva Novodomszky"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 17,
+  "country": "AM",
+  "artist": "Artsvik",
+  "song": "Fly With Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g373Libigw8",
+    "https://www.youtube-nocookie.com/embed/yKh8sLLXix4",
+    "https://www.youtube-nocookie.com/embed/Yw6LdDo7HxA",
+    "https://www.youtube-nocookie.com/embed/oUIr7ySgrys",
+    "https://www.youtube-nocookie.com/embed/ewpiB9iDA3E",
+    "https://www.youtube-nocookie.com/embed/jKmzNFR74Yc",
+    "https://www.youtube-nocookie.com/embed/LP4D9OOrTck",
+    "https://www.dailymotion.com/embed/video/x5kentk"
+  ],
+  "bpm": 90,
+  "tone": "A minor",
+  "artistPeople": [
+    "Artsvik Arutyunyan"
+  ],
+  "backings": [
+    "Amaliya Margaryan",
+    "Anushik Ter-Ghukasyan",
+    "Viktoria Pogosyan"
+  ],
+  "dancers": [
+    "Fanny Svensson",
+    "Marlene Lindahl"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Levon Navasardyan",
+    "Lilith Navasardyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Avet Barseghyan",
+    "David Tserunyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Avet Barseghyan",
+    "Gohar Gasparyan"
+  ],
+  "jury": [
+    "Ara Gevorgyan",
+    "Aramayis Hayrapetyan",
+    "Eduard Topchjan",
+    "Emma Asatryan",
+    "Tigran Sanoyan",
+    "Zaruhi Babayan"
+  ],
+  "spokesperson": "Iveta Mukuchyan"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Max",
+  "song": "Can't Wait Until Tonight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0DjihJp4HU4",
+    "https://www.youtube-nocookie.com/embed/ecBQg1ZJEns",
+    "https://www.youtube-nocookie.com/embed/xZL0DzRn_e8"
+  ],
+  "bpm": 98,
+  "tone": "A major",
+  "artistPeople": [
+    "Maximilian Nepomuk Mutzke"
+  ],
+  "backings": [
+    "Dominik Krämer",
+    "Herb Jösch",
+    "Philipp Niessen",
+    "Stefan Raab",
+    "Wolfgang Norman Dalheimer"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Stefan Raab"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Anders"
+}

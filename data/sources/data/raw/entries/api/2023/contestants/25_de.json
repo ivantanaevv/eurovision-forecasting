@@ -1,0 +1,51 @@
+{
+  "id": 25,
+  "country": "DE",
+  "artist": "Lord Of The Lost",
+  "song": "Blood & Glitter",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dyGR4YWlPEs",
+    "https://www.youtube-nocookie.com/embed/5I9CYu668jA",
+    "https://www.youtube-nocookie.com/embed/x2DFDllgsfM",
+    "https://www.youtube-nocookie.com/embed/lnAliSmSI1A",
+    "https://www.youtube-nocookie.com/embed/LiwpdELrXhw",
+    "https://www.youtube-nocookie.com/embed/hufdMTPP0Es",
+    "https://www.youtube-nocookie.com/embed/jZeEpkan4zQ"
+  ],
+  "bpm": 139,
+  "tone": "A minor",
+  "artistPeople": [
+    "Chris Harms",
+    "Class Grenayde",
+    "Gared Dirge",
+    "Niklas Kahl",
+    "Pi Stoffers"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": [
+    "Chris Harms",
+    "Rupert Keplinger"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anthony J. Brown",
+    "Chris Harms",
+    "Pi Stoffers",
+    "Rupert Keplinger"
+  ],
+  "writers": null,
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Alina Eva Süggeler",
+    "Anica Russo",
+    "Arne Surendra Ghosh",
+    "Kai Tölke",
+    "Karin Ilse Überall"
+  ],
+  "spokesperson": "Elton"
+}

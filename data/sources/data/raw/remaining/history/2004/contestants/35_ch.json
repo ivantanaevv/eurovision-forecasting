@@ -1,0 +1,38 @@
+{
+  "id": 35,
+  "country": "CH",
+  "artist": "Piero Esteriore & the MusicStars",
+  "song": "Celebrate",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EUX3_0KM7fc",
+    "https://www.youtube-nocookie.com/embed/wKrsx87WzAY"
+  ],
+  "bpm": 111,
+  "tone": "G major",
+  "artistPeople": [
+    "Damian Odermatt",
+    "Piero Esteriore",
+    "Sabrina Auer",
+    "Sergio Luvualu",
+    "Tina Masafret"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Greg Manning"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Alain Morisod",
+    "Claudio Lazzarino",
+    "Daniela Tami",
+    "Jean-Marc Richard",
+    "Marco Fritsche"
+  ],
+  "jury": null,
+  "spokesperson": "Emel Aykanat"
+}

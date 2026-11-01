@@ -1,0 +1,51 @@
+{
+  "id": 11,
+  "country": "FR",
+  "artist": "Alma",
+  "song": "Requiem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HjiLKsLQl4I",
+    "https://www.youtube-nocookie.com/embed/Koi36aeRv7I",
+    "https://www.youtube-nocookie.com/embed/6VoJB05spcY",
+    "https://www.youtube-nocookie.com/embed/ebvSoecNPEw",
+    "https://www.youtube-nocookie.com/embed/HqWAarATwXk",
+    "https://www.youtube-nocookie.com/embed/jNSvsSDuhss",
+    "https://www.youtube-nocookie.com/embed/M5MYVl6M_lg"
+  ],
+  "bpm": 108,
+  "tone": "B minor",
+  "artistPeople": [
+    "Alexandra Maquet"
+  ],
+  "backings": [
+    "Céline Arnaud",
+    "Michaël LeLong",
+    "Nathanaëlle Langlais"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nazim Khaled"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexandra Maquet",
+    "Nazim Khaled"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Amir",
+    "Jarry",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Antoine Gouiffes-Yan",
+    "Enea",
+    "Hédia Charni",
+    "Julien Gonçalves",
+    "Steven Bellery"
+  ],
+  "spokesperson": "Élodie Gossuin"
+}

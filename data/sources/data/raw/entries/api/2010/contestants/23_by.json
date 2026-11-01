@@ -1,0 +1,44 @@
+{
+  "id": 23,
+  "country": "BY",
+  "artist": "3+2",
+  "song": "Butterflies",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MvK2KU2zfzA",
+    "https://www.youtube-nocookie.com/embed/Ynsr_paC5vM"
+  ],
+  "bpm": 77,
+  "tone": "F major",
+  "artistPeople": [
+    "Artyom Mihalenko",
+    "Egiazar Farashyan",
+    "Yulia Shishko"
+  ],
+  "backings": [
+    "Alyona Karpovich",
+    "Ninel Karpovich",
+    "Robert Wells"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Maxim Fadeev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Malka Chaplin"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": [
+    "Anatoly Yarmolenko",
+    "Ludmila Borodina",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ],
+  "spokesperson": "Aleksei Grishin"
+}

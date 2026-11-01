@@ -1,0 +1,40 @@
+{
+  "id": 8,
+  "country": "GE",
+  "artist": "Eldrine",
+  "song": "One More Day",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/s2EwiTBiEDU",
+    "https://www.youtube-nocookie.com/embed/LvnLWlHqMqM",
+    "https://www.youtube-nocookie.com/embed/18y4czwt-pA",
+    "https://www.youtube-nocookie.com/embed/e4bvEWWk414"
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "artistPeople": [
+    "Irakli Bibilashvili",
+    "David Changoshvili",
+    "Beso Tsikhelashvili",
+    "Tamar Shekiladze",
+    "Mikheil Chelidze",
+    "Sophio Toroshelidze"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Pascal Jourdan",
+  "composers": [
+    "DJ BE$$"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "DJ Rock",
+    "Miken"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Sopho Altunishvili"
+  ],
+  "jury": null,
+  "spokesperson": "Sofia Nizharadze"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 23,
+  "country": "BY",
+  "artist": "Zena",
+  "song": "Like It",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C1Y9LBusHzA",
+    "https://www.youtube-nocookie.com/embed/qdrC0c8dI5c",
+    "https://www.youtube-nocookie.com/embed/6IxL8uvArVg",
+    "https://www.youtube-nocookie.com/embed/Ao93RTN90Xs",
+    "https://www.youtube-nocookie.com/embed/FOfSn-_Nmqs",
+    "https://www.youtube-nocookie.com/embed/TUgznFAwVXo",
+    "https://www.youtube-nocookie.com/embed/MJdt3JIdmMQ"
+  ],
+  "bpm": 105,
+  "tone": "C minor",
+  "artistPeople": [
+    "Zinaida Alexandrovna Kupriyanovich (Зінаіда Аляксандраўна Купрыяновіч)"
+  ],
+  "backings": [
+    "Olga Dorozhey",
+    "Radmira Mantuliny",
+    "Sofia Mantuliny"
+  ],
+  "dancers": [
+    "Ali Gudiev",
+    "Mike Isaev"
+  ],
+  "stageDirector": "Andrey Tsar",
+  "composers": [
+    "Viktor Drobysh",
+    "Yulia Kireeva"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yulia Kireeva"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": [
+    "Anastasiya Tikhanovitch",
+    "Anzelina Mikulskaya",
+    "Artsem Mikhalenka",
+    "Olga Rizhikova",
+    "Valeriy Prigun"
+  ],
+  "spokesperson": "Maria Vasilevich"
+}

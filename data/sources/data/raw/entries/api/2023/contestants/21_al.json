@@ -1,0 +1,48 @@
+{
+  "id": 21,
+  "country": "AL",
+  "artist": "Albina & Familja Kelmendi",
+  "song": "Duje",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TI9rSDhXwyc",
+    "https://www.youtube-nocookie.com/embed/mp8OG4ApocI",
+    "https://www.youtube-nocookie.com/embed/748J3WWznds",
+    "https://www.youtube-nocookie.com/embed/aZxe3Ce6yEI",
+    "https://www.youtube-nocookie.com/embed/thviFKMsmQ8",
+    "https://www.youtube-nocookie.com/embed/2f6DvcmX348",
+    "https://www.youtube-nocookie.com/embed/3--mKl0GwC8"
+  ],
+  "bpm": 110,
+  "tone": "D minor",
+  "artistPeople": [
+    "Albana Kelmendi",
+    "Albin Kelmendi",
+    "Albina Kelmendi",
+    "Bujar Kelmendi",
+    "Sidorela Kelmendi",
+    "Vesa Kelmendi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Enis Mulla"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Eriona Rushiti"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Eneda Tarifa",
+    "Haig Zacharian",
+    "Josif Gjipali",
+    "Sokol Marsi",
+    "Sonila Djepaxhia"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

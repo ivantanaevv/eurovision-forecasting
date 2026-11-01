@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "country": "BG",
+  "artist": "Kristian Kostov",
+  "song": "Beautiful Mess",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OMmm-G078LM",
+    "https://www.youtube-nocookie.com/embed/OCZjiCqEaog",
+    "https://www.youtube-nocookie.com/embed/jDXQm5JPEJc",
+    "https://www.youtube-nocookie.com/embed/nM7s8lBNdLg",
+    "https://www.youtube-nocookie.com/embed/1oiZs3-2mok",
+    "https://www.youtube-nocookie.com/embed/gkRufUtxmIk",
+    "https://www.youtube-nocookie.com/embed/GyzxvHja9VU"
+  ],
+  "bpm": 126,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Kristian Konstantinov Kostov (Кристиан Константинов Костов)"
+  ],
+  "backings": [
+    "Bobo",
+    "Cesár Sampson",
+    "Vlado Mihailov"
+  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Omar",
+    "Alexander V. Blay",
+    "Borislav Milanov",
+    "Joacim Persson",
+    "Sebastian Arman"
+  ],
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": [
+    "Atanas Stoyanov",
+    "Maria Grancharova",
+    "Milka Miteva",
+    "Nelly Rangelova",
+    "Orlin Pavlov"
+  ],
+  "spokesperson": "Boryana Gramatikova"
+}

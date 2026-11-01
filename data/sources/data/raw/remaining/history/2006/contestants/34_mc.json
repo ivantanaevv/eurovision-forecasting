@@ -1,0 +1,32 @@
+{
+  "id": 34,
+  "country": "MC",
+  "artist": "Séverine Ferrer",
+  "song": "La coco-dance",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g23U7o4NgmA",
+    "https://www.youtube-nocookie.com/embed/q76S4NpUL3U"
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "artistPeople": [
+    "Séverine Ferrer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Iren Bo",
+    "J. Woodfeel"
+  ],
+  "broadcaster": "TMC",
+  "commentators": [
+    "Bernard Montiel",
+    "Églantine Eméyé"
+  ],
+  "jury": null,
+  "spokesperson": "Églantine Eméyé"
+}

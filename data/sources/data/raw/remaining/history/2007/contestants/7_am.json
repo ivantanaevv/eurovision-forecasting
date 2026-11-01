@@ -1,0 +1,38 @@
+{
+  "id": 7,
+  "country": "AM",
+  "artist": "Hayko",
+  "song": "Anytime You Need",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BgkFJD6F7wA",
+    "https://www.youtube-nocookie.com/embed/J8EPFa2oZcw",
+    "https://www.youtube-nocookie.com/embed/oDwZ9fjR_SI",
+    "https://www.youtube-nocookie.com/embed/bLfoDBpEASU"
+  ],
+  "bpm": 166,
+  "tone": "G minor",
+  "artistPeople": [
+    "Hayk Hakobyan"
+  ],
+  "backings": [
+    "Goga",
+    "Murzo",
+    "Tigran Petrosyan"
+  ],
+  "dancers": null,
+  "stageDirector": "Andrey Sychov",
+  "composers": [
+    "Hayko"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Gohar Gasparyan"
+  ],
+  "jury": null,
+  "spokesperson": "Sirusho"
+}

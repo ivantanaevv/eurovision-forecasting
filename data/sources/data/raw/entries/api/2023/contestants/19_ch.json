@@ -1,0 +1,53 @@
+{
+  "id": 19,
+  "country": "CH",
+  "artist": "Remo Forrer",
+  "song": "Watergun",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l4NDErv49mk",
+    "https://www.youtube-nocookie.com/embed/_8-Sbc_GZMc",
+    "https://www.youtube-nocookie.com/embed/LWiW2GDNZ0s",
+    "https://www.youtube-nocookie.com/embed/KcqugezA6oo",
+    "https://www.youtube-nocookie.com/embed/2k5Ejl5q-gk",
+    "https://www.youtube-nocookie.com/embed/XcgewU5FekE",
+    "https://www.youtube-nocookie.com/embed/8DQF09cco-U"
+  ],
+  "bpm": 138,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Remo Forrer"
+  ],
+  "backings": null,
+  "dancers": [
+    "Ellinea Siambalis",
+    "Kenny Lantz",
+    "Lovisa Bengtsson",
+    "Marco Wihlborg"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Argyle Singh",
+    "Ashley Hicklin",
+    "Mikołaj Trybulec"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Ellis Cavallini",
+    "Gian-Andrea Costa",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Priscilla Formaz",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Benjamin Jon Alasu",
+    "Mauro Rossi",
+    "Roxane Lara Debora Ischi",
+    "Thierry Epiney",
+    "Zoë Kressler"
+  ],
+  "spokesperson": "Chiara Dubey"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 20,
+  "country": "SE",
+  "artist": "Malena Ernman",
+  "song": "La Voix",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xE9Pl3mqRbo",
+    "https://www.youtube-nocookie.com/embed/5WH2OwJeMBE"
+  ],
+  "bpm": 128,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Malena Ernman"
+  ],
+  "backings": [
+    "Anna-Maria Hallgarn",
+    "Dea Norberg",
+    "Jessica Marberger",
+    "Malin Nilsson",
+    "Tine Matulessy"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fredrik Kempe"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fredrik Kempe",
+    "Malena Ernman"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Shirley Clamp"
+  ],
+  "jury": [
+    "Anna Charlotta Gunnarson",
+    "L-G Alsenius",
+    "Magnus Carlsson",
+    "Michael Cederberg",
+    "Sarah Dawn Finer"
+  ],
+  "spokesperson": "Sarah Dawn Finer"
+}

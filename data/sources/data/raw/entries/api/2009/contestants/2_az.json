@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "country": "AZ",
+  "artist": "AySel & Arash",
+  "song": "Always",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J0qdRqY_3HM",
+    "https://www.youtube-nocookie.com/embed/HmA82DlI-Pc"
+  ],
+  "bpm": 109,
+  "tone": "F# major",
+  "artistPeople": [
+    "Arash",
+    "Aysel Teymurzadə"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alex Papaconstantinou",
+    "Arash Labaf",
+    "Johan Bejerholm",
+    "Marcus Englöf",
+    "Robert Uhlmann"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anderz Wrethov",
+    "Arash Labaf",
+    "Elin Wrethov",
+    "Robert Uhlmann"
+  ],
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Isa Melikov",
+    "Leyla Aliyeva"
+  ],
+  "jury": null,
+  "spokesperson": "Husniyya Maharramova"
+}

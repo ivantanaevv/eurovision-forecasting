@@ -1,0 +1,49 @@
+{
+  "id": 10,
+  "country": "FI",
+  "artist": "Softengine",
+  "song": "Something Better",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3FDWaFfo1CU",
+    "https://www.youtube-nocookie.com/embed/a-NSVFBKU-4",
+    "https://www.youtube-nocookie.com/embed/ZHzbt-t-eo4",
+    "https://www.youtube-nocookie.com/embed/izGvzrOI4WI",
+    "https://www.youtube-nocookie.com/embed/ubv6QvjCcK8"
+  ],
+  "bpm": 146,
+  "tone": "C major",
+  "artistPeople": [
+    "Topi Latukka",
+    "Eero Keskinen",
+    "Henri Oskár",
+    "Ossi Mäkelä",
+    "Tuomo Alarinta"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Topi Latukka"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Henri Oskár",
+    "Topi Latukka"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Jorma Hietamäki",
+    "Sanna Pirkkalainen"
+  ],
+  "jury": [
+    "Annette Lundell",
+    "Jaako Hurme",
+    "Kaija Kärkinen",
+    "Rauli Eskolin",
+    "Saara Törmä"
+  ],
+  "spokesperson": "Redrama"
+}

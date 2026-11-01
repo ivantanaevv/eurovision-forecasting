@@ -1,0 +1,42 @@
+{
+  "id": 2,
+  "country": "UA",
+  "artist": "Zlata Ognevich",
+  "song": "Gravity",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xgLCBm8Txsc",
+    "https://www.youtube-nocookie.com/embed/-onH40yB2uk",
+    "https://www.youtube-nocookie.com/embed/ZwKYuKcymZg",
+    "https://www.youtube-nocookie.com/embed/nbwZNQUx3tQ",
+    "https://www.youtube-nocookie.com/embed/XYBuUmAzwZY",
+    "https://www.youtube-nocookie.com/embed/KNkwa5cYnkI"
+  ],
+  "bpm": 88,
+  "tone": "D minor",
+  "artistPeople": [
+    "Inna Leonidivna Bordiuh (Інна Леонідівна Бордюг)"
+  ],
+  "backings": [
+    "Ann Bailey-Simons",
+    "Cleveland Watkiss",
+    "Dasha Mineeva",
+    "Hollie Petrie"
+  ],
+  "dancers": null,
+  "stageDirector": "Maksym Lytvynov",
+  "composers": [
+    "Mikhail Nekrasov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Oleksiy Matias"
+}

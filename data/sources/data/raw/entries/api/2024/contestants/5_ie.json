@@ -1,0 +1,46 @@
+{
+  "id": 5,
+  "country": "IE",
+  "artist": "Bambie Thug",
+  "song": "Doomsday Blue",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UMq8ofCstMQ",
+    "https://www.youtube-nocookie.com/embed/ZGRXRrlIspY",
+    "https://www.youtube-nocookie.com/embed/BNc5zTYkTaQ",
+    "https://www.youtube-nocookie.com/embed/eA2fKlT8Khw",
+    "https://www.youtube-nocookie.com/embed/PcFyY6hrhI4",
+    "https://www.youtube-nocookie.com/embed/ifH864BB9aI",
+    "https://www.youtube-nocookie.com/embed/ffkB5OyB8bA"
+  ],
+  "bpm": 130,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Bambie Ray Robinson"
+  ],
+  "backings": null,
+  "dancers": [
+    "Matt Williams"
+  ],
+  "stageDirector": "Sergio Jaen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Bambie Ray Robinson",
+    "Olivia Cassy Brooking",
+    "Sam Matlock",
+    "Tyler Ryder"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Bill Hughes",
+    "Brian Sheil",
+    "Kim Hayden",
+    "Lisa Lambe",
+    "Tracy Clifford"
+  ],
+  "spokesperson": "Paul Harrington"
+}

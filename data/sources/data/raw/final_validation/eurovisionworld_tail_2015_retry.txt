@@ -1,0 +1,109 @@
+Odds Eurovision Song Contest 2015 (https://eurovisionworld.com/odds/eurovision-2015)
+citeturn46view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://eurovisionworld.com/odds/eurovision-2015","lineno":45}); Total lines: 106
+L0:  | 【0†Eurovision News】【1†Junior Eurovision】【2†Eurovision Asia】【3†Burgas 2027】【4†Calendar】【5†National Selections】【3†Burgas 2027】【6†Tickets】【7†Results & Points】【8†Odds】【9†Songs & Videos】【10†Polls】【11†Stats】【12†Winners】【13†Facts】【14†Quiz】【15†OGAE】select year/country  |
+L1: 
+L2: 
+L3: 
+L4: # Odds Eurovision Song Contest 2015
+L5: 
+L6: 【8†Eurovision 2026】【16†Semi-final 1】【17†Semi-final 2】More
+L7: 
+L8: 
+L9: 
+L10: ## Who will win Eurovision Song Contest 2015?
+L11: ### Bookmakers have predicted Sweden
+L12: 
+L13: Closed event
+L14: 
+L15: The odds will not be updated
+L16:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L17:  |  | UNIBET  | BET365  | YOU
+L18: WIN  | BOYLE
+L19: SPORTS  | CORAL  | SKY
+L20: BET  | BET
+L21: VICTOR  | TITAN
+L22: BET  | BWIN  | PAF  | SPORTING
+L23: BET  | INTER
+L24: TOPS  | PADDY
+L25: POWER  | BET
+L26: FRED  | BETWAY  | STAN
+L27: JAMES  | BETFAIR
+L28: SPORT  | MATCH
+L29: BOOK  | BFX
+L30: 1  | 【18†Sweden Måns Zelmerlöw - Heroes】  | 2  | 2.1  | 2.38  | 2.25  | 2.1  | 2.1  | 2.1  | 2.1  | 1  | 2.25  | 2  | 2.25  | 2  | 2  | 2.1  | 2.25  | 2.1  | 2.21  | 2.2
+L31: 2  | 【19†Russia Polina Gagarina - A Million Voices】  | 4.5  | 3.75  | 4  | 3.75  | 4.5  | 3.75  | 4  | 4  | 4.75  | 3.5  | 4  | 4  | 4  | 4.5  | 4  | 3.5  | 4  | 5.16  | 4.99
+L32: 3  | 【20†Italy Il Volo - Grande amore】  | 6  | 5  | 5  | 5  | 5.5  | 5.5  | 6  | 5.5  | 5  | 5  | 5  | 4.25  | 5.5  | 6.5  | 4.5  | 4.5  | 6  | 6.74  | 6.51
+L33: 4  | 【21†Belgium Loïc Nottet - Rhythm Inside】  | 12  | 11  | 9  | 12  | 9  | 10  | 12  | 10  | 15  | 7.5  | 11  | 7  | 9  | 13  | 8  | 5  | 8  | 18  | 18
+L34: 5  | 【22†Australia Guy Sebastian - Tonight Again】  | 12  | 11  | 9  | 11  | 10  | 11  | 13  | 10  | 13  | 10  | 11  | 9  | 10  | 13  | 11  | 9  | 11  | 16  | 17
+L35: 6  | 【23†Estonia Elina Born & Stig Rästa - Goodbye to Yesterday】  | 24  | 19  | 34  | 23  | 21  | 21  | 19  | 21  | 21  | 29  | 21  | 23  | 17  | 26  | 26  | 15  | 17  | 27  | 27
+L36: 7  | 【24†Serbia Bojana Stamenov - Beauty Never Lies】  | 30  | 34  | 41  | 26  | 26  | 34  | 34  | 29  | 26  | 29  | 34  | 29  | 26  | 41  | 34  | 21  | 26  | 51  | 52
+L37: 8  | 【25†Norway Mørland & Debrah Scarlett - A Monster Like Me】  | 30  | 34  | 41  | 34  | 41  | 41  | 41  | 41  |  | 26  | 41  | 29  | 29  | 51  | 34  | 34  | 41  | 70  | 62
+L38: 9  | 【26†Latvia Aminata - Love Injected】  | 51  | 41  | 34  | 41  | 51  | 41  | 41  | 34  |  | 51  | 41  | 34  | 41  | 67  | 34  | 34  | 51  | 150  | 143
+L39: 10  | 【27†Israel Nadav Guedj - Golden Boy】  | 51  | 67  | 67  | 81  | 41  | 67  | 46  | 51  | 34  | 51  | 67  | 51  | 41  | 67  | 51  | 41  | 29  |  | 133
+L40: 11  | 【28†Azerbaijan Elnur Hüseynov - Hour Of The Wolf】  | 34  | 67  | 67  | 41  | 67  | 51  | 67  | 67  | 51  | 34  | 41  | 51  | 51  | 67  | 51  | 41  | 67  | 100  | 105
+L41: 12  | 【29†Spain Edurne - Amanecer】  | 34  | 81  | 81  | 51  | 67  | 81  | 67  | 67  | 51  | 34  | 67  | 51  | 81  | 67  | 67  | 51  | 81  |  | 181
+L42: 13  | 【30†Slovenia Maraaya - Here for You】  | 51  | 81  | 81  | 67  | 81  | 67  | 67  | 81  | 67  | 51  | 67  | 51  | 67  | 67  | 67  | 51  | 81  | 199  | 200
+L43: 14  | 【31†Georgia Nina Sublatti - Warrior】  | 81  | 101  | 151  | 67  | 101  | 101  | 101  | 81  | 67  | 81  | 101  | 81  | 67  | 101  | 81  | 51  | 81  | 199  | 285
+L44: 15  | 【32†UKUnited Kingdom Electro Velvet - Still in Love with You】  | 101  | 151  | 151  | 126  | 41  | 126  | 81  | 81  | 101  | 101  | 81  | 81  | 41  | 101  | 101  | 67  | 81  | 298  | 304
+L45: 16  | 【33†Greece Maria Elena Kyriakou - One Last Breath】  | 81  | 151  | 126  | 101  | 126  | 101  | 126  | 126  | 101  | 81  | 101  | 101  | 81  | 101  | 101  | 101  | 101  |  | 703
+L46: 17  | 【34†Romania Voltaj - De la capăt / All Over Again】  | 126  | 151  | 151  | 101  | 151  | 101  | 101  | 126  | 101  | 126  | 101  | 126  | 101  | 101  | 126  | 101  | 101  |  | 789
+L47: 18  | 【35†Armenia Genealogy - Face The Shadow】  | 101  | 151  | 151  | 176  | 151  | 151  | 151  | 151  | 101  | 101  | 101  | 126  | 101  | 101  | 126  | 126  | 101  | 199  | 228
+L48: 19  | 【36†Albania Elhaida Dani - I'm Alive】  | 101  | 151  | 126  | 126  | 101  | 151  | 101  | 126  | 101  | 101  | 101  | 101  | 101  | 101  | 101  | 101  | 101  | 496  | 950
+L49: 20  | 【37†Cyprus John Karayiannis - One Thing I Should Have Done】  | 126  | 151  | 151  | 101  | 151  | 126  | 126  | 126  | 101  | 126  | 101  | 101  | 101  | 101  | 101  | 101  | 126  | 496  | 713
+L50: 21  | 【38†Hungary Boggie - Wars For Nothing】  | 101  | 151  | 126  | 126  | 126  | 126  | 151  | 126  | 201  | 101  | 101  | 101  | 101  | 101  | 126  | 81  | 101  | 496  | 589
+L51: 22  | 【39†France Lisa Angell - N’oubliez pas】  | 126  | 151  | 126  | 176  | 151  | 126  | 126  | 126  | 201  | 126  | 101  | 126  | 151  | 101  | 126  | 101  | 101  | 496  | 694
+L52: 23  | 【40†Lithuania Monika & Vaidas - This Time】  | 151  | 201  | 201  | 151  | 201  | 151  | 151  | 151  | 101  | 151  | 101  | 126  | 101  | 101  | 126  | 101  | 101  | 496  | 950
+L53: 24  | 【41†Poland Monika Kuszyńska - In The Name Of Love】  | 251  | 251  | 251  | 151  | 251  | 201  | 151  | 151  | 101  | 251  | 201  | 151  | 101  | 101  | 151  | 151  | 126  |  | 903
+L54: 25  | 【42†Austria The Makemakes - I Am Yours】  | 201  | 251  | 251  | 151  | 251  | 151  | 126  | 151  | 101  | 201  | 151  | 151  | 151  | 101  | 151  | 101  | 101  | 496  | 950
+L55: 26  | 【43†Montenegro Knez - Adio】  | 101  | 201  | 251  | 151  | 251  | 251  | 201  | 126  | 101  | 101  | 201  | 151  | 151  | 101  | 151  | 176  | 126  | 496  | 950
+L56: 27  | 【44†Germany Ann Sophie - Black Smoke】  | 201  | 251  | 201  | 201  | 251  | 201  | 251  | 151  |  | 201  | 151  | 151  | 201  | 101  | 151  | 126  | 151  | 496  | 950
+L57: verified  | 23 May
+L58: 2015  | 23 May
+L59: 2015  | 23 May
+L60: 2015  | 23 May
+L61: 2015  | 23 May
+L62: 2015  | 23 May
+L63: 2015  | 23 May
+L64: 2015  | 23 May
+L65: 2015  | 23 May
+L66: 2015  | 23 May
+L67: 2015  | 23 May
+L68: 2015  | 23 May
+L69: 2015  | 23 May
+L70: 2015  | 23 May
+L71: 2015  | 23 May
+L72: 2015  | 23 May
+L73: 2015  | 23 May
+L74: 2015  | 23 May
+L75: 2015  | 23 May
+L76: 2015
+L77: Who will win Eurovision Song Contest 2015? The odds are collected from bookmakers that have odds on Eurovision Song Contest 2015. We don't provide any bets on these odds. We have commercial relationships with some of the bookmakers. We can not guarantee the availability or accuracy of odds or offers. Check with the bookmaker before signing up. The odds are subject to change, and can be seen as bookmakers' prediction of the betting: Who will win Eurovision Song Contest 2015?
+L78: 
+L79: 【45†More Eurovision Odds】
+L80: 【8†Eurovision Song Contest 2026 (closed)】【16†Eurovision 2026 Semi-final 1 (closed)】【17†Eurovision 2026 Semi-final 2 (closed)】【46†Melodifestivalen 2026 (closed)】【47†Sanremo 2026 (closed)】【48†Norway Melodi Grand Prix 2026 (closed)】【49†Finland UMK 2026 (closed)】【50†Sing for Greece 2026 (closed)】【51†Latvia Supernova 2026 (closed)】【52†Denmark Melodi Grand Prix 2026 (closed)】【53†Eesti Laul 2026 (closed)】【54†Eurovision Song Contest 2025 (closed)】【55†Eurovision Song Contest 2024 (closed)】【56†Eurovision Song Contest 2023 (closed)】【57†Eurovision Song Contest 2022 (closed)】【58†Eurovision Song Contest 2021 (closed)】【59†Eurovision Song Contest 2020 (cancelled)】【60†Eurovision Song Contest 2019 (closed)】【61†Eurovision Song Contest 2018 (closed)】【62†Eurovision Song Contest 2017 (closed)】【63†Eurovision Song Contest 2016 (closed)】【64†Eurovision Song Contest 2015 (closed)】
+L81: 【45†More Eurovision Odds】
+L82: ## Eurovision News
+L83: 
+L84: 【13†Did you know...Austria, Denmark, Finland, Norway, Portugal and Sweden boycotted the 1970 contest as they were not pleased with the result of 1969 and the voting structure】
+L85: 
+L86: 【13†Did you know...The Eurovision-friendly nation Australia has broadcast the Eurovision Song Contest every year since 1983】
+L87: 【13†Did you know...In 2011 Azerbaijan won the Grand Final with the song "Running Scared", but only came second in their semi-final. Greece won the semi-final, but came 7th in the Grand Final】
+L88: 
+L89: Select year or country
+L90: 
+L91: 【7†Eurovision Results, Voting & Points Complete database with all the votings, points, songs and lyrics from the Eurovision Song Contest history:】
+L92: 
+L93: Select year or country
+L94: ### 【9†Eurovision 2026 Songs & Videos】
+L95: 
+L96: 【9†All songs Eurovision 2026: Songs & Videos】
+L97: 
+L98: 【13†Did you know...Titles of songs have included Boom Bang-a-bang (UK, 1969), A-Ba-Ni-Ba (Israel, 1978), Bana Bana (Turkey, 1989) and Boum-badaboum (Monaco, 1967)】
+L99: 
+L100: 【13†Did you know...The Eurovision Song Contest is broadcast across five continents】
+L101: 
+L102: ### 【14†Eurovision Quiz】
+L103: #### 【14†Are you a true Eurovision fan?】
+L104: 
+L105: 【65†Quiz: Eurovision 2026】 【66†Quiz: Eurovision History】 【67†Quiz: Eurovision Winners】 【68†Eurovision 2015 to 2024】【14†...and 880 more Quizzes】
+

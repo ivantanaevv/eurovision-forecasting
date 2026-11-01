@@ -1,0 +1,51 @@
+{
+  "id": 23,
+  "country": "AT",
+  "artist": "Kaleen",
+  "song": "We Will Rave",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VZ6SlZnk_EI",
+    "https://www.youtube-nocookie.com/embed/Kqda15G4T-4",
+    "https://www.youtube-nocookie.com/embed/KqSuRaN9zFk",
+    "https://www.youtube-nocookie.com/embed/96CopzRBOeo",
+    "https://www.youtube-nocookie.com/embed/TxwKjq0bTys",
+    "https://www.youtube-nocookie.com/embed/HA4XfnGxye4",
+    "https://www.youtube-nocookie.com/embed/kkAf_3Vw-1I"
+  ],
+  "bpm": 140,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Marie-Sophie Kreissl"
+  ],
+  "backings": [
+    "Dea Norberg"
+  ],
+  "dancers": [
+    "Bradley Salter",
+    "Chase Vollenweider",
+    "Jaih Betote",
+    "Luca Rainbow"
+  ],
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anderz Wrethov",
+    "Jimmy Joker",
+    "Kill J",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Anna-Sophie Heibl",
+    "Annemarie Reisinger-Treiber",
+    "Philipp Emberger",
+    "Pia Maria",
+    "Simone Lewarth"
+  ],
+  "spokesperson": "Philipp Hansa"
+}

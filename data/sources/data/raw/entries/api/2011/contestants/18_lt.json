@@ -1,0 +1,35 @@
+{
+  "id": 18,
+  "country": "LT",
+  "artist": "Evelina Sašenko",
+  "song": "C'est ma vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S3_aSVE4t3M",
+    "https://www.youtube-nocookie.com/embed/EI7bEVRxU9c",
+    "https://www.youtube-nocookie.com/embed/yDGox-BNz3E"
+  ],
+  "bpm": 80,
+  "tone": "E major",
+  "artistPeople": [
+    "Evelina Sašenko"
+  ],
+  "backings": [
+    "Paulius Zdanavičius"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paulius Zdanavičius"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andrius Kairys"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Giedrius Masalskis"
+}

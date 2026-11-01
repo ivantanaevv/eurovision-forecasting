@@ -1,0 +1,35 @@
+{
+  "id": 23,
+  "country": "DE",
+  "artist": "Gracia",
+  "song": "Run & Hide",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/etWtZYu2tLQ",
+    "https://www.youtube-nocookie.com/embed/VWYhynmbHCY",
+    "https://www.youtube-nocookie.com/embed/Fg0jpj_X_qM",
+    "https://www.youtube-nocookie.com/embed/hXon1G5_roc"
+  ],
+  "bpm": 156,
+  "tone": "A major",
+  "artistPeople": [
+    "Gracia Arabella Baur"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "David Brandes",
+    "Jane Tempest"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John O'Flynn"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Hermanns"
+}

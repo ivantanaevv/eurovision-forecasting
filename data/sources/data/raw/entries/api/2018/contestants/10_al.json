@@ -1,0 +1,44 @@
+{
+  "id": 10,
+  "country": "AL",
+  "artist": "Eugent Bushpepa",
+  "song": "Mall",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uyl1b1fVmdU",
+    "https://www.youtube-nocookie.com/embed/E7t4mu0tmWc",
+    "https://www.youtube-nocookie.com/embed/VbNFep0qyck",
+    "https://www.youtube-nocookie.com/embed/kNwkCFmjNx4",
+    "https://www.youtube-nocookie.com/embed/DeKWkHW23g8",
+    "https://www.youtube-nocookie.com/embed/9uUkqioJXMc",
+    "https://www.youtube-nocookie.com/embed/pkluKWNEv-g"
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "artistPeople": [
+    "Gent Bushpepa"
+  ],
+  "backings": [
+    "Erinda Agolli",
+    "Greta Radovani"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eugent Bushpepa"
+  ],
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Ben Andoni",
+    "Bojken Lako",
+    "Elton Deda",
+    "Kamela Islamaj",
+    "Rosela Gjylbegu"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

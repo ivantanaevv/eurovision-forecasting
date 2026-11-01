@@ -1,0 +1,41 @@
+{
+  "id": 15,
+  "country": "CH",
+  "artist": "Six4One",
+  "song": "If We All Give A Little",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eSkQmSug55g",
+    "https://www.youtube-nocookie.com/embed/5tmYx5SNX4U"
+  ],
+  "bpm": 162,
+  "tone": "B minor",
+  "artistPeople": [
+    "Björn Helge Andreas Lundstedt",
+    "Claudia D'Addio",
+    "Keith Camilleri",
+    "Liel Colette",
+    "Marco Matias",
+    "Tinka Milinović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Alain Morisod",
+    "Claudio Lazzarino",
+    "Jean-Marc Richard",
+    "Sandra Studer",
+    "Sandy Altermatt"
+  ],
+  "jury": null,
+  "spokesperson": "Jubaira Bachmann"
+}

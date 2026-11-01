@@ -1,0 +1,50 @@
+{
+  "id": 18,
+  "country": "BE",
+  "artist": "Hooverphonic",
+  "song": "The Wrong Place",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HbpxcUMtjwY",
+    "https://www.youtube-nocookie.com/embed/DaBiom7_rvU",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/0EQyG1Yjlgw",
+    "https://www.youtube-nocookie.com/embed/NnlFBdL4maY",
+    "https://www.youtube-nocookie.com/embed/VHdN3_B5YdA",
+    "https://www.youtube-nocookie.com/embed/aeX0RgvzmNI"
+  ],
+  "bpm": 80,
+  "tone": "C major",
+  "artistPeople": [
+    "Geike Arnaert"
+  ],
+  "backings": [
+    "Alex Callier",
+    "Arnout Hellofs",
+    "Stef Caers",
+    "Monique Harcum",
+    "Raymond Geerts"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke, Ignace D'Haese",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Callier",
+    "Charlotte Foret"
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "Fanny Jandrain",
+    "Jean-Louis Lahaye",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Kate Ryan",
+    "Lady Linn",
+    "Pommelien Thijs",
+    "Stefaan Fernande",
+    "Yves Ruth"
+  ],
+  "spokesperson": "Danira Boukhriss Terkessidis"
+}

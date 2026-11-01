@@ -1,0 +1,37 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Olta Boka",
+  "song": "Zemrën e lamë peng",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CmvA5kfNsig",
+    "https://www.youtube-nocookie.com/embed/jrc7XpFn9kA",
+    "https://www.youtube-nocookie.com/embed/yRLz2nLdpI0"
+  ],
+  "bpm": 127,
+  "tone": "C minor",
+  "artistPeople": [
+    "Olta Boka"
+  ],
+  "backings": [
+    "Genci Myftaraj",
+    "Gridi Kraja",
+    "Mariola Miso"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adrian Hila"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pandi Laço"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "jury": null,
+  "spokesperson": "Leon Menkshi"
+}

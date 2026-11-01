@@ -1,0 +1,57 @@
+{
+  "id": 21,
+  "country": "SM",
+  "artist": "Senhit feat. Flo Rida",
+  "song": "Adrenalina",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TkhiH-JXFPs",
+    "https://www.youtube-nocookie.com/embed/YtVBxZXGJNg",
+    "https://www.youtube-nocookie.com/embed/eRAN7AzEKak",
+    "https://www.youtube-nocookie.com/embed/Zj6374-kXRk",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/0BRxa4pFuFc",
+    "https://www.youtube-nocookie.com/embed/P55D9kYDqdk"
+  ],
+  "bpm": 104,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Tramar Lacel Dillard",
+    "Senhit Zadik Zadik"
+  ],
+  "backings": null,
+  "dancers": [
+    "Ilaria Cavola",
+    "Lucrezia Stopponi",
+    "Patrizio Ratto",
+    "Stefano Rei Ferrari"
+  ],
+  "stageDirector": "Luca Tommassini",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chanel Tukia",
+    "Dillard Tramar",
+    "Jimmy Joker",
+    "Joy Deb",
+    "Kenny Silverdique",
+    "Linnea Deb",
+    "Malou Linn Eloise Ruotsalainen",
+    "Senhit Zadik Zadik",
+    "Suzi Pancenkov",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Antonio Cecchetti",
+    "Elisa Manzaroli",
+    "Fabrizio Raggi",
+    "Jimmy JDKA",
+    "Marilia Reffi"
+  ],
+  "spokesperson": "Monica Fabbri"
+}

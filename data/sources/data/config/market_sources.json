@@ -1,0 +1,20 @@
+[
+  {
+    "file": "odds2023_api.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2023",
+    "sha256": "be33505eb7624d6f4e058d44b662f99f6e17094a09747d3b7fde3d0567920ecc",
+    "retrieved_utc": "2026-10-24T18:05:20.039444+00:00"
+  },
+  {
+    "file": "odds2024_api.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2024",
+    "sha256": "b024d57f14ba87cf0230f8d9e108d173f207abeb5f9c91222c6e5de742edc952",
+    "retrieved_utc": "2026-10-24T18:05:21.305210+00:00"
+  },
+  {
+    "file": "odds2025_api.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2025",
+    "sha256": "f63a6fbe70e7b3f505fcd18ef504b31937cfa7ac9979ff7c4412c9994606e8a6",
+    "retrieved_utc": "2026-10-24T18:05:23.526044+00:00"
+  }
+]

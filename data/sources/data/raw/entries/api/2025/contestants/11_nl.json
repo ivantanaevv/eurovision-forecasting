@@ -1,0 +1,47 @@
+{
+  "id": 11,
+  "country": "NL",
+  "artist": "Claude",
+  "song": "C'est La Vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LiTQVJwxvfE",
+    "https://www.youtube-nocookie.com/embed/Wb8-gbgan80",
+    "https://www.youtube-nocookie.com/embed/hEHwr5k9pd0",
+    "https://www.youtube-nocookie.com/embed/hpxK4wxQ6ho",
+    "https://www.youtube-nocookie.com/embed/M9RltC34EmE",
+    "https://www.youtube-nocookie.com/embed/WAOKhNh9IqU",
+    "https://www.youtube-nocookie.com/embed/jRYb6PYEMmY"
+  ],
+  "bpm": 124,
+  "tone": "A major",
+  "artistPeople": [
+    "Claude Kiambe"
+  ],
+  "backings": null,
+  "dancers": [
+    "Emma Evelein",
+    "Lungssu Yen"
+  ],
+  "stageDirector": "Pim Brassien",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arno Krabman",
+    "Claude Kiambe",
+    "Joren van der Voort",
+    "Léon Palmen"
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas"
+  ],
+  "jury": [
+    "Dennis van Leeuwen",
+    "Frits Ritmeester",
+    "Gaia Tiana Marlene Aikman",
+    "Quinty Mesiedjan",
+    "Ronald de Bas"
+  ],
+  "spokesperson": "Chantal Janzen"
+}

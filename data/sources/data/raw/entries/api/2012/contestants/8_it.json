@@ -1,0 +1,41 @@
+{
+  "id": 8,
+  "country": "IT",
+  "artist": "Nina Zilli",
+  "song": "L'Amore È Femmina (Out Of Love)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/v0kGpDEvtbQ",
+    "https://www.youtube-nocookie.com/embed/1K8PB8eIy50",
+    "https://www.youtube-nocookie.com/embed/PKD2nHJDot4"
+  ],
+  "bpm": 140,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Maria Chiara Fraschetta"
+  ],
+  "backings": [
+    "Christina Laura Bertarello",
+    "Marco Guerzoni",
+    "Vhelade Bale Mur"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Charlie Mason",
+    "Christian Rabb",
+    "Frida Molander",
+    "Kristoffer Sjökvist",
+    "Nina Zilli"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Federica Gentile",
+    "Filippo Solibello",
+    "Marco Ardemagni"
+  ],
+  "jury": null,
+  "spokesperson": "Ivan Bacchi"
+}

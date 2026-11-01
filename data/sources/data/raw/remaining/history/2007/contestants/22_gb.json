@@ -1,0 +1,39 @@
+{
+  "id": 22,
+  "country": "GB",
+  "artist": "Scooch",
+  "song": "Flying The Flag (for You)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XT6yOIC6ihI",
+    "https://www.youtube-nocookie.com/embed/32VkqXSwmCI",
+    "https://www.youtube-nocookie.com/embed/E6FmisoHSc0"
+  ],
+  "bpm": 138,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Caroline Emily Barnes",
+    "David John Louis Ducasse",
+    "Natalie Powers",
+    "Russell Spencer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrew Hill",
+    "Morten Schjolin",
+    "Paul Tarry",
+    "Russ Spencer"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Paddy O'Connell",
+    "Sarah Cawood",
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Fearne Cotton"
+}

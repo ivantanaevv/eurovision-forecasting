@@ -1,0 +1,44 @@
+{
+  "id": 7,
+  "country": "GR",
+  "artist": "Amanda Georgiadi Tenfjord",
+  "song": "Die Together",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BWeT0nJpB3Y",
+    "https://www.youtube-nocookie.com/embed/Uv7PcRKXZDg",
+    "https://www.youtube-nocookie.com/embed/1F4xozknC_4",
+    "https://www.youtube-nocookie.com/embed/nWmhGVv-b-s",
+    "https://www.youtube-nocookie.com/embed/0ZHGEvwgayc",
+    "https://www.youtube-nocookie.com/embed/k8FT99Qyjuw"
+  ],
+  "bpm": 150,
+  "tone": "F major",
+  "artistPeople": [
+    "Amanda Klara Georgiadis Tenfjord"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Amanda Georgiadis Tenfjord",
+    "Bjørn Helge Gammelsæter"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Amanda Georgiadis Tenfjord"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Christianna Danezi",
+    "Dimitrios Masouras",
+    "Elli Karvoni",
+    "Nikos Antoniou",
+    "Victoria Halkiti"
+  ],
+  "spokesperson": "Stefania"
+}

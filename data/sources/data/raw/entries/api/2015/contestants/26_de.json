@@ -1,0 +1,47 @@
+{
+  "id": 26,
+  "country": "DE",
+  "artist": "Ann Sophie",
+  "song": "Black Smoke",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DGMJOchTRPc",
+    "https://www.youtube-nocookie.com/embed/W7u4RwkNAY0",
+    "https://www.youtube-nocookie.com/embed/ST5BJ_eowcM",
+    "https://www.youtube-nocookie.com/embed/GmMS_DRVq6Y",
+    "https://www.youtube-nocookie.com/embed/F3NzxXv3QlY",
+    "https://www.youtube-nocookie.com/embed/GC-_rDjawdg"
+  ],
+  "bpm": 86,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Ann-Sophie Dürmeyer"
+  ],
+  "backings": [
+    "Bibi Vongehr",
+    "Giovanna Winterfeldt",
+    "Kayna Okwuazu",
+    "Lan Syreen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ella McMahon",
+    "Michael Harwood",
+    "Tonino Speciale"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Johannes Strate",
+    "Leslie Clio",
+    "Mark Forster",
+    "Sascha Reimann",
+    "Swen Meyer"
+  ],
+  "spokesperson": "Barbara Schöneberger"
+}

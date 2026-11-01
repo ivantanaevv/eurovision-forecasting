@@ -1,0 +1,47 @@
+{
+  "id": 16,
+  "country": "AZ",
+  "artist": "Samra",
+  "song": "Miracle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cB8eSLyffsI",
+    "https://www.youtube-nocookie.com/embed/Dix6XJ_Uo-w",
+    "https://www.youtube-nocookie.com/embed/fmaRaN0MbbI",
+    "https://www.youtube-nocookie.com/embed/3xDd70HvDvc",
+    "https://www.youtube-nocookie.com/embed/vgAF2qQB_rg"
+  ],
+  "bpm": 96,
+  "tone": "F minor",
+  "artistPeople": [
+    "Samra Rahimli (Səmra Rəhimli)"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Jessica Marberger",
+    "Lars Säfsund",
+    "Patrik Riber",
+    "Zain Odelstål"
+  ],
+  "dancers": null,
+  "stageDirector": "Roine Söderlundh",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Amir Aly",
+    "Henrik Wikström",
+    "Jakke Erixson"
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "jury": [
+    "Ayyub Guliyev",
+    "Brilliant Dadashova",
+    "Farid Aliyev",
+    "Gulchohra Shafiyeva",
+    "Tarana Huseyn Muradova"
+  ],
+  "spokesperson": "Tural Asadov"
+}

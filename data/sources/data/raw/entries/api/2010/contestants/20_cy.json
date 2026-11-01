@@ -1,0 +1,39 @@
+{
+  "id": 20,
+  "country": "CY",
+  "artist": "Jon Lilygreen & The Islanders",
+  "song": "Life Looks Better In Spring",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KVsue-XPY0s",
+    "https://www.youtube-nocookie.com/embed/IpJ3wmecvsw",
+    "https://www.youtube-nocookie.com/embed/hT7sXM5qdRw"
+  ],
+  "bpm": 152,
+  "tone": "C major",
+  "artistPeople": [
+    "Charalambos Kallona",
+    "Jon Gregory",
+    "Jon Lilygreen",
+    "Katherine Squire",
+    "Sean Watts",
+    "Sylvia Stand"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Melis Konstantinou",
+    "Nasos Lambrianides"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nasos Lambrianides"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Christina Metaxa"
+}

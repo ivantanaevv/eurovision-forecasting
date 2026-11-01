@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "country": "IT",
+  "artist": "Francesca Michielin",
+  "song": "No Degree of Separation",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YfnhDfy8AjU",
+    "https://www.youtube-nocookie.com/embed/NXE-aTIIG30",
+    "https://www.youtube-nocookie.com/embed/fYr4Rfwdmxw",
+    "https://www.youtube-nocookie.com/embed/r1vWBWp_1Kk"
+  ],
+  "bpm": 152,
+  "tone": "C major",
+  "artistPeople": [
+    "Francesca Michielin"
+  ],
+  "backings": [
+    "Nicole Pellicani",
+    "Sabrina Fiorella"
+  ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": [
+    "Cheope",
+    "Fabio Gargiulo",
+    "Federica Abbate"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Federica Abbate",
+    "Francesca Michielin",
+    "Norma Jean Martine"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Federico Russo",
+    "Filippo Solibello",
+    "Flavio Insinna",
+    "Marco Ardemagni"
+  ],
+  "jury": [
+    "Alessandro Pigliavento",
+    "Andrea Maria Delogu",
+    "Massimiliano Novaresi",
+    "Paolo Belli",
+    "Stefania Zizzari",
+    "Tiziana Leone"
+  ],
+  "spokesperson": "Claudia Andreatti"
+}

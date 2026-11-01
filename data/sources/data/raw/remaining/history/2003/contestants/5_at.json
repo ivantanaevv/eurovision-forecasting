@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "country": "AT",
+  "artist": "Alf Poier",
+  "song": "Weil der Mensch zählt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nZJt6Gv4XPk",
+    "https://www.youtube-nocookie.com/embed/-YmyXjzpvCU"
+  ],
+  "bpm": 86,
+  "tone": "E minor",
+  "artistPeople": [
+    "Alf Poier"
+  ],
+  "backings": [
+    "Manuela Pan",
+    "Tamara Stadnikow"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alf Poier"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Dodo Roščić"
+}

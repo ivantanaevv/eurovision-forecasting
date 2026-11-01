@@ -1,0 +1,46 @@
+{
+  "id": 14,
+  "country": "DE",
+  "artist": "Abor & Tynna",
+  "song": "Baller",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3rrWZ6cldsA",
+    "https://www.youtube-nocookie.com/embed/xF_sNQXP5g8",
+    "https://www.youtube-nocookie.com/embed/zJplC4-9Scs",
+    "https://www.youtube-nocookie.com/embed/PrjVpsol5_A",
+    "https://www.youtube-nocookie.com/embed/ETZ96rSw25g",
+    "https://www.youtube-nocookie.com/embed/XSJ7kChv110",
+    "https://www.youtube-nocookie.com/embed/OLotnekiQ7k"
+  ],
+  "bpm": 138,
+  "tone": "C minor",
+  "artistPeople": [
+    "Attila Bornemisza",
+    "Tünde Bornemisza"
+  ],
+  "backings": [
+    "Wanja Janeva"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Attila Bornemisza",
+    "Alexander Hauer",
+    "Tünde Bornemisza"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Thorsten Schorn"
+  ],
+  "jury": [
+    "Ali Zuckowski",
+    "Carolin Fortenbacher",
+    "Eko Fresh",
+    "Lyza",
+    "Marc Möllmann"
+  ],
+  "spokesperson": "Michael Schulte"
+}

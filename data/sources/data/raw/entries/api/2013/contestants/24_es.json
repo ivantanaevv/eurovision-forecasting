@@ -1,0 +1,39 @@
+{
+  "id": 24,
+  "country": "ES",
+  "artist": "ESDM",
+  "song": "Contigo hasta el final",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5o_DnM_ANF8",
+    "https://www.youtube-nocookie.com/embed/6Ylr6ULCQww",
+    "https://www.youtube-nocookie.com/embed/GGvhpwr-WLY"
+  ],
+  "bpm": 156,
+  "tone": "C# major",
+  "artistPeople": [
+    "David Feito",
+    "Juan Luis Suárez",
+    "Raquel del Rosario"
+  ],
+  "backings": [
+    "Javi Mendéz",
+    "Mey Green",
+    "Milena Brody"
+  ],
+  "dancers": null,
+  "stageDirector": "Pedro Castro",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "David Feito",
+    "Juan Luis Suárez",
+    "Raquel del Rosario"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": null,
+  "spokesperson": "Inés Paz"
+}

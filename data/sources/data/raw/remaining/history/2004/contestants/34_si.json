@@ -1,0 +1,34 @@
+{
+  "id": 34,
+  "country": "SI",
+  "artist": "Platin",
+  "song": "Stay Forever",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2gh2F0aufEw",
+    "https://www.youtube-nocookie.com/embed/fdtRWjySTcs",
+    "https://www.youtube-nocookie.com/embed/sX40XJUSKvk"
+  ],
+  "bpm": 95,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Diana Lečnik",
+    "Simon Gomilšek"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Simon Gomilšek"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Diana Lečnik"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Poles"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 41,
+  "country": "CZ",
+  "artist": "Kabát",
+  "song": "Malá dáma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iBZaVQ52RQY",
+    "https://www.youtube-nocookie.com/embed/682YVr0jYWE",
+    "https://www.youtube-nocookie.com/embed/R0mOM3OPgro"
+  ],
+  "bpm": 136,
+  "tone": "C major",
+  "artistPeople": [
+    "Josef Vojtek",
+    "Milan Špalek",
+    "Ota Váňa",
+    "Radek Hurčík",
+    "Tomáš Krulich"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Josef Vojtek",
+    "Milan Špalek",
+    "Ota Váňa",
+    "Radek Hurčík",
+    "Tomáš Krulich"
+  ],
+  "broadcaster": "ČT",
+  "commentators": [
+    "Kateřina Kristelová"
+  ],
+  "jury": null,
+  "spokesperson": "Andrea Savane"
+}

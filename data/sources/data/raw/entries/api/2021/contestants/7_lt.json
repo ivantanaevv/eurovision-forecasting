@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "LT",
+  "artist": "The Roop",
+  "song": "Discoteque",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JNweec5olYw",
+    "https://www.youtube-nocookie.com/embed/ZGsjtJn4aAo",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/AWoDP1oBNDc",
+    "https://www.youtube-nocookie.com/embed/CWqrdzNoBKA",
+    "https://www.youtube-nocookie.com/embed/8Kcm-uZSslw",
+    "https://www.youtube-nocookie.com/embed/Uemmx6qy_48"
+  ],
+  "bpm": 115,
+  "tone": "F minor",
+  "artistPeople": [
+    "Vaidotas Valiukevičius"
+  ],
+  "backings": [
+    "Mantas Banišauskas",
+    "Robertas Baranauskas"
+  ],
+  "dancers": [
+    "Marijanas Staniulėnas",
+    "Miglė Praniauskaitė"
+  ],
+  "stageDirector": "Povilas Varvuolis",
+  "composers": [
+    "Ilkka Wirtanen",
+    "Laisvūnas Černovas",
+    "Mantas Banišauskas",
+    "Robertas Baranauskas",
+    "Vaidotas Valiukevičius"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kalle Lindroth",
+    "Mantas Banišauskas",
+    "Vaidotas Valiukevičius"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Ramūnas Zilnys"
+  ],
+  "jury": [
+    "Bjelle",
+    "Darius Užkuraitis",
+    "Giedrė Kilčiauskienė",
+    "Jievaras Jasinskis",
+    "Rafailas Karpis"
+  ],
+  "spokesperson": "Andrius Mamontovas"
+}

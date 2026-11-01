@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "country": "HU",
+  "artist": "NOX",
+  "song": "Forogj világ",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ib-HrBr169A",
+    "https://www.youtube-nocookie.com/embed/TUWXBoclpM0",
+    "https://www.youtube-nocookie.com/embed/EdII12y__6E",
+    "https://www.youtube-nocookie.com/embed/vbZh_x6Obq8"
+  ],
+  "bpm": 140,
+  "tone": "E minor",
+  "artistPeople": [
+    "Szylvia Péter Szabó",
+    "Tamás Nagy"
+  ],
+  "backings": [
+    "József Kinczel",
+    "Péter Baraté",
+    "Sándor Tóth",
+    "Zoltán Dékány"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Szabolcs Harmath"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Attila Valla"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "András Fáber",
+    "Dávid Szántó",
+    "Zsuzsa Demcsák"
+  ],
+  "jury": null,
+  "spokesperson": "Zsuzsa Demcsák"
+}

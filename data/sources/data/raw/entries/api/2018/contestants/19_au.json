@@ -1,0 +1,51 @@
+{
+  "id": 19,
+  "country": "AU",
+  "artist": "Jessica Mauboy",
+  "song": "We Got Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2BBLTY6T2Ck",
+    "https://www.youtube-nocookie.com/embed/J4XZxbrvepw",
+    "https://www.youtube-nocookie.com/embed/yizRoV7uPKo",
+    "https://www.youtube-nocookie.com/embed/rlhj8FUlgXE",
+    "https://www.youtube-nocookie.com/embed/eYFFZBrhsUk",
+    "https://www.youtube-nocookie.com/embed/GpqCutM9gRk",
+    "https://www.youtube-nocookie.com/embed/tPb2wTUSLiE"
+  ],
+  "bpm": 114,
+  "tone": "G major",
+  "artistPeople": [
+    "Jessica Hilda Mauboy"
+  ],
+  "backings": [
+    "Gary Pinto",
+    "Natasha Pinto",
+    "Samantha White"
+  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Anthony Egizii",
+    "David Musumeci",
+    "Jessica Mauboy"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anthony Egizii",
+    "David Musumeci"
+  ],
+  "writers": null,
+  "broadcaster": "SBS",
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "jury": [
+    "Jordan Raskopoulos",
+    "L-FRESH The LION",
+    "Millie Millgate",
+    "Richard Wilkins",
+    "Zan Rowe"
+  ],
+  "spokesperson": "Ricardo Gonçalves"
+}

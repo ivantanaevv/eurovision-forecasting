@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "country": "PL",
+  "artist": "Justyna Steczkowska",
+  "song": "Gaja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eg5RtEX1zJ0",
+    "https://www.youtube-nocookie.com/embed/NQXhvclWuPE",
+    "https://www.youtube-nocookie.com/embed/YXHHDjiclxA",
+    "https://www.youtube-nocookie.com/embed/cm6ixn7bkWs",
+    "https://www.youtube-nocookie.com/embed/3kTsiKE7AWw",
+    "https://www.youtube-nocookie.com/embed/ewWpPY3l88Q",
+    "https://www.youtube-nocookie.com/embed/Lx-eZN99KTM"
+  ],
+  "bpm": 116,
+  "tone": "A minor",
+  "artistPeople": [
+    "Justyna Maria Steczkowska"
+  ],
+  "backings": null,
+  "dancers": [
+    "Jakub Walica",
+    "Krzysztof Jagodziński",
+    "Milena Zdzuj",
+    "Piotr Musiałkowski"
+  ],
+  "stageDirector": "Jacek Dybowski",
+  "composers": [
+    "Dominic Buczkowski-Wojtaszek",
+    "Emilian Waluchowski",
+    "Justyna Steczkowska",
+    "Patryk Kumór"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emilian Waluchowski",
+    "Justyna Steczkowska",
+    "Patryk Kumór"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Anna Jurksztowicz",
+    "Jan Stokłosa",
+    "Katarzyna Walczak",
+    "Krystian Ochman",
+    "Tycjana Acquasanta"
+  ],
+  "spokesperson": "Aleksandra Budka"
+}

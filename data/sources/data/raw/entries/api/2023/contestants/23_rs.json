@@ -1,0 +1,46 @@
+{
+  "id": 23,
+  "country": "RS",
+  "artist": "Luke Black",
+  "song": "Samo mi se spava",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gPRfg9wzbpw",
+    "https://www.youtube-nocookie.com/embed/E89gtz9rdBM",
+    "https://www.youtube-nocookie.com/embed/oeIVwYUge8o",
+    "https://www.youtube-nocookie.com/embed/y-jaHWHxeo8",
+    "https://www.youtube-nocookie.com/embed/XRWW02clx8c",
+    "https://www.youtube-nocookie.com/embed/6TWaObMpFTk",
+    "https://www.youtube-nocookie.com/embed/R3OzCm3WAIU"
+  ],
+  "bpm": 103,
+  "tone": "A major",
+  "artistPeople": [
+    "Luka Ivanović"
+  ],
+  "backings": null,
+  "dancers": [
+    "Eva Mauricio",
+    "Kostja Nardin",
+    "Lea Vaupotić",
+    "Žiga Janškovec"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Luka Ivanović"
+  ],
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": [
+    "Ana Đurić",
+    "Dragan Đorđević",
+    "Sandra Perović",
+    "Sara Jovanović",
+    "Zoran Živanović"
+  ],
+  "spokesperson": "Dragana Kosjerina"
+}

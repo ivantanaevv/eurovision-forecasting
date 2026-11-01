@@ -1,0 +1,49 @@
+{
+  "id": 2,
+  "country": "EE",
+  "artist": "Tommy Cash",
+  "song": "Espresso macchiato",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9b9Z5HSCXOI",
+    "https://www.youtube-nocookie.com/embed/F3wsy8bywXQ",
+    "https://www.youtube-nocookie.com/embed/sHt5f8hUei4",
+    "https://www.youtube-nocookie.com/embed/5MS_Fczs_98",
+    "https://www.youtube-nocookie.com/embed/o6aJJ6Q5zhg",
+    "https://www.youtube-nocookie.com/embed/UfFulRdtrV4",
+    "https://www.youtube-nocookie.com/embed/elIcSmQ5VUA"
+  ],
+  "bpm": 120,
+  "tone": "B minor",
+  "artistPeople": [
+    "Tommy Cash"
+  ],
+  "backings": null,
+  "dancers": [
+    "Aleksandr Luksha",
+    "Alexander Makarov",
+    "Anastasiia Lider",
+    "Jene' Walker",
+    "Kajtek Januszkiewicz"
+  ],
+  "stageDirector": "Alina Pasok",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Johannes Naukkarinen",
+    "Tomas Tammemets"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Elina Nechayeva",
+    "Indrek Sarrap",
+    "Ott Lepland",
+    "Owe Petersell"
+  ],
+  "spokesperson": "Estoni Kohver"
+}

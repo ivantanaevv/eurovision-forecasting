@@ -1,0 +1,45 @@
+{
+  "id": 6,
+  "country": "FR",
+  "artist": "Louane",
+  "song": "Maman",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jhqJY0ll1Wo",
+    "https://www.youtube-nocookie.com/embed/TUyvT65c9ok",
+    "https://www.youtube-nocookie.com/embed/Pj2DTSLcNnI",
+    "https://www.youtube-nocookie.com/embed/rxuuG3WmXVE",
+    "https://www.youtube-nocookie.com/embed/sOziXY8Noyc",
+    "https://www.youtube-nocookie.com/embed/jT77_5IxXRs",
+    "https://www.youtube-nocookie.com/embed/-p4-zpn61U8"
+  ],
+  "bpm": 88,
+  "tone": "G minor",
+  "artistPeople": [
+    "Anne Peichert"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Fredrik Rydman",
+  "composers": [
+    "Louane",
+    "Tristan Salvati"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Louane"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Laurence Boccolini",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Alexia Guerin",
+    "Franck Broqua",
+    "Nathalie Couzouyan",
+    "Olivier Weber",
+    "Virginie Petit"
+  ],
+  "spokesperson": "Émilie Mazoyer"
+}

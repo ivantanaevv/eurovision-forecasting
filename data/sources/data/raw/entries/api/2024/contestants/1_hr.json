@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "country": "HR",
+  "artist": "Baby Lasagna",
+  "song": "Rim Tim Tagi Dim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YIBjarAiAVc",
+    "https://www.youtube-nocookie.com/embed/kmg8EAD-Kjw",
+    "https://www.youtube-nocookie.com/embed/6LyjyuaQggs",
+    "https://www.youtube-nocookie.com/embed/EBsgTJQFl9k",
+    "https://www.youtube-nocookie.com/embed/kv-UQmO08sc",
+    "https://www.youtube-nocookie.com/embed/bT0T6aFuZ-c",
+    "https://www.youtube-nocookie.com/embed/uA7nSlo-tQE"
+  ],
+  "bpm": 128,
+  "tone": "A major",
+  "artistPeople": [
+    "Baby Lasagna"
+  ],
+  "backings": [
+    "Dino Josipović",
+    "Matija Klaj",
+    "Mihael Žipovski"
+  ],
+  "dancers": [
+    "Luana Kličić",
+    "Sebastijan Žeželić"
+  ],
+  "stageDirector": "Luka Grgić",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marko Purišić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Dino Jelusić",
+    "Gina Damjanović",
+    "Mihovil Šoštarić",
+    "Srđan Sekulović Skansi",
+    "Vanna"
+  ],
+  "spokesperson": "Ivan Dorian Molnar"
+}

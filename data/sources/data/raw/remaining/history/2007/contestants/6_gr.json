@@ -1,0 +1,40 @@
+{
+  "id": 6,
+  "country": "GR",
+  "artist": "Sarbel",
+  "song": "Yassou Maria",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LebXvZtRMrE",
+    "https://www.youtube-nocookie.com/embed/WYklbvSi390",
+    "https://www.youtube-nocookie.com/embed/icHD5EojxaQ",
+    "https://www.youtube-nocookie.com/embed/MiF-LpxTzVI"
+  ],
+  "bpm": 172,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sarbel Michael"
+  ],
+  "backings": [
+    "Emy Armine Zaryan",
+    "Helena",
+    "Larisa"
+  ],
+  "dancers": null,
+  "stageDirector": "Maria Liraraki",
+  "composers": [
+    "Alex Papaconstantinou",
+    "Marcus Englöf"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mack"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Fotis Sergoulopoulos",
+    "Maria Bakodimou"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

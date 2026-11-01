@@ -1,0 +1,45 @@
+{
+  "id": 1,
+  "country": "AU",
+  "artist": "Dami Im",
+  "song": "Sound of Silence",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5ymFX91HwM0",
+    "https://www.youtube-nocookie.com/embed/2EG_Jtw4OyU",
+    "https://www.youtube-nocookie.com/embed/jA16qQA4ik0",
+    "https://www.youtube-nocookie.com/embed/nfheMgvrXWc",
+    "https://www.youtube-nocookie.com/embed/bs4BMjjZvAI",
+    "https://www.youtube-nocookie.com/embed/5I0jawpsPAc"
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Im Da-mi"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Sahlene"
+  ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anthony Egizii",
+    "David Musumeci"
+  ],
+  "broadcaster": "SBS",
+  "commentators": [
+    "Julia Zemiro",
+    "Sam Pang"
+  ],
+  "jury": [
+    "Craig Porteils",
+    "James Mathison",
+    "Monica Trapaga",
+    "Myf Warhurst",
+    "Shannon Noll"
+  ],
+  "spokesperson": "Lee Lin Chin"
+}

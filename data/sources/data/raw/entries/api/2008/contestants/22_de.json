@@ -1,0 +1,38 @@
+{
+  "id": 22,
+  "country": "DE",
+  "artist": "No Angels",
+  "song": "Disappear",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bCk419FVaj8",
+    "https://www.youtube-nocookie.com/embed/vw5GyAHZC44",
+    "https://www.youtube-nocookie.com/embed/T4HkZZH3Jg4",
+    "https://www.youtube-nocookie.com/embed/NPUYTm8F2ak",
+    "https://www.youtube-nocookie.com/embed/8Fjwqr6p_RM"
+  ],
+  "bpm": 123,
+  "tone": "A major",
+  "artistPeople": [
+    "Jessica Wahls",
+    "Ludmilla Diakovska",
+    "Nadja Benaissa",
+    "Sandy Mölling"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Hanne Sørvaag",
+    "Remee",
+    "Thomas Troelsen"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Hermanns"
+}

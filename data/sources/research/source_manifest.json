@@ -1,0 +1,184 @@
+[
+  {
+    "file": "songs.csv",
+    "url": "https://raw.githubusercontent.com/kasiadamska/eurovision-song-science/main/data/Eurovision_Data_2008_2024_update.csv",
+    "cached": true,
+    "bytes": 5134771,
+    "sha256": "42992292dac141fbb67cddd1ce389faa5a3af4e24431d592f1f6a1182f176f41",
+    "retrieved_utc": "2026-10-24T15:32:54.342994+00:00"
+  },
+  {
+    "file": "finalists.csv",
+    "url": "https://raw.githubusercontent.com/kasiadamska/eurovision-song-science/main/data/Eurovision_Grand_Final_Data_2008_2024_update.csv",
+    "cached": true,
+    "bytes": 3303090,
+    "sha256": "8c1c6646ee81587ea2b64e0fc82cf055329e1d02fad1654f994febe8310a8d52",
+    "retrieved_utc": "2026-10-24T15:32:54.346339+00:00"
+  },
+  {
+    "file": "songs2025.csv",
+    "url": "https://raw.githubusercontent.com/kasiadamska/eurovision-song-science/main/data/Eurovision_Data_2025.csv",
+    "cached": true,
+    "bytes": 311399,
+    "sha256": "722c57bdf0801c4d40dea3426dc9c4637472ae6a746d90ebbb0416674a01278c",
+    "retrieved_utc": "2026-10-24T15:32:54.346930+00:00"
+  },
+  {
+    "file": "betting_offices.csv",
+    "url": "https://github.com/Spijkervet/eurovision-dataset/releases/download/2023/betting_offices.csv",
+    "bytes": 947381,
+    "sha256": "39dbc4e68beee163332fb3b9829331dc8fc2b672dc1b974ccb820682c37e3756",
+    "retrieved_utc": "2026-10-24T15:32:54.347915+00:00"
+  },
+  {
+    "file": "miro-bookmakers.csv",
+    "url": "https://raw.githubusercontent.com/Amsterdam-Music-Lab/mirovision/main/data/CSV/bookmakers.csv",
+    "bytes": 293143,
+    "sha256": "237849b15c7a8ab008d737b8b51cfc09e5730e9e8f56b571f06e79f698f14383",
+    "retrieved_utc": "2026-10-24T15:32:54.348354+00:00"
+  },
+  {
+    "file": "odds2023.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2023",
+    "bytes": 583405,
+    "sha256": "be33505eb7624d6f4e058d44b662f99f6e17094a09747d3b7fde3d0567920ecc",
+    "retrieved_utc": "2026-10-24T15:32:54.348995+00:00"
+  },
+  {
+    "file": "odds2024.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2024",
+    "bytes": 3163614,
+    "sha256": "b024d57f14ba87cf0230f8d9e108d173f207abeb5f9c91222c6e5de742edc952",
+    "retrieved_utc": "2026-10-24T15:32:54.352059+00:00"
+  },
+  {
+    "file": "odds2025.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2025",
+    "bytes": 9343921,
+    "sha256": "f63a6fbe70e7b3f505fcd18ef504b31937cfa7ac9979ff7c4412c9994606e8a6",
+    "retrieved_utc": "2026-10-24T15:32:54.359920+00:00"
+  },
+  {
+    "file": "odds2026.json",
+    "url": "https://www.eurovisionodds.eu/get_odds.php?year=2026",
+    "bytes": 10314423,
+    "sha256": "ca6f943971554996e72b11aa361fc5c85f0dd336e49f3615882823064cfbba11",
+    "retrieved_utc": "2026-10-24T15:32:54.367841+00:00"
+  },
+  {
+    "file": "final2014.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2014/rounds/final.json",
+    "cached": true,
+    "bytes": 25211,
+    "sha256": "7ca631ecf109e7fd8373ce0fb763c2c23f246ba945b0f395170a9523f5ec9bd9",
+    "retrieved_utc": "2026-10-24T15:32:54.368361+00:00"
+  },
+  {
+    "file": "final2016.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2016/rounds/final.json",
+    "cached": true,
+    "bytes": 78464,
+    "sha256": "68ad956650b15e3ddc236102a8e36426519d3b3caefd0d69c38aeff109da3bb1",
+    "retrieved_utc": "2026-10-24T15:32:54.368638+00:00"
+  },
+  {
+    "file": "final2023.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2023/rounds/final.json",
+    "cached": true,
+    "bytes": 71357,
+    "sha256": "e16d1ae1075596a7e2cc7788b4a7b23b8db2cbea1da129c56019c89162a1ae2c",
+    "retrieved_utc": "2026-10-24T15:32:54.368863+00:00"
+  },
+  {
+    "file": "final2024.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2024/rounds/final.json",
+    "cached": true,
+    "bytes": 68641,
+    "sha256": "510e52a019d044951f4250932be080ecba1917bf61aad1fb2442c3912a944314",
+    "retrieved_utc": "2026-10-24T15:32:54.369122+00:00"
+  },
+  {
+    "file": "final2025.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2025/rounds/final.json",
+    "cached": true,
+    "bytes": 71359,
+    "sha256": "997efcd6615b5db88dcd4fe6dc16df487c2d6a69c94e72f9f9666c0769c04c56",
+    "retrieved_utc": "2026-10-24T15:32:54.369368+00:00"
+  },
+  {
+    "file": "final2026.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2026/rounds/final.json",
+    "cached": true,
+    "bytes": 65460,
+    "sha256": "59c9bbff1dc8ef0b4444a055f7f9c40a755d38f5478525a442fae191904cf9ae",
+    "retrieved_utc": "2026-10-24T15:32:54.369587+00:00"
+  },
+  {
+    "file": "contestant2024.json",
+    "url": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/data/senior/2024/contestants/0_ch/contestant.json",
+    "cached": true,
+    "bytes": 1228,
+    "sha256": "ae9e80f09205efa0483a846f7df38f5af242945efc773838871d777f686ab1de",
+    "retrieved_utc": "2026-10-24T15:32:54.369774+00:00"
+  },
+  {
+    "file": "youtube.ipynb",
+    "url": "https://raw.githubusercontent.com/kasiadamska/eurovision-song-science/main/youtube-features/YouTube_features.ipynb",
+    "cached": true,
+    "bytes": 8954,
+    "sha256": "1e3848fa923ef64e641e271e5601dfad658c5f76c28a8f06f588452b43463e67",
+    "retrieved_utc": "2026-10-24T15:32:54.369963+00:00"
+  },
+  {
+    "file": "song-readme.md",
+    "url": "https://raw.githubusercontent.com/kasiadamska/eurovision-song-science/main/README.md",
+    "cached": true,
+    "bytes": 9936,
+    "sha256": "26250aa8d212c0713f63bf060bde3fe0d0dcc6c4ef21f4ceda9ca74b24ef1e3e",
+    "retrieved_utc": "2026-10-24T15:32:54.370128+00:00"
+  },
+  {
+    "file": "miro-readme.md",
+    "url": "https://raw.githubusercontent.com/Amsterdam-Music-Lab/mirovision/main/README.md",
+    "bytes": 6181,
+    "sha256": "ea745e3a9d967f1f7eb56d073c8390dd969492327beace14dcee17b6f8746645",
+    "retrieved_utc": "2026-10-24T15:32:54.370345+00:00"
+  },
+  {
+    "file": "spijkervet-readme.md",
+    "url": "https://raw.githubusercontent.com/Spijkervet/eurovision-dataset/master/README.md",
+    "cached": true,
+    "bytes": 7518,
+    "sha256": "900555ea5e7b628fc9cc0b468d5ef977aacba59b38061d3938993124a70c9bd5",
+    "retrieved_utc": "2026-10-24T15:32:54.370554+00:00"
+  },
+  {
+    "file": "odds2024.html",
+    "url": "https://www.eurovisionodds.eu/?year=2024",
+    "cached": true,
+    "bytes": 14142,
+    "sha256": "be4001dff452472fad62b755bbd07ddc7a8e74a0c2cfa2ec362594f895c25f2f",
+    "retrieved_utc": "2026-10-24T15:32:54.370787+00:00"
+  },
+  {
+    "file": "odds-scraper.py",
+    "url": "https://raw.githubusercontent.com/Spijkervet/eurovision-dataset/master/eurovision/scrapers/odds.py",
+    "bytes": 2920,
+    "sha256": "da479a9365e757b5e7185c54352b37d95129748979d958522e02cda6e721bb21",
+    "retrieved_utc": "2026-10-24T15:32:54.370938+00:00"
+  },
+  {
+    "file": "archive2016.json",
+    "url": "https://archive.org/wayback/available?url=eurovisionworld.com/odds/eurovision-2016&timestamp=20160514120000",
+    "bytes": 287,
+    "sha256": "df4fa9dbe6536f3edb455b0899b9e7a66340b4d1e096541d8b864bce44047349",
+    "retrieved_utc": "2026-10-24T15:32:54.371090+00:00"
+  },
+  {
+    "file": "archive2019.json",
+    "url": "https://archive.org/wayback/available?url=eurovisionworld.com/odds/eurovision-2019&timestamp=20190518120000",
+    "bytes": 287,
+    "sha256": "8d6a3ffa90d14fe80e488ecf4315ee8d1b66a1bd19153e4e6932a8f47f28ec28",
+    "retrieved_utc": "2026-10-24T15:32:54.371242+00:00"
+  }
+]

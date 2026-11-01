@@ -1,0 +1,64 @@
+{
+  "scope": "Base entries, accepted published song features, official targets and dated pre-final lineup/order evidence",
+  "cutoff_time_utc": "12:00:00",
+  "split_start_year": 2016,
+  "running_position": "(dense position in the eligible performance sequence - 1) / (N - 1); original voting slot retained separately",
+  "audio_policy": "User explicitly accepts published GitHub Song Science features and author-declared studio origin. Do not require or claim an independent per-track audio/date audit.",
+  "sources_reviewed": [
+    {
+      "id": "split_tiebreak",
+      "url": "https://www.bbc.co.uk/programmes/articles/5Jv9Mb8zXWmXYzvj9JcxrPf/eurovision-song-contest-2024-voting",
+      "edition_read": "2025",
+      "sections": "14.3, 14.4",
+      "evidence_file": "data/raw/entries/web_evidence/bbc_voting_2025.txt",
+      "use": "Algorithm for distinct aggregate jury/public ranks. Historical ranks are independently reconciled where the validation source exposes them."
+    },
+    {
+      "id": "correction2019",
+      "url": "https://www.ebu.ch/news/2019/05/ebu-issues-statement-on-eurovision-song-contest-grand-final-jury-result",
+      "published_date": "2019-05-22",
+      "use": "Corrected 2019 final totals and places, rather than the broadcast provisional result."
+    },
+    {
+      "id": "netherlands2024",
+      "url": "https://eurovision.tv/mediacentre/release/statement-dutch-participation-eurovision-song-contest",
+      "timing_evidence_url": "https://nos.nl/collectie/13971/liveblog/2520041-winnaar-nemo-vooral-bij-vakjury-populair-joost-klein-tweede-in-halve-finale",
+      "known_by_local": "2024-05-11T12:19:00+02:00",
+      "known_by_utc": "2024-05-11T10:19:00+00:00",
+      "timing_meaning": "Upper bound: NOS published an update reporting the EBU decision by this time; not claimed as the precise first announcement time.",
+      "use": "Exclusion known before 12:00 UTC. Keep 2024 with 25 finalists, retain voting slots with a gap at 5."
+    },
+    {
+      "id": "running_order2024",
+      "url": "https://www.eurovision.com/stories/eurovision-2024-the-grand-final-running-order/",
+      "published_local": "2024-05-10T02:22:00+02:00",
+      "use": "Original voting slots, with no slot 5 after the exclusion. Current article has been updated; the pre-cutoff exclusion is independently timed above."
+    },
+    {
+      "id": "running_order2023",
+      "url": "https://www.eurovision.com/stories/eurovision-2023-the-grand-final-running-order/",
+      "published_local": "2023-05-12T01:42:00+02:00",
+      "use": "Example of the official pre-final announcement; host in 2023 is GB, not the previous winner UA."
+    }
+  ],
+  "expected_finalists": {
+    "2008": 25,
+    "2009": 25,
+    "2010": 25,
+    "2011": 25,
+    "2012": 26,
+    "2013": 26,
+    "2014": 26,
+    "2015": 27,
+    "2016": 26,
+    "2017": 26,
+    "2018": 26,
+    "2019": 26,
+    "2021": 26,
+    "2022": 25,
+    "2023": 26,
+    "2024": 25,
+    "2025": 26
+  },
+  "running_order_evidence": "data/config/running_order_evidence.json"
+}

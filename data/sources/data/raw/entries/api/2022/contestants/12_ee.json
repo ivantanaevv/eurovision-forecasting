@@ -1,0 +1,46 @@
+{
+  "id": 12,
+  "country": "EE",
+  "artist": "Stefan",
+  "song": "Hope",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GdTpQmMem8U",
+    "https://www.youtube-nocookie.com/embed/bKhSlSx00-I",
+    "https://www.youtube-nocookie.com/embed/L93yMhrJy64",
+    "https://www.youtube-nocookie.com/embed/ii4Z5SCzBhM",
+    "https://www.youtube-nocookie.com/embed/yDGlnEUqm7A",
+    "https://www.youtube-nocookie.com/embed/tE2KYttAHWA",
+    "https://www.youtube-nocookie.com/embed/Gn4ay_K0ye4"
+  ],
+  "bpm": 123,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Stefan Airapetjan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Jaagup Tuisk",
+  "composers": [
+    "Karl-Ander Reismann",
+    "Stefan Airapetjan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Stefan Airapetjan"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Karl Killing",
+    "Liina Ariadne Pedanik",
+    "Maian-Anna Kärmas",
+    "Sven Lõhmus",
+    "Toomas Olljum"
+  ],
+  "spokesperson": "Tanel Padar"
+}

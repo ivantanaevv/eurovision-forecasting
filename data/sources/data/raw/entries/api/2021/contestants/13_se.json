@@ -1,0 +1,52 @@
+{
+  "id": 13,
+  "country": "SE",
+  "artist": "Tusse",
+  "song": "Voices",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NyJRyif6_kk",
+    "https://www.youtube-nocookie.com/embed/m0BfFw3sE_E",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/qYcSLxCwfNE",
+    "https://www.youtube-nocookie.com/embed/ufeuSX6QPBo",
+    "https://www.youtube-nocookie.com/embed/xaLdqaHxxSI",
+    "https://www.youtube-nocookie.com/embed/ebVC3BNNowI"
+  ],
+  "bpm": 90,
+  "tone": "F major",
+  "artistPeople": [
+    "Tousin Michael Chiza"
+  ],
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "dancers": [
+    "Fatou Bah",
+    "Keisha von Arnold",
+    "Lamin Holmén",
+    "Timothy Waliggo Kakeeto"
+  ],
+  "stageDirector": "Jennie Widegren, Lotta Furebäck, Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anderz Wrethov",
+    "Jimmy Joker",
+    "Joy Deb",
+    "Linnea Deb"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Christer Björkman",
+    "Edward af Sillén"
+  ],
+  "jury": [
+    "Björn Kjellman",
+    "Emelie Fjällström",
+    "Nanne Grönvall",
+    "Omar Rudberg",
+    "Tina Mehrafzoon"
+  ],
+  "spokesperson": "Carola"
+}

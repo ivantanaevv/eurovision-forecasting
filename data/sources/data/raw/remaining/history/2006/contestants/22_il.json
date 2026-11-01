@@ -1,0 +1,39 @@
+{
+  "id": 22,
+  "country": "IL",
+  "artist": "Eddie Butler",
+  "song": "Ze Hazman",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GzDgdDbHM6g",
+    "https://www.youtube-nocookie.com/embed/RKq9TkGmJsE",
+    "https://www.youtube-nocookie.com/embed/NG7_zDQIgic"
+  ],
+  "bpm": 90,
+  "tone": "C major",
+  "artistPeople": [
+    "Eddie Butler"
+  ],
+  "backings": [
+    "Elisabeth Young",
+    "Haia Rud",
+    "Lillie Smart",
+    "Manor Shabat",
+    "Ortal Ofek"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eddie Butler"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Eddie Butler",
+    "Orly Burg",
+    "Osnat Zabag"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Dana Herman"
+}

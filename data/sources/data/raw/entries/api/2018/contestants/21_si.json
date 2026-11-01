@@ -1,0 +1,51 @@
+{
+  "id": 21,
+  "country": "SI",
+  "artist": "Lea Sirk",
+  "song": "Hvala, ne!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fBU0_hfST_o",
+    "https://www.youtube-nocookie.com/embed/Xzaa22agPqA",
+    "https://www.youtube-nocookie.com/embed/sRtygbA0-DU",
+    "https://www.youtube-nocookie.com/embed/VnKy653Q_z4",
+    "https://www.youtube-nocookie.com/embed/6oc5mlkyeHk",
+    "https://www.youtube-nocookie.com/embed/9Av4r-39zbA",
+    "https://www.youtube-nocookie.com/embed/mS89LmLgSao"
+  ],
+  "bpm": 140,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Lea Sirk"
+  ],
+  "backings": [
+    "Karin Zemljič"
+  ],
+  "dancers": [
+    "Anja Möderndorfer",
+    "Karin Putrih",
+    "Tajda Kožamelj",
+    "Veronika Škrlj"
+  ],
+  "stageDirector": "Nejc Levstik",
+  "composers": [
+    "Lea Sirk",
+    "Tomy DeClerque"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lea Sirk"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Alenka Godec",
+    "Mistermarsh",
+    "Mitja Bobič",
+    "Nikola Sekulovič",
+    "Raiven"
+  ],
+  "spokesperson": "Maja Keuc"
+}

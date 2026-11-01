@@ -1,0 +1,53 @@
+{
+  "id": 5,
+  "country": "FI",
+  "artist": "Blind Channel",
+  "song": "Dark Side",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fOPGxQ4fgVw",
+    "https://www.youtube-nocookie.com/embed/JXEK-fc3_BU",
+    "https://www.youtube-nocookie.com/embed/Aw6KnFIIa4I",
+    "https://www.youtube-nocookie.com/embed/yIpW_SQvFRc",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/uV-TJXAL9vg",
+    "https://www.youtube-nocookie.com/embed/sJYKwcgWOG8"
+  ],
+  "bpm": 98,
+  "tone": "E minor",
+  "artistPeople": [
+    "Aleksi Kaunisvesi",
+    "Joel Hokka",
+    "Joonas Porko",
+    "Niko Moilanen",
+    "Olli Matela",
+    "Tommi Lalli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aleksi Kaunisvesi",
+    "Joel Hokka",
+    "Joonas Porko",
+    "Niko Moilanen",
+    "Olli Matela"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Amie Borgar",
+    "Jussi Mäntysaari",
+    "Mirva Merimaa",
+    "Samuli Väänänen",
+    "Tommi Tuomainen"
+  ],
+  "spokesperson": "Katri Norrlin"
+}

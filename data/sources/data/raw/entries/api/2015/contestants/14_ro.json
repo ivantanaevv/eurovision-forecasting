@@ -1,0 +1,54 @@
+{
+  "id": 14,
+  "country": "RO",
+  "artist": "Voltaj",
+  "song": "De la capăt / All Over Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o7iOFkEymXA",
+    "https://www.youtube-nocookie.com/embed/WA3wOKHpzEU",
+    "https://www.youtube-nocookie.com/embed/Nw6sKQbwQOM",
+    "https://www.youtube-nocookie.com/embed/M-FqEzaRnAo",
+    "https://www.youtube-nocookie.com/embed/FbZ0nXfApww",
+    "https://www.youtube-nocookie.com/embed/Z7QeiOO_ebI"
+  ],
+  "bpm": 140,
+  "tone": "D minor",
+  "artistPeople": [
+    "Călin Gavril Goia",
+    "Adrian M. Cristescu",
+    "Gabriel Constantin",
+    "Oliver Sterian",
+    "Valeriu Ionescu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Daniel Klinger",
+  "composers": [
+    "Adrian M. Cristescu",
+    "Călin Gavril Goia",
+    "Gabi \"Porcus\" Constantin",
+    "Silviu-Marian Păduraru",
+    "Victor-Răzvan Alstani"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adrian M. Cristescu",
+    "Andrei-Madalin Leonte",
+    "Călin Gavril Goia",
+    "Gabi \"Porcus\" Constantin",
+    "Monica-Ana Stevens",
+    "Silviu-Marian Păduraru",
+    "Victor-Răzvan Alstani"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": [
+    "Alexandra Cepraga",
+    "Anca Lupeș",
+    "Mihai Pocorschi",
+    "Ovidiu Jacobsen",
+    "Viorel Gavrila"
+  ],
+  "spokesperson": "Sonia Argint-Ionescu"
+}

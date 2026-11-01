@@ -1,0 +1,40 @@
+{
+  "id": 24,
+  "country": "PT",
+  "artist": "Sabrina",
+  "song": "Dança Comigo (Vem Ser Feliz)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YaUROb43iDo",
+    "https://www.youtube-nocookie.com/embed/3AhZyDhLaQA"
+  ],
+  "bpm": 100,
+  "tone": "A minor",
+  "artistPeople": [
+    "Maria Teresa Villa-Lobos"
+  ],
+  "backings": [
+    "Ana Ferreira",
+    "Ana Gonçalves",
+    "Andreia",
+    "Cláudia Soares",
+    "Nélson Araújo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Emanuel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emanuel",
+    "Tó Maria Vinhas"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Isabel Angelino",
+    "Jorge Gabriel"
+  ],
+  "jury": null,
+  "spokesperson": "Francisco Mendes"
+}

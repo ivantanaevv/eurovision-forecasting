@@ -1,0 +1,57 @@
+{
+  "id": 18,
+  "country": "PL",
+  "artist": "Blanka",
+  "song": "Solo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SEgF1aP-U1o",
+    "https://www.youtube-nocookie.com/embed/PvQRpV1-ZhY",
+    "https://www.youtube-nocookie.com/embed/075F41yFvqU",
+    "https://www.youtube-nocookie.com/embed/ANM4CwbE0Is",
+    "https://www.youtube-nocookie.com/embed/8VnnxaOfjdE",
+    "https://www.youtube-nocookie.com/embed/_z5FpiQKJwk",
+    "https://www.youtube-nocookie.com/embed/_A0dAasBAE8"
+  ],
+  "bpm": 99,
+  "tone": "B minor",
+  "artistPeople": [
+    "Blanka Stajkow"
+  ],
+  "backings": [
+    "Maria Broberg"
+  ],
+  "dancers": [
+    "Bruno Duarte",
+    "Maja Rolewska",
+    "Oliwier Kondrat",
+    "Paulina Maciejewska"
+  ],
+  "stageDirector": "Mikołaj Dobrowolski",
+  "composers": [
+    "Bartłomiej Rzeczycki",
+    "Blanka Stajkow",
+    "Maciej Puchalski",
+    "Marcin Górecki",
+    "Mikołaj Trybulec"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Blanka Stajkow",
+    "Julia Sundberg",
+    "Maria Broberg"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Aleksander Sikora",
+    "Marek Sierocki"
+  ],
+  "jury": [
+    "Agnieszka Wilczynska",
+    "Grzegorz Urban",
+    "Kamila Sowińska",
+    "Marcin Kusy",
+    "Zygmunt Kukla"
+  ],
+  "spokesperson": "Ida Nowakowska"
+}

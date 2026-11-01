@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "country": "AM",
+  "artist": "Genealogy",
+  "song": "Face The Shadow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Z6O8pr7HH94",
+    "https://www.youtube-nocookie.com/embed/BYXr2FccjKE",
+    "https://www.youtube-nocookie.com/embed/VVVvgD0-Mu0",
+    "https://www.youtube-nocookie.com/embed/rJ1HgKxnUxw",
+    "https://www.youtube-nocookie.com/embed/XoKX4en8Kvw"
+  ],
+  "bpm": 121,
+  "tone": "G major",
+  "artistPeople": [
+    "Essaï",
+    "Inga Arshakyan",
+    "Mary-Jean O'Doherty Vasmatzian",
+    "Stephanie Topalian",
+    "Tamar Mardirossian Kaprelian",
+    "Vahe Tilbian"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Armen Martirosyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Inna Mkrtchyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Aram MP3",
+    "Arevik Udumyan",
+    "Avet Barseghyan",
+    "Erik Antaranyan",
+    "Hermine Stepanyan",
+    "Vahe Khanamiryan"
+  ],
+  "jury": [
+    "Aram MP3",
+    "Aren Bayadyan",
+    "Grigor Dzhumashutov Nazaryan",
+    "Leyla Andranik Saribekyan",
+    "Nune Martik Yesayan"
+  ],
+  "spokesperson": "Lilit Muradyan"
+}

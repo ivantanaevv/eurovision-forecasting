@@ -1,0 +1,50 @@
+{
+  "id": 11,
+  "country": "DK",
+  "artist": "Leonora",
+  "song": "Love is Forever",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mucmvTLHJQM",
+    "https://www.youtube-nocookie.com/embed/mahaS8wUKPg",
+    "https://www.youtube-nocookie.com/embed/HVvAzwiV0hw",
+    "https://www.youtube-nocookie.com/embed/fAdSQxaXsSk",
+    "https://www.youtube-nocookie.com/embed/Juiv1GbIVfI",
+    "https://www.youtube-nocookie.com/embed/C3kFVRJHJpE",
+    "https://www.youtube-nocookie.com/embed/8JOQvr-Ld9g"
+  ],
+  "bpm": 136,
+  "tone": "C# major",
+  "artistPeople": [
+    "Leonora Colmor Jepsen"
+  ],
+  "backings": [
+    "Andrea Heick Gadeberg",
+    "Jeanette Bonde",
+    "Sofie Niebuhr McQueen"
+  ],
+  "dancers": [
+    "Ryan Jacolbe",
+    "Sinan Spahi"
+  ],
+  "stageDirector": "Mads Enggaard, Toniah Pedersen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emil Lei",
+    "Lise Cabble",
+    "Melanie Wehbe"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": [
+    "Anders Bisgaard",
+    "Henrik Milling",
+    "Johnny Reimar",
+    "Julie Berthelsen",
+    "Katinka"
+  ],
+  "spokesperson": "Rasmussen"
+}

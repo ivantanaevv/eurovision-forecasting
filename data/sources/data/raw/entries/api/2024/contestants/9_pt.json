@@ -1,0 +1,51 @@
+{
+  "id": 9,
+  "country": "PT",
+  "artist": "Iolanda",
+  "song": "Grito",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OZn4-H6JvKU",
+    "https://www.youtube-nocookie.com/embed/Ty3KGTpisNg",
+    "https://www.youtube-nocookie.com/embed/246RdLYgRZY",
+    "https://www.youtube-nocookie.com/embed/K5wDGhcDSpQ",
+    "https://www.youtube-nocookie.com/embed/vxI2ptUPDXc",
+    "https://www.youtube-nocookie.com/embed/kOMzZ04PGLI",
+    "https://www.youtube-nocookie.com/embed/jadOHR4Uams"
+  ],
+  "bpm": 152,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Iolanda Costa"
+  ],
+  "backings": null,
+  "dancers": [
+    "Gonçalo Carrapiço",
+    "Inês Gonfer",
+    "Mélissa Cardoso",
+    "Renato Garcia",
+    "Telmo Leite"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Iolanda Costa",
+    "Luar"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Iolanda Costa"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "jury": [
+    "Edmundo Inácio",
+    "Inês Henriques",
+    "Joaquim Albergaria",
+    "Patrícia Silveira",
+    "Rafaela da Silva Rodrigues e Ribas dos Santos"
+  ],
+  "spokesperson": "Mimicat"
+}

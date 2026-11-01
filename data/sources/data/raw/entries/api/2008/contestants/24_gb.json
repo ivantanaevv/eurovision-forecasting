@@ -1,0 +1,35 @@
+{
+  "id": 24,
+  "country": "GB",
+  "artist": "Andy Abraham",
+  "song": "Even If",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lV7kgSvKPXk",
+    "https://www.youtube-nocookie.com/embed/p1DEp-nfwDk",
+    "https://www.youtube-nocookie.com/embed/0Xfi5jotgyA"
+  ],
+  "bpm": 116,
+  "tone": "C major",
+  "artistPeople": [
+    "Andrew Abraham"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andy Abraham",
+    "Andy Watkins",
+    "Paul Wilson"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Caroline Flack",
+    "Paddy O'Connell",
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Carrie Grant"
+}

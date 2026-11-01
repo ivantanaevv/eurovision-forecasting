@@ -1,0 +1,42 @@
+{
+  "id": 15,
+  "country": "CY",
+  "artist": "Ivi Adamou",
+  "song": "La La Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ex133UhxB64",
+    "https://www.youtube-nocookie.com/embed/MtMHBXO_n48",
+    "https://www.youtube-nocookie.com/embed/Pedf_OQmcmI",
+    "https://www.youtube-nocookie.com/embed/LB-q9EZGcTk"
+  ],
+  "bpm": 131,
+  "tone": "A major",
+  "artistPeople": [
+    "Ivi Adamou"
+  ],
+  "backings": [
+    "Björn Djupström",
+    "Victoria Taylor",
+    "Wiveca Hartmann Knudsen"
+  ],
+  "dancers": [
+    "Olga Pilaki",
+    "Tatiana Dimitriadou"
+  ],
+  "stageDirector": "Apollon Papatheoharis",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Papaconstantinou",
+    "Alexandra Zakka",
+    "Björn Djupström",
+    "Viktor Svensson"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 9,
+  "country": "GR",
+  "artist": "Stefania",
+  "song": "Last Dance",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QhZhJFp0vVw",
+    "https://www.youtube-nocookie.com/embed/BUWt6VbolqE",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/duqBorqR2sM",
+    "https://www.youtube-nocookie.com/embed/BgjBc-6jJoU",
+    "https://www.youtube-nocookie.com/embed/debsXw_5f1I"
+  ],
+  "bpm": 98,
+  "tone": "G major",
+  "artistPeople": [
+    "Stefania Liberakakis (Στεφανία Λυμπερακάκη)"
+  ],
+  "backings": [
+    "Kirsten Michel"
+  ],
+  "dancers": [
+    "Giorgos Papadopoulos",
+    "Kostas Pavlopoulos",
+    "Marcos Giakoumoglou",
+    "Nikos Koukakis"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Anastasios Rammos",
+    "Dimitris Kontopoulos",
+    "Diverno",
+    "Gabriel Russell",
+    "Gioni",
+    "Loukas Damianakos",
+    "Pavlos Manolis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anastasios Rammos",
+    "Dimitris Kontopoulos",
+    "Diverno",
+    "Gabriel Russell",
+    "Gioni",
+    "Loukas Damianakos",
+    "Pavlos Manolis",
+    "Sharon Vaughn"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Adam Tsarouchis",
+    "Athena Konstantinou",
+    "Fotis Sergoulopoulos",
+    "Ioannis Vasilopoulos",
+    "Xenia Ghali"
+  ],
+  "spokesperson": "Manolis Gkinis"
+}

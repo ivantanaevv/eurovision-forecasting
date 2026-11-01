@@ -1,0 +1,111 @@
+{
+  "url": "https://www.eurovision.com/eurovision-song-contest/lisbon-2018/lisbon-2018-grand-final/",
+  "retrieved_utc": "2026-10-24T16:21:02.336Z",
+  "method": "cua_browser_rendered_scoreboard",
+  "rows": [
+    {
+      "label": "Scoreboard entry for Israel",
+      "text": "1\n\nIsrael\n\nNetta\n\nTOY\n\nWinner\n\n529 points\n\nJury\n212\nTelevote\n317\nRunning Order\n22"
+    },
+    {
+      "label": "Scoreboard entry for Cyprus",
+      "text": "2\n\nCyprus\n\nEleni Foureira\n\nFuego\n\n436 points\n\nJury\n183\nTelevote\n253\nRunning Order\n25"
+    },
+    {
+      "label": "Scoreboard entry for Austria",
+      "text": "3\n\nAustria\n\nCesár Sampson\n\nNobody But You\n\n342 points\n\nJury\n271\nTelevote\n71\nRunning Order\n5"
+    },
+    {
+      "label": "Scoreboard entry for Germany",
+      "text": "4\n\nGermany\n\nMichael Schulte\n\nYou Let Me Walk Alone\n\n340 points\n\nJury\n204\nTelevote\n136\nRunning Order\n11"
+    },
+    {
+      "label": "Scoreboard entry for Italy",
+      "text": "5\n\nItaly\n\nErmal Meta e Fabrizio Moro\n\nNon Mi Avete Fatto Niente\n\n308 points\n\nJury\n59\nTelevote\n249\nRunning Order\n26"
+    },
+    {
+      "label": "Scoreboard entry for Czechia",
+      "text": "6\n\nCzechia\n\nMikolas Josef\n\nLie To Me\n\n281 points\n\nJury\n66\nTelevote\n215\nRunning Order\n14"
+    },
+    {
+      "label": "Scoreboard entry for Sweden",
+      "text": "7\n\nSweden\n\nBenjamin Ingrosso\n\nDance You Off\n\n274 points\n\nJury\n253\nTelevote\n21\nRunning Order\n20"
+    },
+    {
+      "label": "Scoreboard entry for Estonia",
+      "text": "8\n\nEstonia\n\nElina Nechayeva\n\nLa Forza\n\n245 points\n\nJury\n143\nTelevote\n102\nRunning Order\n6"
+    },
+    {
+      "label": "Scoreboard entry for Denmark",
+      "text": "9\n\nDenmark\n\nRasmussen\n\nHigher Ground\n\n226 points\n\nJury\n38\nTelevote\n188\nRunning Order\n15"
+    },
+    {
+      "label": "Scoreboard entry for Moldova",
+      "text": "10\n\nMoldova\n\nDoReDoS\n\nMy Lucky Day\n\n209 points\n\nJury\n94\nTelevote\n115\nRunning Order\n19"
+    },
+    {
+      "label": "Scoreboard entry for Albania",
+      "text": "11\n\nAlbania\n\nEugent Bushpepa\n\nMall\n\n184 points\n\nJury\n126\nTelevote\n58\nRunning Order\n12"
+    },
+    {
+      "label": "Scoreboard entry for Lithuania",
+      "text": "12\n\nLithuania\n\nIeva Zasimauskaitė\n\nWhen We're Old\n\n181 points\n\nJury\n90\nTelevote\n91\nRunning Order\n4"
+    },
+    {
+      "label": "Scoreboard entry for France",
+      "text": "13\n\nFrance\n\nMadame Monsieur\n\nMercy\n\n173 points\n\nJury\n114\nTelevote\n59\nRunning Order\n13"
+    },
+    {
+      "label": "Scoreboard entry for Bulgaria",
+      "text": "14\n\nBulgaria\n\nEQUINOX\n\nBones\n\n166 points\n\nJury\n100\nTelevote\n66\nRunning Order\n18"
+    },
+    {
+      "label": "Scoreboard entry for Norway",
+      "text": "15\n\nNorway\n\nAlexander Rybak\n\nThat's How You Write A Song\n\n144 points\n\nJury\n60\nTelevote\n84\nRunning Order\n7"
+    },
+    {
+      "label": "Scoreboard entry for Ireland",
+      "text": "16\n\nIreland\n\nRyan O'Shaughnessy\n\nTogether\n\n136 points\n\nJury\n74\nTelevote\n62\nRunning Order\n24"
+    },
+    {
+      "label": "Scoreboard entry for Ukraine",
+      "text": "17\n\nUkraine\n\nMELOVIN\n\nUnder The Ladder\n\n130 points\n\nJury\n11\nTelevote\n119\nRunning Order\n1"
+    },
+    {
+      "label": "Scoreboard entry for Netherlands",
+      "text": "18\n\nNetherlands\n\nWaylon\n\nOutlaw In 'Em\n\n121 points\n\nJury\n89\nTelevote\n32\nRunning Order\n23"
+    },
+    {
+      "label": "Scoreboard entry for Serbia",
+      "text": "19\n\nSerbia\n\nSanja Ilić & Balkanika\n\nNova Deca\n\n113 points\n\nJury\n38\nTelevote\n75\nRunning Order\n10"
+    },
+    {
+      "label": "Scoreboard entry for Australia",
+      "text": "20\n\nAustralia\n\nJessica Mauboy\n\nWe Got Love\n\n99 points\n\nJury\n90\nTelevote\n9\nRunning Order\n16"
+    },
+    {
+      "label": "Scoreboard entry for Hungary",
+      "text": "21\n\nHungary\n\nAWS\n\nViszlát Nyár\n\n93 points\n\nJury\n28\nTelevote\n65\nRunning Order\n21"
+    },
+    {
+      "label": "Scoreboard entry for Slovenia",
+      "text": "22\n\nSlovenia\n\nLea Sirk\n\nHvala, ne!\n\n64 points\n\nJury\n41\nTelevote\n23\nRunning Order\n3"
+    },
+    {
+      "label": "Scoreboard entry for Spain",
+      "text": "23\n\nSpain\n\nAmaia y Alfred\n\nTu Canción\n\n61 points\n\nJury\n43\nTelevote\n18\nRunning Order\n2"
+    },
+    {
+      "label": "Scoreboard entry for United Kingdom",
+      "text": "24\n\nUnited Kingdom\n\nSuRie\n\nStorm\n\n48 points\n\nJury\n23\nTelevote\n25\nRunning Order\n9"
+    },
+    {
+      "label": "Scoreboard entry for Finland",
+      "text": "25\n\nFinland\n\nSaara Aalto\n\nMonsters\n\n46 points\n\nJury\n23\nTelevote\n23\nRunning Order\n17"
+    },
+    {
+      "label": "Scoreboard entry for Portugal",
+      "text": "26\n\nPortugal\n\nCláudia Pascoal\n\nO Jardim\n\n39 points\n\nJury\n21\nTelevote\n18\nRunning Order\n8"
+    }
+  ]
+}

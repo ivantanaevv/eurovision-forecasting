@@ -1,0 +1,43 @@
+{
+  "id": 24,
+  "country": "DE",
+  "artist": "Malik Harris",
+  "song": "Rockstars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2BYIou-oWXA",
+    "https://www.youtube-nocookie.com/embed/Oy-s-IZIHkI",
+    "https://www.youtube-nocookie.com/embed/ohzfN-ueDZE",
+    "https://www.youtube-nocookie.com/embed/XjnU-8GrU4Y",
+    "https://www.youtube-nocookie.com/embed/N30gD1S15Dk",
+    "https://www.youtube-nocookie.com/embed/HLlLMBtoTGU",
+    "https://www.youtube-nocookie.com/embed/9G9zhj1ict8"
+  ],
+  "bpm": 81,
+  "tone": "G major",
+  "artistPeople": [
+    "Malik Harris"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Malik Harris",
+    "Marie Kobylka",
+    "Robin Karow"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Christian Brost",
+    "Jess Schöne",
+    "Max Giesinger",
+    "Michelle",
+    "Tokunbo"
+  ],
+  "spokesperson": "Barbara Schöneberger"
+}

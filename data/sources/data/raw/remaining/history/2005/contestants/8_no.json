@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "country": "NO",
+  "artist": "Wig Wam",
+  "song": "In My Dreams",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/P-ki-HZrxJM",
+    "https://www.youtube-nocookie.com/embed/i_0nm8vFFHM"
+  ],
+  "bpm": 126,
+  "tone": "C major",
+  "artistPeople": [
+    "Bernt Jansen",
+    "Åge Sten Nilsen",
+    "Øystein Andersen",
+    "Trond Holter"
+  ],
+  "backings": [
+    "Åshild Kristin Stensrud",
+    "Karianne Kjærnes"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Trond Holter"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ingvild Helljesen"
+}

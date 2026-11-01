@@ -1,0 +1,42 @@
+{
+  "id": 32,
+  "country": "DK",
+  "artist": "DQ",
+  "song": "Drama Queen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T_gQOqKJ9ck",
+    "https://www.youtube-nocookie.com/embed/0ABs8nbDV6I"
+  ],
+  "bpm": 138,
+  "tone": "A major",
+  "artistPeople": [
+    "Peter Andersen"
+  ],
+  "backings": [
+    "Christina Birksøe",
+    "Christina Boelskifte",
+    "Claus Storgaard"
+  ],
+  "dancers": [
+    "David Boyd",
+    "René Winther"
+  ],
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "composers": [
+    "Peter Andersen",
+    "Simon Munk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Claus Christensen",
+    "Peter Andersen"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Adam Duvå Hall",
+    "Søren Rasted"
+  ],
+  "jury": null,
+  "spokesperson": "Susanne Georgi"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 23,
+  "country": "FI",
+  "artist": "Krista Siegfrids",
+  "song": "Marry Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dlBXOveVh7c",
+    "https://www.youtube-nocookie.com/embed/FdU02F9lT2g",
+    "https://www.youtube-nocookie.com/embed/dL9-8OlUGHM",
+    "https://www.youtube-nocookie.com/embed/6cCLcjfRKlc",
+    "https://www.youtube-nocookie.com/embed/AVN2842VioI"
+  ],
+  "bpm": 143,
+  "tone": "F major",
+  "artistPeople": [
+    "Kristin Siegfrids"
+  ],
+  "backings": [
+    "Emelie Granvik",
+    "Haza Hajipoori",
+    "Katrin Vaskelainen",
+    "Kiira Kilpiö",
+    "Reetta Korhonen"
+  ],
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Erik Nyholm",
+    "Jessika Lundström",
+    "Krista Siegfrids",
+    "Kristofer Karlsson"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aino Töllinen",
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Juuso Mäkilähde"
+  ],
+  "jury": null,
+  "spokesperson": "Kristiina Wheeler"
+}

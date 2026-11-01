@@ -1,0 +1,36 @@
+{
+  "id": 20,
+  "country": "ES",
+  "artist": "Son de sol",
+  "song": "Brujería",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mjuADbTcAaE",
+    "https://www.youtube-nocookie.com/embed/ryivMT4YBNQ"
+  ],
+  "bpm": 88,
+  "tone": "D minor",
+  "artistPeople": [
+    "Esperanza García de Soria",
+    "María Dolores García de Soria",
+    "Soledad García de Soria"
+  ],
+  "backings": [
+    "David Campos",
+    "El Pollo",
+    "Jesús Llorent"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alfredo Panebianco"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Ainhoa Arbizu"
+}

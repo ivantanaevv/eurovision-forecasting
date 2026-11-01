@@ -1,0 +1,37 @@
+{
+  "id": 3,
+  "country": "TR",
+  "artist": "Athena",
+  "song": "For Real",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pipamUl14A4",
+    "https://www.youtube-nocookie.com/embed/DzzRrd3F7GA",
+    "https://www.youtube-nocookie.com/embed/9jrdko7VlJA",
+    "https://www.youtube-nocookie.com/embed/H2bD50ALMeE"
+  ],
+  "bpm": 126,
+  "tone": "C minor",
+  "artistPeople": [
+    "Doğaç Titiz",
+    "Gökhan Özoğuz",
+    "Hakan Özoğuz",
+    "Ozan Musluoğlu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gökhan Özoğuz",
+    "Hakan Özoğuz"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren",
+    "Didem Tolunay"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

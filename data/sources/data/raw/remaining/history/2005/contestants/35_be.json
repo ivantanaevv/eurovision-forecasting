@@ -1,0 +1,32 @@
+{
+  "id": 35,
+  "country": "BE",
+  "artist": "Nuno Resende",
+  "song": "Le grand soir",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7-3MTt6Uatk",
+    "https://www.youtube-nocookie.com/embed/yo5s6WKOd0c"
+  ],
+  "bpm": 162,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Nuno Guilherme de Figueiredo Resende"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alec Mansion",
+    "Frédéric Zeitoun"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Armelle Gysen"
+}

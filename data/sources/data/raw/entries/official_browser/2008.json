@@ -1,0 +1,107 @@
+{
+  "url": "https://www.eurovision.com/eurovision-song-contest/belgrade-2008/belgrade-2008-grand-final/",
+  "retrieved_utc": "2026-10-24T16:24:30.010Z",
+  "method": "cua_browser_rendered_scoreboard",
+  "rows": [
+    {
+      "label": "Scoreboard entry for Russia",
+      "text": "1\n\nRussia\n\nDima Bilan\n\nBelieve\n\nWinner\n\n272 points\n\nRunning Order\n24"
+    },
+    {
+      "label": "Scoreboard entry for Ukraine",
+      "text": "2\n\nUkraine\n\nAni Lorak\n\nShady Lady\n\n230 points\n\nRunning Order\n18"
+    },
+    {
+      "label": "Scoreboard entry for Greece",
+      "text": "3\n\nGreece\n\nKalomira\n\nSecret Combination\n\n218 points\n\nRunning Order\n21"
+    },
+    {
+      "label": "Scoreboard entry for Armenia",
+      "text": "4\n\nArmenia\n\nSirusho\n\nQele, Qele\n\n199 points\n\nRunning Order\n5"
+    },
+    {
+      "label": "Scoreboard entry for Norway",
+      "text": "5\n\nNorway\n\nMaria\n\nHold On Be Strong\n\n182 points\n\nRunning Order\n25"
+    },
+    {
+      "label": "Scoreboard entry for Serbia",
+      "text": "6\n\nSerbia\n\nJelena Tomašević feat. Bora Dugić\n\nOro\n\n160 points\n\nRunning Order\n23"
+    },
+    {
+      "label": "Scoreboard entry for Türkiye",
+      "text": "7\n\nTürkiye\n\nMor ve Ötesi\n\nDeli\n\n138 points\n\nRunning Order\n12"
+    },
+    {
+      "label": "Scoreboard entry for Azerbaijan",
+      "text": "8\n\nAzerbaijan\n\nElnur & Samir\n\nDay After Day\n\n132 points\n\nRunning Order\n20"
+    },
+    {
+      "label": "Scoreboard entry for Israel",
+      "text": "9\n\nIsrael\n\nBoaz\n\nThe Fire In Your Eyes\n\n124 points\n\nRunning Order\n7"
+    },
+    {
+      "label": "Scoreboard entry for Bosnia & Herzegovina",
+      "text": "10\n\nBosnia & Herzegovina\n\nLaka\n\nPokušaj\n\n110 points\n\nRunning Order\n6"
+    },
+    {
+      "label": "Scoreboard entry for Georgia",
+      "text": "11\n\nGeorgia\n\nDiana Gurtskaya\n\nPeace Will Come\n\n83 points\n\nRunning Order\n17"
+    },
+    {
+      "label": "Scoreboard entry for Latvia",
+      "text": "12\n\nLatvia\n\nPirates Of The Sea\n\nWolves Of The Sea\n\n83 points\n\nRunning Order\n14"
+    },
+    {
+      "label": "Scoreboard entry for Portugal",
+      "text": "13\n\nPortugal\n\nVânia Fernandes\n\nSenhora Do Mar (Negras Águas)\n\n69 points\n\nRunning Order\n13"
+    },
+    {
+      "label": "Scoreboard entry for Iceland",
+      "text": "14\n\nIceland\n\nEuroband\n\nThis Is My Life\n\n64 points\n\nRunning Order\n11"
+    },
+    {
+      "label": "Scoreboard entry for Denmark",
+      "text": "15\n\nDenmark\n\nSimon Mathew\n\nAll Night Long\n\n60 points\n\nRunning Order\n16"
+    },
+    {
+      "label": "Scoreboard entry for Spain",
+      "text": "16\n\nSpain\n\nRodolfo Chikilicuatre\n\nBaila El Chiki Chiki\n\n55 points\n\nRunning Order\n22"
+    },
+    {
+      "label": "Scoreboard entry for Albania",
+      "text": "17\n\nAlbania\n\nOlta Boka\n\nZemrën E Lamë Peng\n\n55 points\n\nRunning Order\n3"
+    },
+    {
+      "label": "Scoreboard entry for Sweden",
+      "text": "18\n\nSweden\n\nCharlotte Perrelli\n\nHero\n\n47 points\n\nRunning Order\n15"
+    },
+    {
+      "label": "Scoreboard entry for France",
+      "text": "19\n\nFrance\n\nSébastien Tellier\n\nDivine\n\n47 points\n\nRunning Order\n19"
+    },
+    {
+      "label": "Scoreboard entry for Romania",
+      "text": "20\n\nRomania\n\nNico & Vlad\n\nPe-o Margine De Lume\n\n45 points\n\nRunning Order\n1"
+    },
+    {
+      "label": "Scoreboard entry for Croatia",
+      "text": "21\n\nCroatia\n\nKraljevi ulice & 75 Cents\n\nRomanca\n\n44 points\n\nRunning Order\n9"
+    },
+    {
+      "label": "Scoreboard entry for Finland",
+      "text": "22\n\nFinland\n\nTeräsbetoni\n\nMissä Miehet Ratsastaa\n\n35 points\n\nRunning Order\n8"
+    },
+    {
+      "label": "Scoreboard entry for Germany",
+      "text": "23\n\nGermany\n\nNo Angels\n\nDisappear\n\n14 points\n\nRunning Order\n4"
+    },
+    {
+      "label": "Scoreboard entry for Poland",
+      "text": "24\n\nPoland\n\nIsis Gee\n\nFor Life\n\n14 points\n\nRunning Order\n10"
+    },
+    {
+      "label": "Scoreboard entry for United Kingdom",
+      "text": "25\n\nUnited Kingdom\n\nAndy Abraham\n\nEven If\n\n14 points\n\nRunning Order\n2"
+    }
+  ]
+}

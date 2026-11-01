@@ -1,0 +1,47 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Il Volo",
+  "song": "Grande amore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1TOMqZV2jA8",
+    "https://www.youtube-nocookie.com/embed/w1f6o1HQBvg",
+    "https://www.dailymotion.com/embed/video/x2gzc2b",
+    "https://www.youtube-nocookie.com/embed/G650-UJ4YCg",
+    "https://www.youtube-nocookie.com/embed/3DQATvwX4aI",
+    "https://www.youtube-nocookie.com/embed/b8-iYDc580Q",
+    "https://www.youtube-nocookie.com/embed/GhIwK9sOphI"
+  ],
+  "bpm": 142,
+  "tone": "F minor",
+  "artistPeople": [
+    "Gianluca Ginoble",
+    "Ignazio Boschetto",
+    "Piero Barone"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ciro Esposito",
+    "Francesco Boccia"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Federico Russo",
+    "Filippo Solibello",
+    "Marco Ardemagni",
+    "Valentina Correani"
+  ],
+  "jury": [
+    "Barbara Mosconi",
+    "Flavia Cercato",
+    "Franco Zanetti",
+    "Nicolò Cerioni",
+    "Valerio Paolini"
+  ],
+  "spokesperson": "Federico Russo"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 21,
+  "country": "LU",
+  "artist": "Laura Thorn",
+  "song": "La poupée monte le son",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GT7ZZBCscUg",
+    "https://www.youtube-nocookie.com/embed/jMY-eUDTs0Q",
+    "https://www.youtube-nocookie.com/embed/LVHu_KwHiKY",
+    "https://www.youtube-nocookie.com/embed/nXVx16lhpVU",
+    "https://www.youtube-nocookie.com/embed/NIk3YSp1to0",
+    "https://www.youtube-nocookie.com/embed/DuDUSms-6IY",
+    "https://www.youtube-nocookie.com/embed/6AJopCie2bM"
+  ],
+  "bpm": 132,
+  "tone": "G major",
+  "artistPeople": [
+    "Laura Thorn"
+  ],
+  "backings": null,
+  "dancers": [
+    "Chacki Dudde",
+    "Patrick Karim Oumaray",
+    "Randy Rocha",
+    "Simi Simoes",
+    "Sivak Serhii"
+  ],
+  "stageDirector": "Mariia Hrygorashchenko, Nataliia Lysenkova, Nataliia Rovenska",
+  "composers": [
+    "Christophe Houssin",
+    "Julien Salvia",
+    "Ludovic-Alexandre Vidal"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Julien Salvia",
+    "Ludovic-Alexandre Vidal"
+  ],
+  "writers": null,
+  "broadcaster": "RTL",
+  "commentators": [
+    "Raoul Roos",
+    "Roger Saurfeld"
+  ],
+  "jury": [
+    "Catherine Nothum",
+    "Jules Serrig",
+    "Monique Melsen",
+    "Tom Gatti",
+    "Tom Leick-Burns"
+  ],
+  "spokesperson": "Fabienne Zwally"
+}

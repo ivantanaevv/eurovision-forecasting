@@ -1,0 +1,38 @@
+{
+  "id": 19,
+  "country": "RO",
+  "artist": "Nico & Vlad",
+  "song": "Pe-o margine de lume",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o_mvrGKbbqU",
+    "https://www.youtube-nocookie.com/embed/w0DcHHZb1mY",
+    "https://www.youtube-nocookie.com/embed/flyBUUPTw0s",
+    "https://www.youtube-nocookie.com/embed/5pzcOxQMfLY"
+  ],
+  "bpm": 151,
+  "tone": "D major",
+  "artistPeople": [
+    "Nicoleta Matei",
+    "Vlad Miriţă"
+  ],
+  "backings": [
+    "Andrei Tudor"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andrei Tudor"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adina Şuteu",
+    "Andreea Andrei"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Leonard Miron"
+  ],
+  "jury": null,
+  "spokesperson": "Alina Sorescu"
+}

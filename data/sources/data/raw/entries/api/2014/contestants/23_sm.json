@@ -1,0 +1,47 @@
+{
+  "id": 23,
+  "country": "SM",
+  "artist": "Valentina Monetta",
+  "song": "Maybe (Forse)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_eZNTBJ-Hyc",
+    "https://www.youtube-nocookie.com/embed/vt_3yms1PcM",
+    "https://www.youtube-nocookie.com/embed/_Dt-crS5N-Y"
+  ],
+  "bpm": 114,
+  "tone": "G minor",
+  "artistPeople": [
+    "Valentina Monetta"
+  ],
+  "backings": [
+    "Giacomo Di Benedetto",
+    "Giovanna Naber",
+    "Paulo Alves",
+    "Sandrina Sedona"
+  ],
+  "dancers": null,
+  "stageDirector": "Fabrizio Raggi",
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mauro Balestri"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Jamarie Milkovic",
+    "John Kennedy O'Connor",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Andrea Gattei",
+    "Lorenzo Salvatori",
+    "Maria Ugolini",
+    "Paolo Macina",
+    "Sara Ghiotti"
+  ],
+  "spokesperson": "Michele Perniola"
+}

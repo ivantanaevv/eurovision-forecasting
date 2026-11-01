@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "country": "FI",
+  "artist": "Käärijä",
+  "song": "Cha Cha Cha",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l6rS8Dv5g-8",
+    "https://www.youtube-nocookie.com/embed/rNrgQm5z07U",
+    "https://www.youtube-nocookie.com/embed/7ferYXj9vAA",
+    "https://www.youtube-nocookie.com/embed/rJHe-iZ5HSI",
+    "https://www.youtube-nocookie.com/embed/KGFkMD2zotU",
+    "https://www.youtube-nocookie.com/embed/wW9CSzNnp8Y",
+    "https://www.youtube-nocookie.com/embed/tRd-BxMFr8g"
+  ],
+  "bpm": 155,
+  "tone": "D major",
+  "artistPeople": [
+    "Jere Pöyhönen"
+  ],
+  "backings": [
+    "Aija Puurtinen"
+  ],
+  "dancers": [
+    "Etel Röhr",
+    "Jesse Wijnans",
+    "Katri Mäkinen",
+    "Matti Maxim"
+  ],
+  "stageDirector": "Fredrik Rydman",
+  "composers": [
+    "Aleksi Nurmi",
+    "Johannes Naukkarinen",
+    "Jukka Sorsa"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jere Pöyhönen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aslak Paltto",
+    "Eva Frantz",
+    "Galyna Sergeyeva",
+    "Heli Huovinen",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Ilkka Juhani Mattila",
+    "Kaisa Korhonen",
+    "Niina Jokiaho",
+    "Roy Jonas Olsson",
+    "Saara Aliisa Amanda Everi"
+  ],
+  "spokesperson": "Bess"
+}

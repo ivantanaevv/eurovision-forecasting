@@ -1,0 +1,34 @@
+{
+  "id": 26,
+  "country": "BY",
+  "artist": "Angelica Agurbash",
+  "song": "Love Me Tonight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lnY0HbiuiX4"
+  ],
+  "bpm": 131,
+  "tone": "D minor",
+  "artistPeople": [
+    "Angelica Agurbash"
+  ],
+  "backings": [
+    "Chriso Stamatopoulou",
+    "Victoria Halkiti"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikos Terzis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nektarios Tirakis"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Ales Kruglyakov"
+  ],
+  "jury": null,
+  "spokesperson": "Elena Ponomareva"
+}

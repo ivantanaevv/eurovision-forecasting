@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "country": "CY",
+  "artist": "Tamta",
+  "song": "Replay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wIpEI-NhRxg",
+    "https://www.youtube-nocookie.com/embed/3jCAyvVJVFw",
+    "https://www.youtube-nocookie.com/embed/WPFUZswe_zw",
+    "https://www.youtube-nocookie.com/embed/I61oQCgnjpI",
+    "https://www.youtube-nocookie.com/embed/INK3lvMDU0M"
+  ],
+  "bpm": 102,
+  "tone": "E minor",
+  "artistPeople": [
+    "Tamta Goduadze (Τάμτα Γκοντουάτζε)"
+  ],
+  "backings": [
+    "Benjamin Trossö",
+    "Kristoffer Fogelmark",
+    "Lamin Holmén",
+    "Niklas Arleryd"
+  ],
+  "dancers": [
+    "Kenny Lantz"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Albin Nedler",
+    "Alex Papaconstantinou",
+    "Teddy Sky",
+    "Kristofer Fogelmark",
+    "Viktor Svensson"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evridiki Theokleous",
+    "Tasos Trifonos"
+  ],
+  "jury": [
+    "Andrie Michael Daniel",
+    "Despo Karpi",
+    "DJ Chris P",
+    "Lisa Tsangaridou",
+    "Stefanos Andreas Arestis"
+  ],
+  "spokesperson": "Hovig"
+}

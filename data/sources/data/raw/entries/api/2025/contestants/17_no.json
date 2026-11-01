@@ -1,0 +1,49 @@
+{
+  "id": 17,
+  "country": "NO",
+  "artist": "Kyle Alessandro",
+  "song": "Lighter",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gQOGxx6Fk9k",
+    "https://www.youtube-nocookie.com/embed/WReEi3jLRFQ",
+    "https://www.youtube-nocookie.com/embed/h7jkEmoBvU0",
+    "https://www.youtube-nocookie.com/embed/pUjWzQ671MQ",
+    "https://www.youtube-nocookie.com/embed/btHmbxrgbb8",
+    "https://www.youtube-nocookie.com/embed/w599Rio7qpc",
+    "https://www.youtube-nocookie.com/embed/2R_7YrwvxQ4"
+  ],
+  "bpm": 105,
+  "tone": "D minor",
+  "artistPeople": [
+    "Kyle Alessandro Helgesen Villalobos"
+  ],
+  "backings": [
+    "Frode Vassel",
+    "Sondrey"
+  ],
+  "dancers": [
+    "Daniel Grindeland",
+    "Oliver Paulsson",
+    "Reno Andersen"
+  ],
+  "stageDirector": "Mona Berntsen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adam Woods",
+    "Kyle Alessandro"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": [
+    "Iris Severine Mikalsen",
+    "Kristian Kristensen",
+    "Reidun Sæther",
+    "Stian Tangerud",
+    "Vanessa Joana Hutel Kure"
+  ],
+  "spokesperson": "Tom Hugo"
+}

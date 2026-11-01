@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "country": "RU",
+  "artist": "Tolmachevy Sisters",
+  "song": "Shine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BCNN1JAgWqk",
+    "https://www.youtube-nocookie.com/embed/f7HKBlAzN5I",
+    "https://www.youtube-nocookie.com/embed/MPI7AnD_QS8",
+    "https://www.youtube-nocookie.com/embed/hEq4pw7K4Ys"
+  ],
+  "bpm": 120,
+  "tone": "E minor",
+  "artistPeople": [
+    "Anastasiya Andreyevna Tolmacheva (Анастасия Андреевна Толмачёвы)",
+    "Maria Andreyevna Tolmacheva (Мария Андреевна Толмачёвы)"
+  ],
+  "backings": [
+    "Anna Nilsson",
+    "Anna Strandberg",
+    "Jenny Tärneberg",
+    "Rui Andrade"
+  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gerard James Borg",
+    "John Ballard",
+    "Ralph Charlie"
+  ],
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "jury": [
+    "Dominik Joker",
+    "Leonid Rudenko",
+    "Margarita Mitrofanova",
+    "Sergey Zhilin",
+    "Yulia Nachalova"
+  ],
+  "spokesperson": "Alsou"
+}

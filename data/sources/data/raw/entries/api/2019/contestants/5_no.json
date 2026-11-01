@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "country": "NO",
+  "artist": "KEiiNO",
+  "song": "Spirit In The Sky",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ovt7YGHAj8I",
+    "https://www.youtube-nocookie.com/embed/3EmUmbhDRiY",
+    "https://www.youtube-nocookie.com/embed/yKoEt0-9ujA",
+    "https://www.youtube-nocookie.com/embed/50WutSRykdE",
+    "https://www.youtube-nocookie.com/embed/LBVeF_D37_c",
+    "https://www.youtube-nocookie.com/embed/qGpvsSmvnU4",
+    "https://www.youtube-nocookie.com/embed/64wttdCyxO4"
+  ],
+  "bpm": 122,
+  "tone": "D minor",
+  "artistPeople": [
+    "Alexandra Rotan",
+    "Fred-René Øvergård Buljo",
+    "Tom Hugo Hermansen"
+  ],
+  "backings": [
+    "Frode Vassel",
+    "Kine Ludvigsen Fossheim",
+    "Marianne Pentha"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Olsson",
+    "Alexandra Rotan",
+    "Fred Buljo",
+    "Henrik Tala",
+    "Rûdiger Schramm",
+    "Tom Hugo Hermansen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Finn-Ulrik Berntsen",
+    "Jenny Jenssen",
+    "Kamilla Wigestrand",
+    "Knut Bjørnar Asphol",
+    "Maiken Kroken"
+  ],
+  "spokesperson": "Alexander Rybak"
+}

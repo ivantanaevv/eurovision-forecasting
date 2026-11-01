@@ -1,0 +1,44 @@
+{
+  "id": 17,
+  "country": "DE",
+  "artist": "Elaiza",
+  "song": "Is It Right",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BFuGH2Kp9dI",
+    "https://www.youtube-nocookie.com/embed/UW4KQqcH1E4",
+    "https://www.youtube-nocookie.com/embed/mTC-4YO_5eE",
+    "https://www.youtube-nocookie.com/embed/iF5HIInNjuo"
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Ela Steinmetz",
+    "Natalie Plöger",
+    "Yvonne Grünwald"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Elżbieta Steinmetz",
+    "Frank Kretschmer"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adam Kesselhaut",
+    "Elżbieta Steinmetz"
+  ],
+  "writers": null,
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Andreas Bourani",
+    "Jennifer Weist",
+    "Konrad Sommermeyer",
+    "Madeline Juno",
+    "Paul Würdig"
+  ],
+  "spokesperson": "Helene Fischer"
+}

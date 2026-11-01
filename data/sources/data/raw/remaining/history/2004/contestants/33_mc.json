@@ -1,0 +1,32 @@
+{
+  "id": 33,
+  "country": "MC",
+  "artist": "Maryon",
+  "song": "Notre Planète",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/p62weX__fTc"
+  ],
+  "bpm": 129,
+  "tone": "E major",
+  "artistPeople": [
+    "Maryon Gargiulo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Philippe Bosco"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Patrick Sassier"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Bernard Montiel",
+    "Génie Godula"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Allegrini"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 25,
+  "country": "GB",
+  "artist": "James Newman",
+  "song": "Embers",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VxNOynEJ6wc",
+    "https://www.youtube-nocookie.com/embed/Isth9_oNNa8",
+    "https://www.youtube-nocookie.com/embed/BMDGTsa_Qq0",
+    "https://www.youtube-nocookie.com/embed/VL7ExPBiEuc",
+    "https://www.youtube-nocookie.com/embed/CGRjOWpTfPc",
+    "https://www.youtube-nocookie.com/embed/cDoUo7uJyIw",
+    "https://www.youtube-nocookie.com/embed/hfuoBneIHs8"
+  ],
+  "bpm": 126,
+  "tone": "B major",
+  "artistPeople": [
+    "James Richard Newman"
+  ],
+  "backings": [
+    "Annabel Williams"
+  ],
+  "dancers": [
+    "Alex Chambers",
+    "Israel Donowa",
+    "Shaun Niles",
+    "Yves Cueni"
+  ],
+  "stageDirector": "Jerry Reeve, Tom Denning",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Conor Blake",
+    "Danny Shah",
+    "James Newman",
+    "Samuel Brennan",
+    "Tom Hollings"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Chelcee Grimes",
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "jury": [
+    "Aisha Jawando",
+    "Michelle Gayle",
+    "Nicki Chapman",
+    "Ross Gautreau",
+    "Tom Aspaul"
+  ],
+  "spokesperson": "Amanda Holden"
+}

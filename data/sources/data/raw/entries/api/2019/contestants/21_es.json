@@ -1,0 +1,49 @@
+{
+  "id": 21,
+  "country": "ES",
+  "artist": "Miki",
+  "song": "La venda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lWXuohnM14U",
+    "https://www.youtube-nocookie.com/embed/vMBRFLBRStA",
+    "https://www.youtube-nocookie.com/embed/pEaS6atxFgc",
+    "https://www.youtube-nocookie.com/embed/1JLtDWvIXNY",
+    "https://www.youtube-nocookie.com/embed/noBOEHp2Xfc",
+    "https://www.youtube-nocookie.com/embed/TQS_t8ZfBi0",
+    "https://www.youtube-nocookie.com/embed/qG-JkzFf9j8"
+  ],
+  "bpm": 74,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Miguel Núñez Pozo"
+  ],
+  "backings": [
+    "Ernesto Santos",
+    "Fran Guerrero",
+    "Mikel"
+  ],
+  "dancers": [
+    "María Acosta Colubi",
+    "Mary Martínez"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adrià Salas"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "jury": [
+    "David Feito",
+    "Elena Gómez",
+    "Raúl Gómez García",
+    "Ricky Merino",
+    "Sole Giménez"
+  ],
+  "spokesperson": "Nieves Álvarez"
+}

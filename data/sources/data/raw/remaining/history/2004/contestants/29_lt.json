@@ -1,0 +1,35 @@
+{
+  "id": 29,
+  "country": "LT",
+  "artist": "Linas ir Simona",
+  "song": "What's Happened To Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7BlU6y_ZghY",
+    "https://www.youtube-nocookie.com/embed/8-SMpWeMKfI",
+    "https://www.youtube-nocookie.com/embed/WaBBFTgQ8qU"
+  ],
+  "bpm": 143,
+  "tone": "A major",
+  "artistPeople": [
+    "Linas Adomaitis",
+    "Simona Jakubėnaitė"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Linas Adomaitis",
+    "Michalis Antoniou"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Camden-MS"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Rolandas Vilkončius"
+}

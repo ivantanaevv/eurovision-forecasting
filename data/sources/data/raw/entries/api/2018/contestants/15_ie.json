@@ -1,0 +1,50 @@
+{
+  "id": 15,
+  "country": "IE",
+  "artist": "Ryan O'Shaughnessy",
+  "song": "Together",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QD1cQ2wZ1dk",
+    "https://www.youtube-nocookie.com/embed/XAEjQXzW4Uc",
+    "https://www.youtube-nocookie.com/embed/zdRIUHyajiY",
+    "https://www.youtube-nocookie.com/embed/F107CcDP9Fk",
+    "https://www.youtube-nocookie.com/embed/QDMMCYqT9DE",
+    "https://www.youtube-nocookie.com/embed/1Nz3ySbecu4",
+    "https://www.youtube-nocookie.com/embed/Jh2WLoi3Al0"
+  ],
+  "bpm": 94,
+  "tone": "F major",
+  "artistPeople": [
+    "Ryan O'Shaughnessy"
+  ],
+  "backings": [
+    "Claire-Ann Varley",
+    "Janet Grogan",
+    "Remy Anna Naidoo"
+  ],
+  "dancers": [
+    "Alan McGrath",
+    "Kevin O'Dwyer"
+  ],
+  "stageDirector": "Ciarán Connolly",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Laura Elizabeth Hughes",
+    "Mark Caplice",
+    "Ryan O'Shaughnessy"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Aoife Barry",
+    "Kenneth Giles",
+    "Niamh Kavanagh",
+    "Thomas Crosse",
+    "Tom Dunne"
+  ],
+  "spokesperson": "Nicky Byrne"
+}

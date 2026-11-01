@@ -1,0 +1,49 @@
+{
+  "id": 6,
+  "country": "AM",
+  "artist": "Iveta Mukuchyan",
+  "song": "LoveWave",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nL066Rp7J7k",
+    "https://www.youtube-nocookie.com/embed/h3KTV0jdCpQ",
+    "https://www.youtube-nocookie.com/embed/l7m3wOGhEvE",
+    "https://www.youtube-nocookie.com/embed/FxL6OzPKf5U",
+    "https://www.youtube-nocookie.com/embed/TyQxcUreikQ"
+  ],
+  "bpm": 120,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Iveta Mukuchyan"
+  ],
+  "backings": [
+    "Anushik Ter-Ghukasyan",
+    "Christina Mangasaryan",
+    "Lilith Navasardyan",
+    "Masha Mnjoyan",
+    "Sona Gyulkhasyan"
+  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Levon Navasardyan",
+    "Lilith Navasardyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Iveta Mukuchyan",
+    "Stephanie Crutchfield"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Avet Barseghyan"
+  ],
+  "jury": [
+    "DJ Dale",
+    "Erik Karapetyan",
+    "Hayko",
+    "Miqayel Voskanyan",
+    "Naira Gyurjinyan"
+  ],
+  "spokesperson": "Arman Margaryan"
+}

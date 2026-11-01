@@ -1,0 +1,41 @@
+{
+  "id": 15,
+  "country": "LV",
+  "artist": "Bonaparti.lv",
+  "song": "Questa notte",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zghnafACJyE",
+    "https://www.youtube-nocookie.com/embed/cuYV7btTWXg",
+    "https://www.youtube-nocookie.com/embed/qWjpQAU6oeU",
+    "https://www.youtube-nocookie.com/embed/nuOYNhOWXFw"
+  ],
+  "bpm": 118,
+  "tone": "G minor",
+  "artistPeople": [
+    "Andris Ābelīte",
+    "Andris Ērglis",
+    "Kaspars Tīmanis",
+    "Normunds Jakušonoks",
+    "Roberto Meloni",
+    "Zigfrīds Muktupāvels"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kjell Jennstig"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Francesca Russo",
+    "Kjell Jennstig",
+    "Torbjörn Wassenius"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Jānis Šipkēvičs"
+}

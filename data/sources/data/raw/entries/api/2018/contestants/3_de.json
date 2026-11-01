@@ -1,0 +1,44 @@
+{
+  "id": 3,
+  "country": "DE",
+  "artist": "Michael Schulte",
+  "song": "You Let Me Walk Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N4YwSy4Q9k0",
+    "https://www.youtube-nocookie.com/embed/rp27Ggo_edo",
+    "https://www.youtube-nocookie.com/embed/YLbC-k3nnJQ",
+    "https://www.youtube-nocookie.com/embed/GxP3WlahA_g",
+    "https://www.youtube-nocookie.com/embed/_eedtc289Hw",
+    "https://www.youtube-nocookie.com/embed/z7xgIWK_a_w",
+    "https://www.youtube-nocookie.com/embed/zS_comaMCgc"
+  ],
+  "bpm": 149,
+  "tone": "B major",
+  "artistPeople": [
+    "Michael Anthony Schulte"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Katharina Müller",
+    "Michael Schulte",
+    "Nisse Ingwersen",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Charlotte Rezbach",
+    "Mary Roos",
+    "Max Giesinger",
+    "Mike Singer",
+    "Sascha Stadler"
+  ],
+  "spokesperson": "Barbara Schöneberger"
+}

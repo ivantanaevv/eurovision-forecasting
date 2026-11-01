@@ -1,0 +1,52 @@
+{
+  "id": 7,
+  "country": "AM",
+  "artist": "Ladaniva",
+  "song": "Jako",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hAYXDoZzAyE",
+    "https://www.youtube-nocookie.com/embed/_6xfmW0Fc40",
+    "https://www.youtube-nocookie.com/embed/t0sefiNLP_E",
+    "https://www.youtube-nocookie.com/embed/R8_Kn_rmBd8",
+    "https://www.youtube-nocookie.com/embed/Vh8Fb2QWQUY",
+    "https://www.youtube-nocookie.com/embed/9oTsRNZ3PdI"
+  ],
+  "bpm": 133,
+  "tone": "G major",
+  "artistPeople": [
+    "Zhaklin Baghdasaryan",
+    "Louis Thomas"
+  ],
+  "backings": [
+    "Louis Desseigne",
+    "Ninon Thomas",
+    "Pierre Kastler",
+    "Romain Desreumaux"
+  ],
+  "dancers": null,
+  "stageDirector": "Arthur Manukyan",
+  "composers": [
+    "Audrey Leclercq",
+    "Jaklin Baghdasaryan",
+    "Louis Thomas"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jaklin Baghdasaryan",
+    "Louis Thomas"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Hrachuhi Utmazyan",
+    "Sevak Hakobyan"
+  ],
+  "jury": [
+    "Aramayis Hayrapetyan",
+    "Lilit Arakelyan",
+    "Naira Gyurjinyan",
+    "Nare Manukyan",
+    "Robert Koloyan"
+  ],
+  "spokesperson": "Elen Yeremyan"
+}

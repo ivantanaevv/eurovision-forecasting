@@ -1,0 +1,52 @@
+{
+  "id": 20,
+  "country": "SI",
+  "artist": "Joker Out",
+  "song": "Carpe Diem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3LXlPviGiWc",
+    "https://www.youtube-nocookie.com/embed/zDBSIGITdY4",
+    "https://www.youtube-nocookie.com/embed/zCEVHbHi5kA",
+    "https://www.youtube-nocookie.com/embed/Ijy1OV3KkjQ",
+    "https://www.youtube-nocookie.com/embed/4M83ikN5i7A",
+    "https://www.youtube-nocookie.com/embed/rxxQTBGz0UQ",
+    "https://www.youtube-nocookie.com/embed/vHuMmb28tkY"
+  ],
+  "bpm": 132,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Bojan Cvjetićanin",
+    "Jan Peteh",
+    "Jure Maček",
+    "Kris Guštin",
+    "Nace Jordan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bojan Cvjetićanin",
+    "Jan Peteh",
+    "Jure Maček",
+    "Kris Guštin",
+    "Nace Jordan",
+    "Žarko Pak"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Bojan Cvjetićanin"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Edita Čepin",
+    "Hugo Smeh",
+    "Jernej Sobočan Ivanovič",
+    "Lara Baruca",
+    "Matjaž Vlašič"
+  ],
+  "spokesperson": "Melani Mekicar"
+}

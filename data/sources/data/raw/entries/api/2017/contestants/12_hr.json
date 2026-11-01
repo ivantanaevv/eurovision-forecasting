@@ -1,0 +1,52 @@
+{
+  "id": 12,
+  "country": "HR",
+  "artist": "Jacques Houdek",
+  "song": "My Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Sya_GIxsw0",
+    "https://www.youtube-nocookie.com/embed/Q06z-EaBvjE",
+    "https://www.youtube-nocookie.com/embed/tkP0xw_i_Ho",
+    "https://www.youtube-nocookie.com/embed/MfpivRXe3Q4",
+    "https://www.youtube-nocookie.com/embed/WJ0Zjlx4RIc",
+    "https://www.youtube-nocookie.com/embed/JnqeuCuc658",
+    "https://www.youtube-nocookie.com/embed/m3YD9_1ShQ8"
+  ],
+  "bpm": 138,
+  "tone": "F major",
+  "artistPeople": [
+    "Željko Houdek"
+  ],
+  "backings": [
+    "Alen Đuras",
+    "Edgar Rupena",
+    "Matija Cvek"
+  ],
+  "dancers": null,
+  "stageDirector": "Krešimir Dolenčić",
+  "composers": [
+    "Jacques Houdek",
+    "Siniša Reljić",
+    "Tony Malm"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Arjana Kunštek",
+    "Fabrizio Laucella",
+    "Ines Prajo",
+    "Jacques Houdek"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Dino Jelusić",
+    "Ivana Kindl",
+    "Sanja Doležal",
+    "Saša Lozar",
+    "Tihomir Preradović"
+  ],
+  "spokesperson": "Uršula Tolj"
+}

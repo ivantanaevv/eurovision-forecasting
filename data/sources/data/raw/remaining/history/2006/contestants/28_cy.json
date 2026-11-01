@@ -1,0 +1,37 @@
+{
+  "id": 28,
+  "country": "CY",
+  "artist": "Annet Artani",
+  "song": "Why Angels Cry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cXXQIbxL110",
+    "https://www.youtube-nocookie.com/embed/s8dEs8rghz8",
+    "https://www.youtube-nocookie.com/embed/FFH6o0o4IsY"
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Annette Stamatelatos"
+  ],
+  "backings": [
+    "Anna Iliadou",
+    "Constantinos Andronikou",
+    "Giorgos Georgiou",
+    "Keana Johnson",
+    "Riana Athanasiou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Peter Yiannakis"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Constantinos Christoforou"
+}

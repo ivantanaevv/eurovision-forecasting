@@ -1,0 +1,46 @@
+{
+  "id": 0,
+  "country": "DE",
+  "artist": "Lena",
+  "song": "Satellite",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-qnsZgQe1tU",
+    "https://www.youtube-nocookie.com/embed/8QSgNM9yNjo",
+    "https://www.youtube-nocookie.com/embed/z38NLiXGIlI",
+    "https://www.youtube-nocookie.com/embed/JjCsmc4Lwvk",
+    "https://www.youtube-nocookie.com/embed/93ugDwiBVzA"
+  ],
+  "bpm": 95,
+  "tone": "A major",
+  "artistPeople": [
+    "Lena Johanna Therese Meyer-Landrut"
+  ],
+  "backings": [
+    "Anji Hinke",
+    "Cheri Kedida",
+    "Grace Risch",
+    "Laurita Spinelli",
+    "Maya Saban"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "John Gordon",
+    "Julie Frost"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Hadnet Tesfai",
+    "Hape Kerkeling",
+    "Jochen Rausch",
+    "Johannes Oerding",
+    "Mary Roos"
+  ],
+  "spokesperson": "Hape Kerkeling"
+}

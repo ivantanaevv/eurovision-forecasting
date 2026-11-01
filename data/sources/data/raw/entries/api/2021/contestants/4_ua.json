@@ -1,0 +1,52 @@
+{
+  "id": 4,
+  "country": "UA",
+  "artist": "Go_A",
+  "song": "Shum",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lqvzDkgok_g",
+    "https://www.youtube-nocookie.com/embed/U7-dxzp6Jvs",
+    "https://www.youtube-nocookie.com/embed/fV4EKm5lkVk",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/R6suqq_ThA8",
+    "https://www.youtube-nocookie.com/embed/_v39i-sPHsQ",
+    "https://www.youtube-nocookie.com/embed/s14HtSkiT6g"
+  ],
+  "bpm": 118,
+  "tone": "E major",
+  "artistPeople": [
+    "Kateryna Pavlenko"
+  ],
+  "backings": [
+    "Ihor Didenchuk",
+    "Ivan Hryhoriak",
+    "Taras Shevchenko"
+  ],
+  "dancers": [
+    "Dmitriy Sharipov",
+    "Vania Yurkiv"
+  ],
+  "stageDirector": "Kostiantyn Tomilchenko, Oleksandr Bratkovskyi",
+  "composers": [
+    "Kateryna Pavlenko",
+    "Taras Shevchenko"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kateryna Pavlenko"
+  ],
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Serhiy Prytula",
+    "Timur Miroshnychenko"
+  ],
+  "jury": [
+    "Alloise",
+    "alyona alyona",
+    "Igor Kondratiuk",
+    "Illaria",
+    "Olexandr"
+  ],
+  "spokesperson": "Tayanna"
+}

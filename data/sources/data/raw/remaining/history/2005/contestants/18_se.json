@@ -1,0 +1,40 @@
+{
+  "id": 18,
+  "country": "SE",
+  "artist": "Martin Stenmarck",
+  "song": "Las Vegas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2JZtAqMqn6k",
+    "https://www.youtube-nocookie.com/embed/6UxX2HZuFi4"
+  ],
+  "bpm": 129,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Martin Olof Jon Stenmarck"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Jenny Petersson",
+    "Johan Röhr"
+  ],
+  "dancers": [
+    "Åsa Mirro",
+    "Sandra Linder"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Johan Fransson",
+    "Niklas Edberger",
+    "Tim Larsson",
+    "Tobias Lundgren"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Annika Jankell"
+}

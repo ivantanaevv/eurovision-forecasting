@@ -1,0 +1,49 @@
+{
+  "id": 12,
+  "country": "FR",
+  "artist": "Madame Monsieur",
+  "song": "Mercy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vjLuTtUv0Ns",
+    "https://www.youtube-nocookie.com/embed/6ft3_DOajNY",
+    "https://www.youtube-nocookie.com/embed/poInYpdNXso",
+    "https://www.youtube-nocookie.com/embed/u2l6Bdd32Cc",
+    "https://www.youtube-nocookie.com/embed/lvkyzFsiuLc",
+    "https://www.youtube-nocookie.com/embed/eS7ZVNDtRTo",
+    "https://www.youtube-nocookie.com/embed/mfk9j8xsB1I"
+  ],
+  "bpm": 97,
+  "tone": "A minor",
+  "artistPeople": [
+    "Émilie Satt",
+    "Jean-Karl Lucas"
+  ],
+  "backings": [
+    "Allyson Ezell",
+    "Noée"
+  ],
+  "dancers": null,
+  "stageDirector": "Stéphane Jarny",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Émilie Satt",
+    "Jean-Karl Lucas"
+  ],
+  "broadcaster": "France 2",
+  "commentators": [
+    "Alma",
+    "André Manoukian",
+    "Christophe Willem",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Benjamin Marciano",
+    "Clémentine Boulard",
+    "Cyril Taïeb",
+    "Léa Luciani",
+    "Elodie Suigo"
+  ],
+  "spokesperson": "Élodie Gossuin"
+}

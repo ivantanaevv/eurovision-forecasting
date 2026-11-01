@@ -1,0 +1,39 @@
+{
+  "id": 21,
+  "country": "BE",
+  "artist": "Xandee",
+  "song": "1 Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w5mX3ecBtTI",
+    "https://www.youtube-nocookie.com/embed/vm26IbNMy3w"
+  ],
+  "bpm": 130,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sandy Boets"
+  ],
+  "backings": [
+    "Chantal Kashala",
+    "Clift Ferdy Bell",
+    "Daniel Pires",
+    "Jessica Cruz De Pina",
+    "Patrick Vinx"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Paelinck"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dirk Paelinck"
+  ],
+  "writers": null,
+  "broadcaster": "VRT",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Martine Prenen"
+}

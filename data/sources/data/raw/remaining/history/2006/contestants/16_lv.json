@@ -1,0 +1,39 @@
+{
+  "id": 16,
+  "country": "LV",
+  "artist": "Cosmos",
+  "song": "I Hear Your Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-_pDAxEtt7g",
+    "https://www.youtube-nocookie.com/embed/tYwHraZ1KD4"
+  ],
+  "bpm": 89,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Andris Sējāns",
+    "Jānis Ozols",
+    "Jānis Šipkēvičs",
+    "Jānis Strazdiņš",
+    "Juris Lisenko",
+    "Reinis Sējāns"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andris Sējāns",
+    "Reinis Sējāns"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Guntars Račs",
+    "Molly-Ann Leikin"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Mārtiņš Freimanis"
+}

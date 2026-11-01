@@ -1,0 +1,47 @@
+{
+  "id": 18,
+  "country": "GR",
+  "artist": "Maria Elena Kyriakou",
+  "song": "One Last Breath",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1RZ2JGC9Nlw",
+    "https://www.youtube-nocookie.com/embed/qD6epZ-YWSc",
+    "https://www.youtube-nocookie.com/embed/v7xKMnNcVdM",
+    "https://www.youtube-nocookie.com/embed/EA0RCGtBG24",
+    "https://www.youtube-nocookie.com/embed/voouPZFBVJs"
+  ],
+  "bpm": 85,
+  "tone": "A minor",
+  "artistPeople": [
+    "Maria Elena Kyriakou"
+  ],
+  "backings": [
+    "Alex Economou",
+    "Katerina Kyriakou"
+  ],
+  "dancers": null,
+  "stageDirector": "Maria Liraraki",
+  "composers": [
+    "Efthivoulos Theocharous",
+    "Maria Elena Kyriakou"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Evelina Tziora",
+    "Vangelis Konstantinidis"
+  ],
+  "writers": null,
+  "broadcaster": "NERIT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Antonios Karatzikos",
+    "Helen Giannatsoulia",
+    "Ioannis Koutsaftakis",
+    "Jick Nakassian",
+    "Marianna Efstratiou"
+  ],
+  "spokesperson": "Helena Paparizou"
+}

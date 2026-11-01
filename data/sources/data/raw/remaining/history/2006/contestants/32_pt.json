@@ -1,0 +1,36 @@
+{
+  "id": 32,
+  "country": "PT",
+  "artist": "Nonstop",
+  "song": "Coisas De Nada",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mWLX83XLmCs",
+    "https://www.youtube-nocookie.com/embed/ZQ2a_ievJog"
+  ],
+  "bpm": 148,
+  "tone": "E major",
+  "artistPeople": [
+    "Andrea de Brito Soares",
+    "Kátia Moreira Alcunha",
+    "Liliana Patrícia Almeida",
+    "Ana Rita Branco Gonçalves Reis"
+  ],
+  "backings": [
+    "Elaisa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Elvis Veiguinha",
+    "José Manuel Afonso"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Alves"
+}

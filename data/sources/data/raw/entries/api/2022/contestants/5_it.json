@@ -1,0 +1,49 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Mahmood & Blanco",
+  "song": "Brividi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/blEy4xHuMbY",
+    "https://www.youtube-nocookie.com/embed/MA_5P3u0apQ",
+    "https://www.youtube-nocookie.com/embed/9B4S5faMsl0",
+    "https://www.youtube-nocookie.com/embed/4MgMhzfUmiA",
+    "https://www.youtube-nocookie.com/embed/UBpbTaOOykA"
+  ],
+  "bpm": 123,
+  "tone": "C major",
+  "artistPeople": [
+    "Alessandro Mahmoud",
+    "Blanco"
+  ],
+  "backings": [
+    "Michele Zocca"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mahmood",
+    "Michele Zocca",
+    "Riccardo Fabbriconi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mahmood",
+    "Riccardo Fabbriconi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Carolina Di Domenico",
+    "Cristiano Malgioglio",
+    "Gabriele Corsi"
+  ],
+  "jury": [
+    "Andrea Spinelli",
+    "Cinzia Poli",
+    "Filippo Solibello",
+    "Monica Agostini",
+    "Paolo Di Gioia"
+  ],
+  "spokesperson": "Carolina Di Domenico"
+}

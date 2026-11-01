@@ -1,0 +1,40 @@
+{
+  "id": 20,
+  "country": "MT",
+  "artist": "Kurt Calleja",
+  "song": "This Is The Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lUnEZp-qHxs",
+    "https://www.youtube-nocookie.com/embed/EgaX5QuMGR8",
+    "https://www.youtube-nocookie.com/embed/cjhBsCop3Ys"
+  ],
+  "bpm": 122,
+  "tone": "F major",
+  "artistPeople": [
+    "Kurt Calleja"
+  ],
+  "backings": [
+    "Amber Bondin",
+    "Christian Calleja",
+    "Kevin Paul Calleja",
+    "Rebecca Spiteri",
+    "Warren Bonello"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Johan Jämtberg",
+    "Kurt Calleja",
+    "Mikael Gunnerås"
+  ],
+  "broadcaster": "PBM",
+  "commentators": [
+    "Elaine Saliba",
+    "Ronald Briffa"
+  ],
+  "jury": null,
+  "spokesperson": "Keith Demicoli"
+}

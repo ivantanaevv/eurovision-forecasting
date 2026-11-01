@@ -1,0 +1,54 @@
+{
+  "id": 22,
+  "country": "DK",
+  "artist": "Sissal",
+  "song": "Hallucination",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B3BdsYDnS8M",
+    "https://www.youtube-nocookie.com/embed/Q_ND8mF9d3c",
+    "https://www.youtube-nocookie.com/embed/gdCAgiSIOUc",
+    "https://www.youtube-nocookie.com/embed/rmaisz6F4sg",
+    "https://www.youtube-nocookie.com/embed/xdtWBmWG9Bk",
+    "https://www.youtube-nocookie.com/embed/2Nos_sMxKD8",
+    "https://www.youtube-nocookie.com/embed/hC3ECaEsmPA"
+  ],
+  "bpm": 140,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Sissal Jóhanna Norðberg Niclasen"
+  ],
+  "backings": [
+    "Melanie Wehbe"
+  ],
+  "dancers": [
+    "Mads Gronemann",
+    "Nefertiti Moeglin Pedersen",
+    "Oliver Zohore",
+    "Sophie Zapp Christensen"
+  ],
+  "stageDirector": "Per Zachariassen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chris Chordz",
+    "Line Spangsberg",
+    "Linnea Deb",
+    "Malthe Johansen",
+    "Marcus Winther-John",
+    "Melanie Wehbe",
+    "Sissal Jóhanna Norðberg Niclasen"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": [
+    "Anders Ugilt Andersen",
+    "Anne Dorte Michelsen",
+    "Katrine Muff Enevoldsen",
+    "Mads Enggaard",
+    "Peter Düring"
+  ],
+  "spokesperson": "Sara Bro"
+}

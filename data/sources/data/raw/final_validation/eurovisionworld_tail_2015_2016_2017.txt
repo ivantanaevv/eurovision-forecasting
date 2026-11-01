@@ -1,0 +1,205 @@
+Internal Error ()
+citeturn44view0 [wordlim: 200] Source: open({"ref_id":"https://eurovisionworld.com/odds/eurovision-2015","lineno":65}); Total lines: 1
+L0: Failed to fetch https://eurovisionworld.com/odds/eurovision-2015: UnexpectedStatusCode
+--------------------------------------------------------------------------------
+Odds Eurovision Song Contest 2016 (https://eurovisionworld.com/odds/eurovision-2016)
+citeturn44view1 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://eurovisionworld.com/odds/eurovision-2016","lineno":65}); Total lines: 122
+L30: 2  | 【19†Australia Dami Im - Sound of Silence】  | 2.85  | 5.5  | 4.5  | 2.9  | 6  | 4.5  | 2.57  | 2.8  | 2.8  | 5  | 5  | 2.75  | 4.5  | 6  | 2.9  | 2.85  | 5.5  | 2.88  | 2.62  | 2.79
+L31: 3  | 【20†Ukraine Jamala - 1944】  | 11  | 17  | 19  | 15  | 26  | 13  | 10  | 15  | 8.75  | 10  | 19  | 10  | 13  | 17  | 15  | 10  | 17  | 15  | 9  | 19
+L32: 4  | 【21†Sweden Frans - If I Were Sorry】  | 17  | 15  | 23  | 18  | 34  | 34  | 23  | 21  | 16  | 19  | 15  | 17  | 21  | 21  | 18  | 19  | 19  | 26  | 17  | 40
+L33: 5  | 【22†France Amir - J'ai cherché】  | 18  | 26  | 51  | 16  | 51  | 34  | 15  | 19  | 15  | 21  | 29  | 17  | 26  | 34  | 16  | 17  | 21  | 26  | 15  | 32
+L34: 6  | 【23†Armenia Iveta Mukuchyan - LoveWave】  | 30  | 34  | 67  | 31  | 101  | 41  | 41  | 34  | 31  | 29  | 51  | 34  | 26  | 51  | 31  | 26  | 26  | 41  | 41  | 71
+L35: 7  | 【24†Malta Ira Losco - Walk on Water】  | 25  | 51  | 67  | 36  | 67  | 51  | 41  | 34  | 31  | 41  | 51  | 29  | 34  | 41  | 36  | 34  | 67  | 34  | 26  | 52
+L36: 8  | 【25†Bulgaria Poli Genova - If Love Was a Crime】  | 100  | 34  | 67  | 81  | 34  | 51  | 101  | 101  | 81  | 34  | 34  | 81  | 41  | 26  | 81  | 101  | 26  | 101  | 126  | 238
+L37: 9  | 【26†UKUnited Kingdom Joe & Jake - You're Not Alone】  | 60  | 81  | 101  | 81  | 126  | 26  | 151  | 101  | 56  | 81  | 67  | 51  | 67  | 41  | 81  | 51  | 34  | 34  | 41  | 143
+L38: 10  | 【27†Spain Barei - Say Yay!】  | 100  | 17  | 21  | 151  | 26  | 9  | 151  | 101  | 121  | 17  | 13  | 151  | 19  | 17  | 151  | 101  | 19  | 101  | 101  | 342
+L39: 11  | 【28†Netherlands Douwe Bob - Slow Down】  | 55  | 41  | 201  | 36  | 201  | 151  | 71  | 51  | 56  | 151  | 81  | 51  | 101  | 81  | 36  | 51  | 67  | 67  | 51  | 133
+L40: 12  | 【29†Austria Zoë - Loin d'ici】  | 80  | 101  | 126  | 67  | 151  | 151  | 101  | 51  | 79  | 67  | 101  | 81  | 101  | 151  | 67  | 67  | 51  | 81  | 67  | 190
+L41: 13  | 【30†Latvia Justs - Heartbeat】  | 65  | 251  | 201  | 67  | 201  | 101  | 71  | 67  | 67  | 151  | 101  | 67  | 67  | 151  | 67  | 67  | 41  | 101  | 67  | 124
+L42: 14  | 【31†Belgium Laura Tesoro - What's the Pressure】  | 65  | 201  | 201  | 51  | 201  | 201  | 101  | 67  | 67  | 151  | 81  | 67  | 101  | 101  | 51  | 51  | 67  | 101  | 51  | 190
+L43: 15  | 【32†Italy Francesca Michielin - No Degree of Separation】  | 65  | 201  | 201  | 51  | 201  | 251  | 71  | 67  | 71  | 151  | 101  | 67  | 101  | 151  | 51  | 51  | 101  | 101  | 51  | 190
+L44: 16  | 【33†Cyprus Minus One - Alter Ego】  | 150  | 101  | 126  | 151  | 101  | 151  | 101  | 101  | 171  | 67  | 81  | 151  | 67  | 67  | 151  | 126  | 67  | 101  | 151  | 285
+L45: 17  | 【34†Israel Hovi Star - Made of Stars】  | 80  | 251  | 201  | 81  | 201  | 151  | 101  | 101  | 91  | 151  | 101  | 81  | 101  | 126  | 81  | 67  | 67  | 101  | 67  | 352
+L46: 18  | 【35†Poland Michał Szpak - Color of Your Life】  | 100  | 251  | 201  | 126  | 251  | 201  | 201  | 101  | 151  | 201  | 151  | 126  | 151  | 101  | 126  | 101  | 101  | 101  | 101  | 390
+L47: 19  | 【36†Lithuania Donny Montell - I've Been Waiting for This Night】  | 150  | 201  | 201  | 151  | 201  | 81  | 301  | 101  | 171  | 151  | 101  | 151  | 151  | 151  | 151  | 151  | 101  | 101  | 151  | 703
+L48: 20  | 【37†Serbia Sanja Vučić ZAA - Goodbye (Shelter)】  | 100  | 501  | 201  | 101  | 201  | 501  | 151  | 67  | 101  | 151  | 126  | 101  | 151  | 501  | 101  | 81  | 101  | 101  | 67  | 428
+L49: 21  | 【38†Azerbaijan Samra - Miracle】  | 200  | 501  | 251  | 101  | 251  | 251  | 151  | 101  | 226  | 201  | 151  | 201  | 201  | 501  | 101  | 201  | 201  | 101  | 101  | 665
+L50: 22  | 【39†Hungary Freddie - Pioneer】  | 200  | 501  | 301  | 151  | 201  | 501  | 201  | 101  | 226  | 301  | 201  | 201  | 201  | 501  | 151  | 151  | 201  | 101  | 151  | 950
+L51: 23  | 【40†Croatia Nina Kraljić - Lighthouse】  | 200  | 501  | 251  | 201  | 201  | 501  | 151  | 101  | 206  | 301  | 251  | 201  | 251  | 501  | 201  | 201  | 151  | 101  | 201  | 798
+L52: 24  | 【41†Georgia Nika Kocharov & Young Georgian Lolitaz - Midnight Gold】  | 225  | 501  | 301  | 251  | 201  | 301  | 301  | 301  | 251  | 201  | 251  | 251  | 201  | 251  | 251  | 201  | 201  | 101  | 201  | 950
+L53: 25  | 【42†Czechia Gabriela Gunčíková - I Stand】  | 200  | 501  | 301  | 201  | 251  | 501  | 301  | 101  | 226  | 301  | 301  | 201  | 251  | 501  | 201  | 201  | 201  | 101  | 201  | 950
+L54: 26  | 【43†Germany Jamie-Lee - Ghost】  | 230  | 501  | 251  | 301  | 501  | 201  | 301  | 101  | 271  | 251  | 301  | 251  | 251  | 501  | 301  | 151  | 201  | 101  | 201  | 504
+L55: verified  | 14 May
+L56: 2016  | 14 May
+L57: 2016  | 14 May
+L58: 2016  | 14 May
+L59: 2016  | 14 May
+L60: 2016  | 14 May
+L61: 2016  | 14 May
+L62: 2016  | 14 May
+L63: 2016  | 14 May
+L64: 2016  | 14 May
+L65: 2016  | 14 May
+L66: 2016  | 14 May
+L67: 2016  | 14 May
+L68: 2016  | 14 May
+L69: 2016  | 14 May
+L70: 2016  | 14 May
+L71: 2016  | 14 May
+L72: 2016  | 14 May
+L73: 2016  | 14 May
+L74: 2016  | 14 May
+L75: 2016
+L76: #### Did not qualify:
+L77: 
+L78: 【44†Albania Eneda Tarifa - Fairytale】
+L79: 【45†Belarus Ivan - Help You Fly】
+L80: 【46†Bosnia & Herzegovina Dalal & Deen feat. Ana Rucner & Jala - Ljubav je】
+L81: 【47†Denmark Lighthouse X - Soldiers of Love】
+L82: 【48†Estonia Jüri Pootsmann - Play】
+L83: 【49†Finland Sandhja - Sing It Away】
+L84: 【50†FYR Macedonia Kaliopi - Dona】
+L85: 【51†Greece Argo - Utopian Land】
+L86: 【52†Iceland Greta Salóme - Hear Them Calling】
+L87: 【53†Ireland Nicky Byrne - Sunlight】
+L88: 【54†Moldova Lidia Isac - Falling Stars】
+L89: 【55†Montenegro Highway - The Real Thing】
+L90: 【56†Norway Agnete - Icebreaker】
+L91: 【57†San Marino Serhat - I Didn't Know】
+L92: 【58†Slovenia ManuElla - Blue and Red】
+L93: 【59†Switzerland Rykka - The Last of Our Kind】
+L94: Who will win Eurovision Song Contest 2016? The odds are collected from bookmakers that have odds on Eurovision Song Contest 2016. We don't provide any bets on these odds. We have commercial relationships with some of the bookmakers. We can not guarantee the availability or accuracy of odds or offers. Check with the bookmaker before signing up. The odds are subject to change, and can be seen as bookmakers' prediction of the betting: Who will win Eurovision Song Contest 2016?
+L95: 
+L96: 【60†More Eurovision Odds】
+L97: 【8†Eurovision Song Contest 2026 (closed)】【16†Eurovision 2026 Semi-final 1 (closed)】【17†Eurovision 2026 Semi-final 2 (closed)】【61†Melodifestivalen 2026 (closed)】【62†Sanremo 2026 (closed)】【63†Norway Melodi Grand Prix 2026 (closed)】【64†Finland UMK 2026 (closed)】【65†Sing for Greece 2026 (closed)】【66†Latvia Supernova 2026 (closed)】【67†Denmark Melodi Grand Prix 2026 (closed)】【68†Eesti Laul 2026 (closed)】【69†Eurovision Song Contest 2025 (closed)】【70†Eurovision Song Contest 2024 (closed)】【71†Eurovision Song Contest 2023 (closed)】【72†Eurovision Song Contest 2022 (closed)】【73†Eurovision Song Contest 2021 (closed)】【74†Eurovision Song Contest 2020 (cancelled)】【75†Eurovision Song Contest 2019 (closed)】【76†Eurovision Song Contest 2018 (closed)】【77†Eurovision Song Contest 2017 (closed)】【78†Eurovision Song Contest 2016 (closed)】【79†Eurovision Song Contest 2015 (closed)】
+L98: 【60†More Eurovision Odds】
+L99: ## Eurovision News
+L100: 
+L101: 【13†Did you know...The Eurovision Song Contest is broadcast across five continents】
+L102: 
+L103: 【13†Did you know...Titles of songs have included Boom Bang-a-bang (UK, 1969), A-Ba-Ni-Ba (Israel, 1978), Bana Bana (Turkey, 1989) and Boum-badaboum (Monaco, 1967)】
+L104: 
+L105: 【13†Did you know...From 1956 to 1998 all the songs were accompanied by a live orchestra. From 1999 and onwards the orchestra was dropped, so the entries could use recorded backing track during their performances】
+L106: 
+L107: Select year or country
+L108: 【7†Eurovision Results, Voting & Points Complete database with all the votings, points, songs and lyrics from the Eurovision Song Contest history:】
+L109: 
+L110: Select year or country
+L111: ### 【9†Eurovision 2026 Songs & Videos】
+L112: 
+L113: 【9†All songs Eurovision 2026: Songs & Videos】
+L114: 
+L115: 【13†Did you know...The longest song in the Eurovision Song Contest is Italy's "Corde Della Mia Chitarra" from 1957: 5 minutes and 9 seconds. After the contest, the rules were tightened so songs couldn't be longer than 3.5 minutes initially and later 3 minutes】
+L116: 【13†Did you know...In 1956, every participating country could enter with two songs. The Netherlands was the first country to sing a song in Eurovision with "De vogels van Holland"】
+L117: ### 【14†Eurovision Quiz】
+L118: 
+L119: #### 【14†Are you a true Eurovision fan?】
+L120: 
+L121: 【80†Quiz: Eurovision 2026】 【81†Quiz: Eurovision History】 【82†Quiz: Eurovision Winners】 【83†Eurovision 2015 to 2024】【14†...and 880 more Quizzes】
+--------------------------------------------------------------------------------
+Odds Eurovision Song Contest 2017 (https://eurovisionworld.com/odds/eurovision-2017)
+citeturn44view2 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://eurovisionworld.com/odds/eurovision-2017","lineno":65}); Total lines: 121
+L16:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L17:  |  |  | BETSSON  | UNIBET  | BET365  | SPORTING
+L18: BET  | DANSKE
+L19: SPIL  | SKY
+L20: BET  | BWIN  | LAD
+L21: BROKES  | CORAL  | BOYLE
+L22: SPORTS  | PADDY
+L23: POWER  | 10BET  | WILLIAM
+L24: HILL  | BET
+L25: FRED  | BETWAY  | BET
+L26: STARS  | BETFAIR
+L29: 2  |  | 【19†Portugal Salvador Sobral - Amar pelos dois】  | 2.4  | 2.91  | 2.62  | 2.4  | 2.9  | 2.63  | 2.9  | 2.75  | 2.75  | 3.1  | 2.87  | 2.6  | 2.75  | 3  | 2.75  | 2.38  | 2.87  | 3.05
+L30: 3  |  | 【20†Italy Francesco Gabbani - Occidentali's Karma】  | 7.5  | 8  | 6.5  | 7  | 8  | 8  | 7  | 7.5  | 7.5  | 8  | 9  | 2.75  | 3  | 8  | 7  | 2.88  | 9  | 9
+L31: 4  |  | 【21†Belgium Blanche - City Lights】  | 7  | 8  | 6.5  | 7  | 7  | 7  | 7  | 6.5  | 6.5  | 6.5  | 6.5  | 15  | 17  | 7  | 6  | 15  | 6.5  | 10
+L32: 5  |  | 【22†Romania Ilinca feat. Alex Florea - Yodel It!】  | 20  | 19  | 19  | 17  | 18  | 17  | 26  | 17  | 17  | 17  | 15  | 34  | 26  | 13  | 17  | 26  | 15  | 23
+L33: 6  |  | 【23†Sweden Robin Bengtsson - I Can't Go On】  | 30  | 26  | 26  | 26  | 22  | 26  | 26  | 17  | 17  | 17  | 17  | 26  | 21  | 21  | 26  | 31  | 17  | 36
+L34: 7  |  | 【24†Croatia Jacques Houdek - My Friend】  | 40  | 26  | 51  | 51  | 40  | 51  | 51  | 34  | 34  | 29  | 26  | 51  | 51  | 26  | 41  | 61  | 26  | 75
+L35: 8  |  | 【25†UKUnited Kingdom Lucie Jones - Never Give Up on You】  | 50  | 51  | 67  | 67  | 50  | 51  | 51  | 29  | 29  | 51  | 51  | 29  | 26  | 21  | 67  | 51  | 51  | 95
+L36: 9  |  | 【26†Moldova Sunstroke Project - Hey Mamma】  | 50  | 41  | 67  | 51  | 50  | 51  | 67  | 41  | 41  | 34  | 26  | 81  | 51  | 21  | 51  | 61  | 26  | 100
+L37: 10  |  | 【27†France Alma - Requiem】  | 50  | 67  | 151  | 101  | 75  | 201  | 51  | 201  | 201  | 101  | 101  | 67  | 81  | 51  | 101  | 67  | 101  | 340
+L38: 11  |  | 【28†Armenia Artsvik - Fly With Me】  | 50  | 81  | 201  | 151  | 125  | 201  | 67  | 101  | 101  | 101  | 101  | 67  | 81  | 101  | 101  | 51  | 101  | 500
+L39: 12  |  | 【29†Norway Jowst - Grab the Moment】  | 70  | 67  | 101  | 101  | 75  | 151  | 101  | 151  | 151  | 101  | 101  | 201  | 151  | 101  | 101  | 76  | 101  | 310
+L40: 13  |  | 【30†Netherlands OG3NE - Lights And Shadows】  | 150  | 41  | 301  | 201  | 75  | 151  | 67  | 201  | 201  | 101  | 151  | 81  | 101  | 101  | 101  | 101  | 151  | 350
+L41: 14  |  | 【31†Australia Isaiah - Don't Come Easy】  | 100  | 101  | 301  | 151  | 200  | 201  | 101  | 151  | 151  | 101  | 201  | 126  | 101  | 101  | 101  | 151  | 201  | 710
+L42: 15  |  | 【32†Denmark Anja - Where I Am】  | 100  | 81  | 301  | 301  | 60  | 201  | 101  | 251  | 251  | 201  | 201  | 126  | 101  | 101  | 151  |  | 201  | 670
+L43: 16  |  | 【33†Azerbaijan Dihaj - Skeletons】  | 100  | 151  | 251  | 251  | 200  | 251  | 101  | 201  | 201  | 251  | 201  | 126  | 126  | 101  | 151  | 101  | 201  | 500
+L44: 17  |  | 【34†Hungary Joci Pápai - Origo】  | 150  | 81  | 401  | 301  | 200  | 301  | 67  | 201  | 201  | 201  | 201  | 116  | 151  | 101  | 126  | 101  | 201  | 800
+L45: 18  |  | 【35†Germany Levina - Perfect Life】  | 400  | 301  | 501  | 126  | 350  | 201  | 101  | 151  | 151  | 101  | 201  | 151  | 151  | 101  | 151  | 151  | 201  | 430
+L46: 19  |  | 【36†Poland Kasia Moś - Flashlight】  | 250  | 301  | 401  | 301  | 350  | 201  | 101  | 201  | 201  | 201  | 301  | 201  | 101  | 101  | 251  | 151  | 301  | 640
+L47: 20  |  | 【37†Greece Demy - This is Love】  | 300  | 151  | 501  | 251  | 300  | 251  | 101  | 251  | 251  | 201  | 251  | 251  | 201  | 101  | 251  | 201  | 251  | 600
+L48: 21  |  | 【38†Austria Nathan Trent - Running On Air】  | 300  | 301  | 501  | 251  | 250  | 201  | 101  | 301  | 301  | 201  | 251  | 201  | 101  | 101  | 201  | 251  | 251  | 650
+L49: 22  |  | 【39†Belarus Naviband - Story Of My Life】  | 300  | 301  | 501  | 401  | 300  | 201  | 101  | 201  | 201  | 251  | 251  | 251  | 201  | 101  | 201  | 201  | 251  | 1000
+L50: 23  |  | 【40†Cyprus Hovig - Gravity】  | 300  | 501  | 601  | 151  | 350  | 201  | 201  | 301  | 301  | 101  | 151  | 351  | 201  | 101  | 201  | 201  | 151  | 730
+L51: 24  |  | 【41†Ukraine O.Torvald - Time】  | 400  | 501  | 751  | 201  | 400  | 301  | 101  | 301  | 301  | 501  | 301  | 251  | 201  | 101  | 201  | 201  | 301  | 700
+L52: 25  |  | 【42†Israel Imri Ziv - I Feel Alive】  | 500  | 201  | 1001  | 501  | 400  | 301  | 101  | 401  | 401  | 351  | 251  | 201  | 101  | 101  | 251  | 201  | 251  | 1000
+L53: 26  |  | 【43†Spain Manel Navarro - Do It for Your Lover】  | 500  | 501  | 1001  | 301  | 500  | 251  | 301  | 251  | 251  | 501  | 501  | 401  | 201  | 101  | 301  | 501  | 501  | 1000
+L54: verified  | 13 May
+L55: 2017  | 13 May
+L56: 2017  | 13 May
+L57: 2017  | 13 May
+L58: 2017  | 13 May
+L59: 2017  | 13 May
+L60: 2017  | 13 May
+L61: 2017  | 13 May
+L62: 2017  | 13 May
+L63: 2017  | 13 May
+L64: 2017  | 13 May
+L65: 2017  | 13 May
+L66: 2017  | 13 May
+L67: 2017  | 13 May
+L68: 2017  | 13 May
+L69: 2017  | 13 May
+L70: 2017  | 13 May
+L71: 2017  | 13 May
+L72: 2017
+L73: #### Did not qualify:
+L74: 
+L75:  | 【44†Albania Lindita - World】
+L76:  | 【45†Czech Republic Martina Bárta - My Turn】
+L77:  | 【46†Estonia Koit Toome & Laura - Verona】
+L78:  | 【47†Finland Norma John - Blackbird】
+L79:  | 【48†FYR Macedonia Jana Burčeska - Dance Alone】
+L80:  | 【49†Georgia Tamara Gachechiladze - Keep The Faith】
+L81:  | 【50†Iceland Svala - Paper】
+L82:  | 【51†Ireland Brendan Murray - Dying To Try】
+L83:  | 【52†Latvia Triana Park - Line】
+L84:  | 【53†Lithuania Fusedmarc - Rain Of Revolution】
+L85:  | 【54†Malta Claudia Faniello - Breathlessly】
+L86:  | 【55†Montenegro Slavko Kalezić - Space】
+L87:  | Russia
+L88:  | 【56†San Marino Valentina Monetta & Jimmie Wilson - Spirit Of The Night】
+L89:  | 【57†Serbia Tijana Bogićević - In Too Deep】
+L90:  | 【58†Slovenia Omar Naber - On My Way】
+L91:  | 【59†Switzerland Timebelle - Apollo】
+L92: Who will win Eurovision Song Contest 2017? The odds are collected from bookmakers that have odds on Eurovision Song Contest 2017. We don't provide any bets on these odds. We have commercial relationships with some of the bookmakers. We can not guarantee the availability or accuracy of odds or offers. Check with the bookmaker before signing up. The odds are subject to change, and can be seen as bookmakers' prediction of the betting: Who will win Eurovision Song Contest 2017?
+L93: 
+L94: 【60†More Eurovision Odds】
+L95: 【8†Eurovision Song Contest 2026 (closed)】【16†Eurovision 2026 Semi-final 1 (closed)】【17†Eurovision 2026 Semi-final 2 (closed)】【61†Melodifestivalen 2026 (closed)】【62†Sanremo 2026 (closed)】【63†Norway Melodi Grand Prix 2026 (closed)】【64†Finland UMK 2026 (closed)】【65†Sing for Greece 2026 (closed)】【66†Latvia Supernova 2026 (closed)】【67†Denmark Melodi Grand Prix 2026 (closed)】【68†Eesti Laul 2026 (closed)】【69†Eurovision Song Contest 2025 (closed)】【70†Eurovision Song Contest 2024 (closed)】【71†Eurovision Song Contest 2023 (closed)】【72†Eurovision Song Contest 2022 (closed)】【73†Eurovision Song Contest 2021 (closed)】【74†Eurovision Song Contest 2020 (cancelled)】【75†Eurovision Song Contest 2019 (closed)】【76†Eurovision Song Contest 2018 (closed)】【77†Eurovision Song Contest 2017 (closed)】【78†Eurovision Song Contest 2016 (closed)】【79†Eurovision Song Contest 2015 (closed)】
+L96: 【60†More Eurovision Odds】
+L97: ## Eurovision News
+L98: 
+L99: 【13†Did you know...Belarus was expelled from Eurovision 2021. The submitted song had lyrics with political undertones mocking the Belarusian pro-democracy movement】
+L100: 
+L101: 【13†Did you know...The highest note ever sung in Eurovision was from the 2021 contest, where Israel's Eden Alene reached the B6 whistle note】
+L102: 
+L103: 【13†Did you know...Ireland and Sweden holds the record of most victories in the Eurovision Song Contest: Seven victories each!】
+L104: 
+L105: Select year or country
+L106: 【7†Eurovision Results, Voting & Points Complete database with all the votings, points, songs and lyrics from the Eurovision Song Contest history:】
+L107: 
+L108: Select year or country
+L109: ### 【9†Eurovision 2026 Songs & Videos】
+L110: 
+L111: 【9†All songs Eurovision 2026: Songs & Videos】
+L112: 
+L113: 【13†Did you know...The Eurovision Song Contest is the world's biggest music show】
+L114: 
+L115: 【13†Did you know...Portugal holds the record of most points in a Grand Final. In 2017 Salvador Sobral won with record breaking 758 points with the song "Amar Pelos Dois"】
+L116: 
+L117: ### 【14†Eurovision Quiz】
+L118: #### 【14†Are you a true Eurovision fan?】
+L119: 
+L120: 【80†Quiz: Eurovision 2026】 【81†Quiz: Eurovision History】 【82†Quiz: Eurovision Winners】 【83†Eurovision 2015 to 2024】【14†...and 880 more Quizzes】
+

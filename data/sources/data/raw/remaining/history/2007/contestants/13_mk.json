@@ -1,0 +1,39 @@
+{
+  "id": 13,
+  "country": "MK",
+  "artist": "Karolina",
+  "song": "Mojot Svet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NsXxHFEbiI0",
+    "https://www.youtube-nocookie.com/embed/eZzIFSJOZkM",
+    "https://www.youtube-nocookie.com/embed/OfE_YRoyXL4"
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "artistPeople": [
+    "Karolina Gočeva"
+  ],
+  "backings": [
+    "Ana Kostova",
+    "Andrijana Janevska",
+    "Boban Kovačevski",
+    "Sara Projkovska",
+    "Stevo Cjepinovski"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Grigor Koprov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ognen Nedelkovski"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "jury": null,
+  "spokesperson": "Elena Risteska"
+}

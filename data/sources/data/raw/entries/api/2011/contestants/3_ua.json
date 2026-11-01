@@ -1,0 +1,38 @@
+{
+  "id": 3,
+  "country": "UA",
+  "artist": "Mika Newton",
+  "song": "Angel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g_xRmEkR6KE",
+    "https://www.youtube-nocookie.com/embed/j5tpijqnLuU",
+    "https://www.youtube-nocookie.com/embed/gWszo7AnMTY",
+    "https://www.youtube-nocookie.com/embed/Jtfetx1u8I0",
+    "https://www.youtube-nocookie.com/embed/pb_xGZA7zl0",
+    "https://www.youtube-nocookie.com/embed/-ErJlIkNzhM",
+    "https://www.youtube-nocookie.com/embed/ri6yJ7pLGvI"
+  ],
+  "bpm": 89,
+  "tone": "F minor",
+  "artistPeople": [
+    "Oksana Stefanivna Hrytsay (Оксана Стефанівна Грицай)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Anatolii Zalevskyi",
+  "composers": [
+    "Maryna Skomorohova"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ruslan Kvinta"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Ruslana"
+}

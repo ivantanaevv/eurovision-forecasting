@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Francesco Gabbani",
+  "song": "Occidentali's Karma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KieE_MLv-ZY",
+    "https://www.youtube-nocookie.com/embed/Mj6tVGKzfhU",
+    "https://www.youtube-nocookie.com/embed/rafsdrfRM4o",
+    "https://www.youtube-nocookie.com/embed/xmpc3fcrNJQ",
+    "https://www.youtube-nocookie.com/embed/GpT5vdRBhM0",
+    "https://www.youtube-nocookie.com/embed/ZsuXiP96wsA",
+    "https://www.youtube-nocookie.com/embed/dtFuHGeZR7U"
+  ],
+  "bpm": 114,
+  "tone": "A major",
+  "artistPeople": [
+    "Francesco Gabbani"
+  ],
+  "backings": [
+    "Chantal Saroldi",
+    "Daniele Sari",
+    "Filippo Gabbani",
+    "Nausicaa Magarini"
+  ],
+  "dancers": [
+    "Filippo Ranaldi"
+  ],
+  "stageDirector": "Filippo Ranaldi",
+  "composers": [
+    "Filippo Gabbani",
+    "Francesco Gabbani",
+    "Luca Chiaravalli"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fabio Ilacqua",
+    "Francesco Gabbani",
+    "Luca Chiaravalli"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Andrea Delogu",
+    "Diego Passoni",
+    "Federico Russo",
+    "Flavio Insinna"
+  ],
+  "jury": [
+    "Antonio Allegra",
+    "Antonio Carrozza",
+    "Chiara Di Giambattista",
+    "Fabrizio Brocchieri",
+    "Giusy Cascio"
+  ],
+  "spokesperson": "Giulia Valentina"
+}

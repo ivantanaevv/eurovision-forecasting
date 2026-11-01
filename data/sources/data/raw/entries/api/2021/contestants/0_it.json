@@ -1,0 +1,50 @@
+{
+  "id": 0,
+  "country": "IT",
+  "artist": "Måneskin",
+  "song": "Zitti e buoni",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RVH5dn1cxAQ",
+    "https://www.youtube-nocookie.com/embed/9mL6Cmkg2_A",
+    "https://www.youtube-nocookie.com/embed/aA12F2ZBtJ0",
+    "https://www.youtube-nocookie.com/embed/0Upt-ddaw04",
+    "https://www.youtube-nocookie.com/embed/GL1mzJuV11c",
+    "https://www.youtube-nocookie.com/embed/bC9sg6MpDc0",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s"
+  ],
+  "bpm": 103,
+  "tone": "A minor",
+  "artistPeople": [
+    "Damiano David",
+    "Ethan Torchio",
+    "Thomas Raggi",
+    "Victoria De Angelis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Claudio Santucci",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Damiano David",
+    "Ethan Torchio",
+    "Thomas Raggi",
+    "Victoria De Angelis"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Cristiano Malgioglio",
+    "Ema Stokholma",
+    "Gabriele Corsi",
+    "Saverio Raimondo"
+  ],
+  "jury": [
+    "Emanuele Lombardini",
+    "Giusy Cascio",
+    "Gregorio Matteo",
+    "Katia Riccardi",
+    "Stefano Mannucci"
+  ],
+  "spokesperson": "Carolina Di Domenico"
+}

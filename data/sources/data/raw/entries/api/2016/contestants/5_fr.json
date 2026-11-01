@@ -1,0 +1,51 @@
+{
+  "id": 5,
+  "country": "FR",
+  "artist": "Amir",
+  "song": "J'ai cherché",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-aLPsiyavcU",
+    "https://www.youtube-nocookie.com/embed/boYQovCybYQ",
+    "https://www.youtube-nocookie.com/embed/t5-xYdQTCcA",
+    "https://www.youtube-nocookie.com/embed/9mzi7Qms9IE",
+    "https://www.youtube-nocookie.com/embed/hR5aWilaurE"
+  ],
+  "bpm": 122,
+  "tone": "C# major",
+  "artistPeople": [
+    "Laurent Amir Khlifa Khedider Haddad"
+  ],
+  "backings": [
+    "Delphine Elbé",
+    "Fred D'Angelo",
+    "Ivan Pavlak",
+    "Lars Hägglund"
+  ],
+  "dancers": null,
+  "stageDirector": "Hortense Boyer",
+  "composers": [
+    "Amir Haddad",
+    "Johan Errami",
+    "Nazim Khaled"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Amir Haddad",
+    "Nazim Khaled"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Jarry",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Dumè",
+    "Léa Ivanne",
+    "Roberto Ciurleo",
+    "Sarah Caillibot",
+    "Thomas Pat Angeli"
+  ],
+  "spokesperson": "Élodie Gossuin"
+}

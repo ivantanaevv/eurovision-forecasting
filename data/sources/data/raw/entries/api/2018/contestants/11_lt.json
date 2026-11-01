@@ -1,0 +1,44 @@
+{
+  "id": 11,
+  "country": "LT",
+  "artist": "Ieva Zasimauskaitė",
+  "song": "When We're Old",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pPDFhfU25go",
+    "https://www.youtube-nocookie.com/embed/srUdgydGEfI",
+    "https://www.youtube-nocookie.com/embed/q5zBaNFUQ9A",
+    "https://www.youtube-nocookie.com/embed/ezev-dWcd_E",
+    "https://www.youtube-nocookie.com/embed/ZkfcI_s2Uzc",
+    "https://www.youtube-nocookie.com/embed/uqWgSn-gh8c",
+    "https://www.youtube-nocookie.com/embed/psREd4I-KEo"
+  ],
+  "bpm": 89,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ieva Zasimauskaitė-Kiltinavičienė"
+  ],
+  "backings": [
+    "Akmėja Bru"
+  ],
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis, Rasa Micachienė",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vytautas Bikus"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis",
+    "Gerūta Griniūtė"
+  ],
+  "jury": [
+    "Dovilė Filmanavičiūtė",
+    "Jurga",
+    "Lauras Lučiūnas",
+    "Leon Somov",
+    "Mindaugas Urbaitis"
+  ],
+  "spokesperson": "Eglė Daugėlaitė"
+}

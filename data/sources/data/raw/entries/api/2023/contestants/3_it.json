@@ -1,0 +1,49 @@
+{
+  "id": 3,
+  "country": "IT",
+  "artist": "Marco Mengoni",
+  "song": "Due vite",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/d6IiOSut_4M",
+    "https://www.youtube-nocookie.com/embed/_iS4STWKSvk",
+    "https://www.youtube-nocookie.com/embed/_zTpCGtCufw",
+    "https://www.youtube-nocookie.com/embed/Etn8d1x5Byk",
+    "https://www.youtube-nocookie.com/embed/N4HBDAbdXUg",
+    "https://www.youtube-nocookie.com/embed/ZlSF3TqSqKM",
+    "https://www.youtube-nocookie.com/embed/34t6UoiLdns"
+  ],
+  "bpm": 117,
+  "tone": "D major",
+  "artistPeople": [
+    "Marco Mengoni"
+  ],
+  "backings": null,
+  "dancers": [
+    "Vivien Youlou",
+    "Yoann Bourgeois"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Davide Petrella",
+    "Davide Simonetta"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Davide Petrella",
+    "Marco Mengoni"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Gabriele Corsi",
+    "Mara Maionchi"
+  ],
+  "jury": [
+    "Carlo Massarini",
+    "Fabrizio D Alessio",
+    "Maria Grazia Fontana",
+    "Stefania Zizzari",
+    "Tiziana Donati"
+  ],
+  "spokesperson": "Kaze"
+}

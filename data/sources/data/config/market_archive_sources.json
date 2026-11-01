@@ -1,0 +1,51 @@
+[
+  {
+    "file": "data/raw/final_validation/eurovisionworld_2015_2016_2017.txt",
+    "sha256": "1d44d689196a7648603b149eca40a9fed72c6e99019fee0a35d4168893c52857",
+    "method": "web tool rendered-text capture of public closed winner-odds tables",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  },
+  {
+    "file": "data/raw/final_validation/eurovisionworld_2018_2019_2021.txt",
+    "sha256": "93e04656aa61c1d1232e71a30d131fa4976d16200c48d3c94480ac13b9d07ef1",
+    "method": "web tool rendered-text capture of public closed winner-odds tables",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  },
+  {
+    "file": "data/raw/final_validation/eurovisionworld_2022_2023.txt",
+    "sha256": "1b7a8a59ecaaf0df2ff3cc7f351cbbee0609debc36093e60b6d9e81f6ebde73b",
+    "method": "web tool rendered-text capture of public closed winner-odds tables",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  },
+  {
+    "file": "data/raw/final_validation/eurovisionworld_2024_2025.txt",
+    "sha256": "86733d6b77963344d83a041455b62c64c081051e53e7a59fa3e31643b37afffd",
+    "method": "web tool rendered-text capture of public closed winner-odds tables",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  },
+  {
+    "file": "data/raw/final_validation/eurovisionworld_tail_2015_2016_2017.txt",
+    "sha256": "db43f049592f454e43a106d3664428856878b162859d5f780ff586d510886eec",
+    "method": "web tool rendered-text capture of public closed winner-odds tables",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  },
+  {
+    "file": "data/raw/final_validation/eurovisionworld_tail_2018_2019_2021.txt",
+    "sha256": "ef461fe5c9573e3e53166c6f9af542eddbebf457bde0d5eb4b901e8b59a90477",
+    "method": "web tool rendered-text capture of public closed winner-odds tables",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  },
+  {
+    "file": "data/raw/final_validation/eurovisionworld_tail_2015_retry.txt",
+    "sha256": "d406fd673f2f0bc7a8a38646f327924ee463d221a0b680ba0c9aa1f11ac52ec6",
+    "method": "web tool rendered-text capture of public closed winner-odds table",
+    "retrieved_for_project_date": "2026-10-25",
+    "quote_measurement_time": "unknown"
+  }
+]

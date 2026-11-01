@@ -1,0 +1,48 @@
+{
+  "id": 0,
+  "country": "NL",
+  "artist": "Duncan Laurence",
+  "song": "Arcade",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/R3D-r4ogr7s",
+    "https://www.youtube-nocookie.com/embed/Eztx7Wr8PtE",
+    "https://www.youtube-nocookie.com/embed/0F_FrLDpt30",
+    "https://www.youtube-nocookie.com/embed/858GKxHbiUg",
+    "https://www.youtube-nocookie.com/embed/YiIjuLRyinM",
+    "https://www.youtube-nocookie.com/embed/ReOcQVgIAFs",
+    "https://www.youtube-nocookie.com/embed/iTqN2jmt5dw"
+  ],
+  "bpm": 143,
+  "tone": "F major",
+  "artistPeople": [
+    "Duncan de Moor"
+  ],
+  "backings": [
+    "Kris Rietveld",
+    "Marcel Swerissen",
+    "Sarina Voorn"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Duncan de Moor",
+    "Joel Sjöö",
+    "Wouter Hardy"
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "EliZe",
+    "Henkjan Smits",
+    "Holger Schwedt",
+    "Ruud de Wild",
+    "Sabrina Starke"
+  ],
+  "spokesperson": "Emma Wortelboer"
+}

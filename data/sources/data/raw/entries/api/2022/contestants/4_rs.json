@@ -1,0 +1,51 @@
+{
+  "id": 4,
+  "country": "RS",
+  "artist": "Konstrakta",
+  "song": "In corpore sano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nBtQj1MfNYA",
+    "https://www.youtube-nocookie.com/embed/3S1jrYq87Zw",
+    "https://www.youtube-nocookie.com/embed/XXrDgWDo24g",
+    "https://www.youtube-nocookie.com/embed/YUpT2VgAglM",
+    "https://www.youtube-nocookie.com/embed/wLAYRJv6nQc",
+    "https://www.youtube-nocookie.com/embed/WuJjVbF8Nf0",
+    "https://www.youtube-nocookie.com/embed/odFhYxoXiuo"
+  ],
+  "bpm": 136,
+  "tone": "C minor",
+  "artistPeople": [
+    "Ana Đurić"
+  ],
+  "backings": [
+    "Jovan Antić",
+    "Kosta Đuraković",
+    "Kristina Radenković",
+    "Maja Randjić",
+    "Milovan Bošković"
+  ],
+  "dancers": null,
+  "stageDirector": "Jasmin Cvišić, Miodrag Kolarić",
+  "composers": [
+    "Ana Đurić",
+    "Milovan Bošković"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ana Đurić"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Silvana Grujić"
+  ],
+  "jury": [
+    "Dušan Alagić",
+    "Jelena Tomašević",
+    "Mari Mari",
+    "Miloš Roganović",
+    "Srđan Marjanović"
+  ],
+  "spokesperson": "Dragana Kosjerina"
+}

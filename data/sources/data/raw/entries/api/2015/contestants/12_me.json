@@ -1,0 +1,50 @@
+{
+  "id": 12,
+  "country": "ME",
+  "artist": "Knez",
+  "song": "Adio",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MTyi2XeeoJU",
+    "https://www.youtube-nocookie.com/embed/4giAO-2aICo",
+    "https://www.youtube-nocookie.com/embed/vrYmyTJ87vI",
+    "https://www.youtube-nocookie.com/embed/lkGfwpLFDxc",
+    "https://www.youtube-nocookie.com/embed/xSrNDvfNOfc"
+  ],
+  "bpm": 94,
+  "tone": "E major",
+  "artistPeople": [
+    "Nenad Knežević (Ненад Кнежевић)"
+  ],
+  "backings": [
+    "Dunja Vujadinović",
+    "Ivana Vladović",
+    "Jelena Pajić",
+    "Ksenija Knežević",
+    "Lena Kuzmanović"
+  ],
+  "dancers": null,
+  "stageDirector": "Marko Novaković",
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dejan Ivanović",
+    "Marina Tucaković"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Ajda Šufta",
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": [
+    "Aleksandra Vojvodić",
+    "Darko Nikčević",
+    "Ilija Dapčević",
+    "Renata Perazić",
+    "Senad Drešević"
+  ],
+  "spokesperson": "Andrea Demirović"
+}

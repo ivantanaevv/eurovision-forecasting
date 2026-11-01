@@ -1,0 +1,55 @@
+{
+  "id": 22,
+  "country": "SI",
+  "artist": "Raiven",
+  "song": "Veronika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l86DxpRnz5M",
+    "https://www.youtube-nocookie.com/embed/uWcSsi7SliI",
+    "https://www.youtube-nocookie.com/embed/tSek8SqlDIA",
+    "https://www.youtube-nocookie.com/embed/Pg2-kFhZTVk",
+    "https://www.youtube-nocookie.com/embed/g0angefcNow",
+    "https://www.youtube-nocookie.com/embed/CK9COsurgpw",
+    "https://www.youtube-nocookie.com/embed/qkRjJnJjBps"
+  ],
+  "bpm": 135,
+  "tone": "F minor",
+  "artistPeople": [
+    "Sara Briški Cirman"
+  ],
+  "backings": null,
+  "dancers": [
+    "Filippo Jorio",
+    "Lukas Bareman",
+    "Marin Ino",
+    "Mateja Železnik",
+    "Matteo Moretto"
+  ],
+  "stageDirector": "Nejc Levstik",
+  "composers": [
+    "Bojan Cvjetićanin",
+    "Danilo Kapel",
+    "Martin Bezjak",
+    "Peter Khoo",
+    "Sara Briški Cirman"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Bojan Cvjetićanin",
+    "Klavdija Kopina",
+    "Sara Briški Cirman"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "jury": [
+    "Filip Vidušin",
+    "Lea Sirk",
+    "Maja Keuc",
+    "Matevž Česen",
+    "Mistermarsh"
+  ],
+  "spokesperson": "Lorella Flego"
+}

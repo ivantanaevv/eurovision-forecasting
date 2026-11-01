@@ -1,0 +1,47 @@
+{
+  "id": 10,
+  "country": "BG",
+  "artist": "Victoria",
+  "song": "Growing Up Is Getting Old",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B1ZiPrMwMYA",
+    "https://www.youtube-nocookie.com/embed/UsmJ2nEV7gI",
+    "https://www.youtube-nocookie.com/embed/xORSj7dSfis",
+    "https://www.youtube-nocookie.com/embed/tFwGuT3q21s",
+    "https://www.youtube-nocookie.com/embed/c_s9A9wVZVY",
+    "https://www.youtube-nocookie.com/embed/cd79YFRr7aM",
+    "https://www.youtube-nocookie.com/embed/9CvP1agUMrQ"
+  ],
+  "bpm": 93,
+  "tone": "G major",
+  "artistPeople": [
+    "Victoria Georgieva (Виктория Георгиева)"
+  ],
+  "backings": [
+    "Maya Nalani"
+  ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Helena Larsson",
+    "Maya Nalani",
+    "Oliver Björkvall",
+    "Victoria Georgieva"
+  ],
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Petko Kralev"
+  ],
+  "jury": [
+    "Christina Yankova Mateeva",
+    "Katya Mihaylova",
+    "Krassimir Nikolov Gyulmezov",
+    "Milka Miteva",
+    "Suti"
+  ],
+  "spokesperson": "Yoanna Dragneva"
+}

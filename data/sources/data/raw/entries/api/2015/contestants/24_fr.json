@@ -1,0 +1,47 @@
+{
+  "id": 24,
+  "country": "FR",
+  "artist": "Lisa Angell",
+  "song": "N’oubliez pas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tJful-Jtc9o",
+    "https://www.youtube-nocookie.com/embed/kG_WJU2s5ho",
+    "https://www.youtube-nocookie.com/embed/Y0aY9zcVQDk",
+    "https://www.youtube-nocookie.com/embed/XU386NvAaWQ"
+  ],
+  "bpm": 128,
+  "tone": "A minor",
+  "artistPeople": [
+    "Virginie Vetrano"
+  ],
+  "backings": [
+    "Delphine Elbé"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michel Illouz",
+    "M. Albert"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Laure Izon",
+    "M. Albert"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Jérémy Parayre",
+    "Mareva Galanter",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Bruno Berberes",
+    "Eric Jeanjean",
+    "Marie Myriam",
+    "Matthieu Gonet",
+    "Yseult Onguenet"
+  ],
+  "spokesperson": "Virginie Guilhaume"
+}

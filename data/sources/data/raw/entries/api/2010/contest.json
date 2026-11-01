@@ -1,0 +1,15 @@
+{
+  "arena": "Telenor Arena",
+  "city": "Oslo",
+  "country": "NO",
+  "intendedCountry": null,
+  "slogan": "Share the Moment",
+  "broadcasters": [
+    "NRK"
+  ],
+  "presenters": [
+    "Nadia Hasnaoui",
+    "Haddy N'jie",
+    "Erik Solbakken"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "country": "RU",
+  "artist": "Julia Savicheva",
+  "song": "Believe Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Cs76CYGjfIs",
+    "https://www.youtube-nocookie.com/embed/6F1fFlXbmp4"
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "artistPeople": [
+    "Yulia Stanislavovna Savicheva"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Kamel Ouali",
+  "composers": [
+    "Maxim Fadeev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Brenda Loring"
+  ],
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": [
+    "Elena Batinova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Yana Churikova"
+}

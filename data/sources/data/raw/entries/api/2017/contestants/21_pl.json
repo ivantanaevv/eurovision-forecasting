@@ -1,0 +1,43 @@
+{
+  "id": 21,
+  "country": "PL",
+  "artist": "Kasia Moś",
+  "song": "Flashlight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xVCokUW3BUo",
+    "https://www.youtube-nocookie.com/embed/dh9k78jPWDg",
+    "https://www.youtube-nocookie.com/embed/c3S3g0MKx08",
+    "https://www.youtube-nocookie.com/embed/MKZuK2UPqiE",
+    "https://www.youtube-nocookie.com/embed/QSbzfpiewmY",
+    "https://www.youtube-nocookie.com/embed/Kjmq5WTsmVM",
+    "https://www.youtube-nocookie.com/embed/rSM4kGKbwdk"
+  ],
+  "bpm": 120,
+  "tone": "G minor",
+  "artistPeople": [
+    "Katarzyna Moś"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Konrad Smuga",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kasia Moś",
+    "Pete Barringer",
+    "Rickard Bonde Truumeel"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Grzegorz Urban",
+    "Magda Steczkowska",
+    "Magdalena Tul",
+    "Marek Dutkiewicz",
+    "Piotr Iwicki"
+  ],
+  "spokesperson": "Anna Popek"
+}

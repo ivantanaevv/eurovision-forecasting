@@ -1,0 +1,43 @@
+{
+  "id": 0,
+  "country": "AT",
+  "artist": "Conchita Wurst",
+  "song": "Rise Like a Phoenix",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xhCC_PN9UlA",
+    "https://www.youtube-nocookie.com/embed/ToqNa0rqUtY",
+    "https://www.youtube-nocookie.com/embed/SaolVEJEjV4",
+    "https://www.youtube-nocookie.com/embed/8fvLtTRzdHw",
+    "https://www.youtube-nocookie.com/embed/0FUo6EWDB2E",
+    "https://www.youtube-nocookie.com/embed/7bpsVfpbnyA"
+  ],
+  "bpm": 164,
+  "tone": "D minor",
+  "artistPeople": [
+    "Thomas Neuwirth"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ali Zuckowski",
+    "Charlie Mason",
+    "Joey Patulka",
+    "Julian Maas"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Alexander Kahr",
+    "Diana Lueger",
+    "Dietmar Lienbacher",
+    "Michael Dörfler",
+    "Stella Jones"
+  ],
+  "spokesperson": "Katharina Bellowitsch"
+}

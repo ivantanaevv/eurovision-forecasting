@@ -1,0 +1,51 @@
+{
+  "id": 4,
+  "country": "IL",
+  "artist": "Eden Golan",
+  "song": "Hurricane",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K60BWlEhtAA",
+    "https://www.youtube-nocookie.com/embed/lJYn09tuPw4",
+    "https://www.youtube-nocookie.com/embed/xGvv0kIZgZI",
+    "https://www.youtube-nocookie.com/embed/06Kv424npr8",
+    "https://www.youtube-nocookie.com/embed/0mZvg0_7KhU"
+  ],
+  "bpm": 87,
+  "tone": "E minor",
+  "artistPeople": [
+    "Eden Golan"
+  ],
+  "backings": null,
+  "dancers": [
+    "Irad Avni",
+    "Lia Gissin",
+    "Michal Fitoussi",
+    "Reches Itzhaki",
+    "Tamir Golan"
+  ],
+  "stageDirector": "Avichai Hacham, Yoav Tzafir",
+  "composers": [
+    "Keren Peles",
+    "Stav Beger"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Avi Ohayon",
+    "Keren Peles"
+  ],
+  "writers": null,
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman",
+    "Yoav Tzafir"
+  ],
+  "jury": [
+    "Kobi Marimi",
+    "May Sfadia",
+    "Maya Opal Drukman",
+    "Slomit Dersso",
+    "Yaron Ashbel"
+  ],
+  "spokesperson": "Maya Alkulumbre"
+}

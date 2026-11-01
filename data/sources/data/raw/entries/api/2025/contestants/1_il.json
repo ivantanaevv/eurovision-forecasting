@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "country": "IL",
+  "artist": "Yuval Raphael",
+  "song": "New Day Will Rise",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_7zHp51j2WM",
+    "https://www.youtube-nocookie.com/embed/R1J7nJXLKAg",
+    "https://www.youtube-nocookie.com/embed/Q3BELu4z6-U",
+    "https://www.youtube-nocookie.com/embed/2FY8N0_w7b4",
+    "https://www.youtube-nocookie.com/embed/CFQKlE7Tf6o"
+  ],
+  "bpm": 158,
+  "tone": "G minor",
+  "artistPeople": [
+    "Yuval Raphael"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Shay Bondar, Yoav Tzafir, Yuval Cohen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Keren Peles"
+  ],
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman"
+  ],
+  "jury": [
+    "Asher Asi Tal",
+    "Avia Farchi",
+    "Noga Klein",
+    "Saar Gamzo",
+    "Yonatan Roe`h"
+  ],
+  "spokesperson": "Eden Golan"
+}

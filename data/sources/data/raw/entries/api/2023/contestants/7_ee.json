@@ -1,0 +1,49 @@
+{
+  "id": 7,
+  "country": "EE",
+  "artist": "Alika",
+  "song": "Bridges",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HsbC-OYMA3s",
+    "https://www.youtube-nocookie.com/embed/wO9g5t3VSuw",
+    "https://www.youtube-nocookie.com/embed/VMpQMpqdawc",
+    "https://www.youtube-nocookie.com/embed/lbEj29AjB-c",
+    "https://www.youtube-nocookie.com/embed/Bfji3HId4Io",
+    "https://www.youtube-nocookie.com/embed/Sk4SdVwWoOA",
+    "https://www.youtube-nocookie.com/embed/IBUgAsYPak4"
+  ],
+  "bpm": 140,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alika Milova"
+  ],
+  "backings": [
+    "Grettel Killing",
+    "Sofia-Liis Liiv"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alika Milova",
+    "Wouter Hardy"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alika Milova",
+    "Nina Sampermans",
+    "Wouter Hardy"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Bert Järvet",
+    "Dagmar Oja",
+    "Gevin Niglas",
+    "Liis Lemsalu",
+    "Tambet Mumma"
+  ],
+  "spokesperson": "Ragnar Klavan"
+}

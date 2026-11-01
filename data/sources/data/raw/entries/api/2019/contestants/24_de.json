@@ -1,0 +1,50 @@
+{
+  "id": 24,
+  "country": "DE",
+  "artist": "S!sters",
+  "song": "Sister",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yFbSj_yPCPM",
+    "https://www.youtube-nocookie.com/embed/4gt3qCpwIx0",
+    "https://www.youtube-nocookie.com/embed/xEZwgjP9HPw",
+    "https://www.youtube-nocookie.com/embed/RuqS6-KJFgA",
+    "https://www.youtube-nocookie.com/embed/6iNqVzNnhI4",
+    "https://www.youtube-nocookie.com/embed/_oqDWpuDffQ",
+    "https://www.youtube-nocookie.com/embed/5JoIMKeYmbg"
+  ],
+  "bpm": 142,
+  "tone": "E major",
+  "artistPeople": [
+    "Carlotta Truman",
+    "Laura Kästel"
+  ],
+  "backings": [
+    "Inga Lühning",
+    "Ray Lozano",
+    "Sonja Wiegand",
+    "Verena Heinz"
+  ],
+  "dancers": null,
+  "stageDirector": "Florian Wieder",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Laurell Barker",
+    "Marine Kaltenbacher",
+    "Thomas Stengaard",
+    "Tom Oehler"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Annett Brosch",
+    "Joe Chialo",
+    "Michael Schulte",
+    "Nico Santos",
+    "Nicola Rost"
+  ],
+  "spokesperson": "Barbara Schöneberger"
+}

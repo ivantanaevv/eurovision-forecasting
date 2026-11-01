@@ -1,0 +1,15 @@
+{
+  "arena": "PalaOlimpico",
+  "city": "Turin",
+  "country": "IT",
+  "intendedCountry": null,
+  "slogan": "The Sound of Beauty",
+  "broadcasters": [
+    "RAI"
+  ],
+  "presenters": [
+    "Laura Pausini",
+    "Alessandro Cattelan",
+    "Mika"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 20,
+  "country": "CY",
+  "artist": "Minus One",
+  "song": "Alter Ego",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/idUxTqmCFR0",
+    "https://www.youtube-nocookie.com/embed/k8LcNrqiIFE",
+    "https://www.youtube-nocookie.com/embed/PfBh9bKt-Dc",
+    "https://www.youtube-nocookie.com/embed/o5-7wBqWGzw",
+    "https://www.youtube-nocookie.com/embed/vY0640Alw7M"
+  ],
+  "bpm": 130,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "François Micheletto",
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "Harrys Pari"
+  ],
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "François Micheletto",
+    "Harrys Pari",
+    "Thomas G:son"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": [
+    "Christina Tselepou",
+    "Kypros Karaviotis",
+    "Nicos Evangelou",
+    "Poly Roussou",
+    "Silia Ioannidou"
+  ],
+  "spokesperson": "Loukas Hamatsos"
+}

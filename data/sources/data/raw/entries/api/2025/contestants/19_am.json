@@ -1,0 +1,51 @@
+{
+  "id": 19,
+  "country": "AM",
+  "artist": "Parg",
+  "song": "Survivor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qHkZWLld-pw",
+    "https://www.youtube-nocookie.com/embed/5sXbxyQ5K0M",
+    "https://www.youtube-nocookie.com/embed/RfH5o3XtI2c",
+    "https://www.youtube-nocookie.com/embed/J_8xNgNtXQc",
+    "https://www.youtube-nocookie.com/embed/zMRpR_CxBsg",
+    "https://www.youtube-nocookie.com/embed/LmmpPNdR2qk",
+    "https://www.youtube-nocookie.com/embed/A-xrgbiea-Y"
+  ],
+  "bpm": 132,
+  "tone": "D minor",
+  "artistPeople": [
+    "Pargev Vardanian"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Kaleen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Wilke",
+    "Armen Paul",
+    "Benjamin Jon Alasu",
+    "Eva Voskanian",
+    "Joshua Curran",
+    "Martin Mooradian",
+    "Parg",
+    "Peter Boström",
+    "Thomas G:son",
+    "Jon Ajdini"
+  ],
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Hamlet Arakelyan",
+    "Hrachuhi Utmazyan"
+  ],
+  "jury": [
+    "Arthur Manukyan",
+    "Kristina Avagimyan",
+    "Lilit Osipyan",
+    "Lilith Navasardyan",
+    "Simon Hovhannisyan"
+  ],
+  "spokesperson": "Lusine Tovmasyan"
+}

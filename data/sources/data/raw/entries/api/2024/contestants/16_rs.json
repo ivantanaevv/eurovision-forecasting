@@ -1,0 +1,45 @@
+{
+  "id": 16,
+  "country": "RS",
+  "artist": "Teya Dora",
+  "song": "Ramonda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4hUg64uIY_4",
+    "https://www.youtube-nocookie.com/embed/jm7jy2471vI",
+    "https://www.youtube-nocookie.com/embed/IyO42taxFpM",
+    "https://www.youtube-nocookie.com/embed/lWzPO6nPpwU",
+    "https://www.youtube-nocookie.com/embed/SDXB0mXFR34",
+    "https://www.youtube-nocookie.com/embed/x0sD7HfT8TM",
+    "https://www.youtube-nocookie.com/embed/JoXBmtItbmc"
+  ],
+  "bpm": 85,
+  "tone": "A minor",
+  "artistPeople": [
+    "Teodora Pavlovska"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Milica Soldatović Mikić",
+  "composers": [
+    "Luka Jovanović",
+    "Teodora Pavlovska"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ajzi",
+    "Teodora Pavlovska"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": [
+    "Alek Aleksov",
+    "Lena Kovačević",
+    "Luka Ivanović",
+    "Milovan Bošković",
+    "Zejna Murkić"
+  ],
+  "spokesperson": "Ana Đurić"
+}

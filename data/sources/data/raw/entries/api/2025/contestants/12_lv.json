@@ -1,0 +1,55 @@
+{
+  "id": 12,
+  "country": "LV",
+  "artist": "Tautumeitas",
+  "song": "Bur man laimi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nkvcMe3NiQ0",
+    "https://www.youtube-nocookie.com/embed/tRTfxUJtDOs",
+    "https://www.youtube-nocookie.com/embed/fAdN-OUYe54",
+    "https://www.youtube-nocookie.com/embed/qh6EIv_XIiI",
+    "https://www.youtube-nocookie.com/embed/hBCASN-ahpc",
+    "https://www.youtube-nocookie.com/embed/6T90g6YP1vQ",
+    "https://www.youtube-nocookie.com/embed/Kxuqgi9I71I"
+  ],
+  "bpm": 140,
+  "tone": "A major",
+  "artistPeople": [
+    "Annemarija Moiseja",
+    "Asnate Rancāne",
+    "Aurēlija Rancāne",
+    "Gabriēla Zvaigznīte",
+    "Kate Slišāne",
+    "Laura Līcīte"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Artūrs Analts",
+  "composers": [
+    "Asnate Rancāne",
+    "Aurēlija Rancāne",
+    "Elvis Lintiņš",
+    "Laura Līcīte"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Asnate Rancāne",
+    "Aurēlija Rancāne",
+    "Gabriēla Zvaigznīte",
+    "Laura Līcīte"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Marie N",
+    "Toms Grēviņš"
+  ],
+  "jury": [
+    "Kristīne Pāže",
+    "Liena Edvardsa",
+    "Rodrigo Fomins",
+    "Toms Andris Putniņš",
+    "Una Stade"
+  ],
+  "spokesperson": "Dons"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "country": "GR",
+  "artist": "Sakis Rouvas",
+  "song": "Shake It",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/asZwDUTEXls",
+    "https://www.youtube-nocookie.com/embed/wfYvAeiHTm4",
+    "https://www.youtube-nocookie.com/embed/kj_LjtrkWqY"
+  ],
+  "bpm": 113,
+  "tone": "A minor",
+  "artistPeople": [
+    "Anastasios Rouvas"
+  ],
+  "backings": [
+    "Andonis Thominos",
+    "Apostolos Psihramis",
+    "Yianna Fafaliou"
+  ],
+  "dancers": [
+    "Irina Mansurova",
+    "Maria Liraraki"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Nikos Terzis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nektarios Tirakis"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 37,
+  "country": "IL",
+  "artist": "Teapacks",
+  "song": "Push The Button",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5KhPzTLQBJE",
+    "https://www.youtube-nocookie.com/embed/sQUcTtSXYJM"
+  ],
+  "bpm": 146,
+  "tone": "A minor",
+  "artistPeople": [
+    "Meir Amar",
+    "Dani Aberjel",
+    "Gal Peremen",
+    "Kobi Oz",
+    "Motti Yoseff",
+    "Rami Yosifov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kobi Oz"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Jason Danino-Holt"
+}

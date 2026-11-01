@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "country": "MD",
+  "artist": "Sunstroke Project",
+  "song": "Hey Mamma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SWaQdHoCvYk",
+    "https://www.youtube-nocookie.com/embed/mvaLAs9cex4",
+    "https://www.youtube-nocookie.com/embed/prqZ8MSAPh4",
+    "https://www.youtube-nocookie.com/embed/QecWkJWB7zI",
+    "https://www.youtube-nocookie.com/embed/pPprtz36QSw",
+    "https://www.youtube-nocookie.com/embed/oc8rfE9u4Z0",
+    "https://www.youtube-nocookie.com/embed/aW2C1qXKxLE"
+  ],
+  "bpm": 110,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Sergei Yalovitsky",
+    "Anton Ragoza",
+    "Sergey Stepanov"
+  ],
+  "backings": [
+    "Catarina Sandu",
+    "Dana Markitan",
+    "Helena Abegaz"
+  ],
+  "dancers": null,
+  "stageDirector": "Maru Petrova",
+  "composers": [
+    "Anton Ragoza",
+    "Mihail Cebotarenco",
+    "Sergei Yalovitsky",
+    "Sergey Stepanov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alina Galetskaya"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Gloria Gorceag"
+  ],
+  "jury": [
+    "Angela Socolov",
+    "Denis Zubov",
+    "Natan",
+    "Nelly Ciobanu",
+    "Valeria Barbas"
+  ],
+  "spokesperson": "Gloria Gorceag"
+}

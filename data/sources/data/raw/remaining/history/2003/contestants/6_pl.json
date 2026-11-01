@@ -1,0 +1,37 @@
+{
+  "id": 6,
+  "country": "PL",
+  "artist": "Ich Troje",
+  "song": "Keine Grenzen - Żadnych granic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BjdTj6G37ow",
+    "https://www.youtube-nocookie.com/embed/tYGt9xT7mng",
+    "https://www.youtube-nocookie.com/embed/VGKxwBofKjI"
+  ],
+  "bpm": 107,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jacek Łągwa",
+    "Justyna Majkowska",
+    "Michał Krystian Wiśniewski"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Franke"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jacek Łągwa",
+    "Joachim Horn-Bernges",
+    "Michał Krystian Wiśniewski"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Maciej Orłoś"
+}

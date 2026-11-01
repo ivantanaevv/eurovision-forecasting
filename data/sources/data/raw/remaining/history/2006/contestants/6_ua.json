@@ -1,0 +1,35 @@
+{
+  "id": 6,
+  "country": "UA",
+  "artist": "Tina Karol",
+  "song": "Show Me Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mRqhkwTIuU8",
+    "https://www.youtube-nocookie.com/embed/4m4_FzOl7Es",
+    "https://www.youtube-nocookie.com/embed/y84MEQExWIk",
+    "https://www.youtube-nocookie.com/embed/KhFdMSof1B4"
+  ],
+  "bpm": 130,
+  "tone": "E minor",
+  "artistPeople": [
+    "Tetiana Grigorivna Liberman"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mikhail Nekrasov",
+    "Tina Karol"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pavlo Shylko"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Pavlo Shylko"
+  ],
+  "jury": null,
+  "spokesperson": "Igor Posypaiko"
+}

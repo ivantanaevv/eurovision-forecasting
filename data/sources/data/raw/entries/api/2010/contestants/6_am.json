@@ -1,0 +1,40 @@
+{
+  "id": 6,
+  "country": "AM",
+  "artist": "Eva Rivas",
+  "song": "Apricot Stone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hgz5TZugISw",
+    "https://www.youtube-nocookie.com/embed/buGOZExVf8o",
+    "https://www.youtube-nocookie.com/embed/Jafisf-pkBE",
+    "https://www.youtube-nocookie.com/embed/t42wOqtQB08"
+  ],
+  "bpm": 101,
+  "tone": "B minor",
+  "artistPeople": [
+    "Valeriya Reshetnikova Tsaturyan"
+  ],
+  "backings": [
+    "Artem Dervoed",
+    "Djivan Gasparyan",
+    "Gor Sujyan",
+    "Marina Ahverdova"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Armen Martirosyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Hrachuhi Utmazyan",
+    "Khoren Levonyan"
+  ],
+  "jury": null,
+  "spokesperson": "Nazeni Hovhannisyan"
+}

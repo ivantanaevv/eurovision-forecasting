@@ -1,0 +1,36 @@
+{
+  "id": 29,
+  "country": "IS",
+  "artist": "Selma",
+  "song": "If I Had Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fa2HRtjxfIc",
+    "https://www.youtube-nocookie.com/embed/QMdoZMvps-E"
+  ],
+  "bpm": 150,
+  "tone": "C# major",
+  "artistPeople": [
+    "Selma Björnsdóttir"
+  ],
+  "backings": [
+    "Regína Ósk"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vignir Snær Vigfússon",
+    "Þorvaldur Bjarni Þorvaldsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Linda Thompson",
+    "Selma Björnsdóttir"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir"
+}

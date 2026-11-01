@@ -1,0 +1,39 @@
+{
+  "id": 2,
+  "country": "BA",
+  "artist": "Hari Mata Hari",
+  "song": "Lejla",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SXlIN3mcsH4",
+    "https://www.youtube-nocookie.com/embed/bl36fPvl3k0"
+  ],
+  "bpm": 91,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Hajrudin Varešanović",
+    "Izudin 'Izo' Kolečić",
+    "Karlo Martinović",
+    "Nihad Voloder"
+  ],
+  "backings": [
+    "Ivana Čabraja",
+    "Ksenija Milošević"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dejan Ivanović",
+    "Fahrudin Pecikoza-Peca"
+  ],
+  "writers": null,
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Vesna Andrée-Zaimović"
+}

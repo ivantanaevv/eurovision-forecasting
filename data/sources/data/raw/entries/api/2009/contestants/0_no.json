@@ -1,0 +1,48 @@
+{
+  "id": 0,
+  "country": "NO",
+  "artist": "Alexander Rybak",
+  "song": "Fairytale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0gGt2qUyFlk",
+    "https://www.youtube-nocookie.com/embed/mNcJEebwOuE",
+    "https://www.youtube-nocookie.com/embed/MITNHpRyOls",
+    "https://www.youtube-nocookie.com/embed/Bn1EJpzgqNk",
+    "https://www.youtube-nocookie.com/embed/8CsuLbpBuN4",
+    "https://www.youtube-nocookie.com/embed/ERRn2XQiYkA",
+    "https://www.youtube-nocookie.com/embed/lSCmQmld_yg"
+  ],
+  "bpm": 108,
+  "tone": "D minor",
+  "artistPeople": [
+    "Alexander Rybak"
+  ],
+  "backings": [
+    "Jorunn Hauge",
+    "Karianne Kjærnes"
+  ],
+  "dancers": [
+    "Hallgrim Hansegård",
+    "Sigbjørn Rua",
+    "Torkjell Lunde Børsheim"
+  ],
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alexander Rybak"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Synnøve Svabø"
+  ],
+  "jury": [
+    "Arne Martin Vistnes",
+    "Elisabet Davidsen",
+    "Ellen Marie Steen",
+    "Jørn Johansen",
+    "Vivi Stenberg"
+  ],
+  "spokesperson": "Stian Barsnes-Simonsen"
+}

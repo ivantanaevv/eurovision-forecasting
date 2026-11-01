@@ -1,0 +1,45 @@
+{
+  "id": 1,
+  "country": "IT",
+  "artist": "Mahmood",
+  "song": "Soldi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/M-aoyPa41Ic",
+    "https://www.youtube-nocookie.com/embed/Va-JXIhsYD0",
+    "https://www.youtube-nocookie.com/embed/tEwvUu1dBTs",
+    "https://www.youtube-nocookie.com/embed/LSvIOGMgxAQ",
+    "https://www.youtube-nocookie.com/embed/yBj5PsgWBl4",
+    "https://www.youtube-nocookie.com/embed/6kpKVCW3oVg"
+  ],
+  "bpm": 95,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Alessandro Mahmoud"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Charlie Charles",
+    "Dario Faini",
+    "Mahmood"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Ema Stokholma",
+    "Federico Russo",
+    "Flavio Insinna"
+  ],
+  "jury": [
+    "Adriano Pennino",
+    "Annie Mazzola",
+    "Elisabetta Esposito",
+    "Mauro Severoni",
+    "Paolo Biamonte",
+    "Stefania Zizzari"
+  ],
+  "spokesperson": "Ema Stokholma"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 17,
+  "country": "MD",
+  "artist": "Pasha Parfeni",
+  "song": "Soarele și Luna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SABOfYgGk8M",
+    "https://www.youtube-nocookie.com/embed/jatc6dNgpjs",
+    "https://www.youtube-nocookie.com/embed/4ZGpbQ83l4s",
+    "https://www.youtube-nocookie.com/embed/3I0we0lhDic",
+    "https://www.youtube-nocookie.com/embed/0G6PypI2_Us",
+    "https://www.youtube-nocookie.com/embed/ky768A39100",
+    "https://www.youtube-nocookie.com/embed/_VAmrIDlOT8"
+  ],
+  "bpm": 125,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Pavel Parfeni"
+  ],
+  "backings": [
+    "Adelina Iordachi",
+    "Fox Banger",
+    "Sergiu Borş",
+    "Valeria Paşa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andrei Vulpe",
+    "Pasha Parfeni"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Iuliana Perfeni"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Crudu",
+    "Doina Stimpovschi"
+  ],
+  "jury": [
+    "Aliona Munteanu",
+    "Aliona Triboi",
+    "Leonid Melnic",
+    "Liviu Știrbu",
+    "Viorica Atanasov-Tabarta"
+  ],
+  "spokesperson": "Doina Stimpovschi"
+}

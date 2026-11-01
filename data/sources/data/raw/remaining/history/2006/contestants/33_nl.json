@@ -1,0 +1,36 @@
+{
+  "id": 33,
+  "country": "NL",
+  "artist": "Treble",
+  "song": "Amambanda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QMK4h4sFFIM",
+    "https://www.youtube-nocookie.com/embed/GLVj4bqEe6I",
+    "https://www.youtube-nocookie.com/embed/GoA9uMHHn3k"
+  ],
+  "bpm": 103,
+  "tone": "E minor",
+  "artistPeople": [
+    "Caroline Hoffman",
+    "Djem van Dijk",
+    "Niña van Dijk"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Caroline Hoffman",
+    "Djem van Dijk",
+    "Niña van Dijk"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas",
+    "Paul de Leeuw"
+  ],
+  "jury": null,
+  "spokesperson": "Paul de Leeuw"
+}

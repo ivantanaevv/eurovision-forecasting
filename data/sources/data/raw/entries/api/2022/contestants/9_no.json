@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "country": "NO",
+  "artist": "Subwoolfer",
+  "song": "Give That Wolf a Banana",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/adCU2rQyDeY",
+    "https://www.youtube-nocookie.com/embed/sDvXhZtcp0w",
+    "https://www.youtube-nocookie.com/embed/6FW_WgHLgvM",
+    "https://www.youtube-nocookie.com/embed/FJjo8s3fKUM",
+    "https://www.youtube-nocookie.com/embed/tQcw0XWp3Tc",
+    "https://www.youtube-nocookie.com/embed/qjPwsn88KjM",
+    "https://www.youtube-nocookie.com/embed/sVVSZpj-kqQ"
+  ],
+  "bpm": 124,
+  "tone": "C minor",
+  "artistPeople": [
+    "Gaute Ormåsen",
+    "Ben Adams"
+  ],
+  "backings": [
+    "DJ Astronaut"
+  ],
+  "dancers": [
+    "Albertine Lundgren",
+    "Anne-Marit Tynes",
+    "Simen Gloppen"
+  ],
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "DJ Astronaut",
+    "Jim",
+    "Keith"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": [
+    "JOWST",
+    "Mari Bølla",
+    "Mats Borch Bugge",
+    "Royane",
+    "Trine Rein"
+  ],
+  "spokesperson": "TIX"
+}

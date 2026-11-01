@@ -1,0 +1,48 @@
+{
+  "id": 9,
+  "country": "NO",
+  "artist": "Jowst",
+  "song": "Grab the Moment",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U-Bk0PCotY0",
+    "https://www.youtube-nocookie.com/embed/I4fCXVfbOjQ",
+    "https://www.youtube-nocookie.com/embed/e22HgB_pHxo",
+    "https://www.youtube-nocookie.com/embed/_QVH8vPZVRw",
+    "https://www.youtube-nocookie.com/embed/zAGsvpwLh2Y",
+    "https://www.youtube-nocookie.com/embed/UBgyXDKqjmo",
+    "https://www.youtube-nocookie.com/embed/B5UCQ2lSnmM"
+  ],
+  "bpm": 104,
+  "tone": "B minor",
+  "artistPeople": [
+    "Aleksander Walmann Åsgården"
+  ],
+  "backings": [
+    "Adrian Jørgensen",
+    "Frode Vassel",
+    "Ole Arnold Børud",
+    "Ole-André Enggrav"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": [
+    "Joakim With Steen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jonas McDonnell"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Anne Karine Strøm",
+    "Big Daddy Karsten",
+    "DivaDean",
+    "Erland Bakke",
+    "Janne Monsen Tveit"
+  ],
+  "spokesperson": "Marcus Gunnarsen, Martinus Gunnarsen"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "country": "PT",
+  "artist": "Maro",
+  "song": "Saudade, saudade",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mZtbD47u6yI",
+    "https://www.youtube-nocookie.com/embed/CTbH4swRtis",
+    "https://www.youtube-nocookie.com/embed/Opax09U5-Qk",
+    "https://www.youtube-nocookie.com/embed/dwN1rdA1eC4",
+    "https://www.youtube-nocookie.com/embed/UPJ43aSKYtA",
+    "https://www.youtube-nocookie.com/embed/O3KBlzb2JUg",
+    "https://www.youtube-nocookie.com/embed/tIgwFHV78jg"
+  ],
+  "bpm": 110,
+  "tone": "C# major",
+  "artistPeople": [
+    "Mariana Brito da Cruz Forjaz Secca"
+  ],
+  "backings": [
+    "Beatriz Fonseca",
+    "Beatriz Pessoa",
+    "Carolina Leite",
+    "Diana Castro",
+    "Milhanas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John Blanda",
+    "Maro"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Maro"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Nuno Galopim"
+  ],
+  "jury": [
+    "Cláudia Pascoal",
+    "Joana Espadinha",
+    "Paulo Castelo",
+    "Pedro Granger",
+    "Rita Guerra"
+  ],
+  "spokesperson": "Pedro Tatanka"
+}

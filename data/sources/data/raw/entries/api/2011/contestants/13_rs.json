@@ -1,0 +1,38 @@
+{
+  "id": 13,
+  "country": "RS",
+  "artist": "Nina",
+  "song": "Čaroban",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-CWvXKxjCs8",
+    "https://www.youtube-nocookie.com/embed/VWsLlL0eE98",
+    "https://www.youtube-nocookie.com/embed/dQtyCNa00tc",
+    "https://www.youtube-nocookie.com/embed/mSTWxGcUscc"
+  ],
+  "bpm": 138,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Danica Radojčić"
+  ],
+  "backings": [
+    "Sanja Bogosavljević",
+    "Saška Janković",
+    "Tijana Bogićević"
+  ],
+  "dancers": null,
+  "stageDirector": "Miloš Paunović",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kristina Kovač"
+  ],
+  "broadcaster": "RTS",
+  "commentators": [
+    "Dragan Ilić",
+    "Duška Vučinić-Lučić",
+    "Marina Nikolić"
+  ],
+  "jury": null,
+  "spokesperson": "Dušica Spasić"
+}

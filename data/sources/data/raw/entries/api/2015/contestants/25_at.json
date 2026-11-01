@@ -1,0 +1,47 @@
+{
+  "id": 25,
+  "country": "AT",
+  "artist": "The Makemakes",
+  "song": "I Am Yours",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-f993p0CAV8",
+    "https://www.youtube-nocookie.com/embed/kPLuHqDjaJc",
+    "https://www.youtube-nocookie.com/embed/PLTnO48X4-0",
+    "https://www.youtube-nocookie.com/embed/2dzJUdt2ZCA"
+  ],
+  "bpm": 82,
+  "tone": "C# major",
+  "artistPeople": [
+    "Dominic Muhrer",
+    "Florian Meindl",
+    "Markus Christ"
+  ],
+  "backings": [
+    "Chris Coras",
+    "Harri Baumgartner",
+    "Ina Regen"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dominic Muhrer",
+    "Florian Meindl",
+    "Jimmy Harry",
+    "Markus Christ"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Christian Deix",
+    "Franziska Trost",
+    "Gary Lux",
+    "Manuel Ortega",
+    "Vanessa Legenstein"
+  ],
+  "spokesperson": "Katharina Bellowitsch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 15,
+  "country": "FR",
+  "artist": "Bilal Hassani",
+  "song": "Roi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AjZNbIQtWvw",
+    "https://www.youtube-nocookie.com/embed/VydsMYa9lyI",
+    "https://www.youtube-nocookie.com/embed/nvKyGQ8fzuY",
+    "https://www.youtube-nocookie.com/embed/Z4X4ygjcUd4",
+    "https://www.youtube-nocookie.com/embed/AQ1fiVRKTOg",
+    "https://www.youtube-nocookie.com/embed/gXLF0rgi3M0"
+  ],
+  "bpm": 142,
+  "tone": "F minor",
+  "artistPeople": [
+    "Bilal Hassani"
+  ],
+  "backings": [
+    "Brice Pihan",
+    "Émilie Satt",
+    "Ulrich Kwasi"
+  ],
+  "dancers": [
+    "Lin Ching-lan",
+    "Lizzy Howell"
+  ],
+  "stageDirector": "Marika Prochet",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Émilie Satt",
+    "Jean-Karl Lucas"
+  ],
+  "broadcaster": "France 3",
+  "commentators": [
+    "André Manoukian",
+    "Sandy Herebert",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Bintily Diallo",
+    "Bruno Berberes",
+    "Delphine Elbé",
+    "Lionel Maurel",
+    "Mohamed Zayana"
+  ],
+  "spokesperson": "Julia Molkhou"
+}

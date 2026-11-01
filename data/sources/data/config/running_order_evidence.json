@@ -1,0 +1,1937 @@
+[
+  {
+    "year": 2008,
+    "published_at_source": "2008-05-23T02:06:02+00:00",
+    "source_url": "https://esctoday.com/11969/eurovision_2008_the_final_25_in_running_order/",
+    "source_file": "data/raw/final_validation/order2008.html",
+    "source_sha256": "accd821188e8f643db041a4c6f3eb40287008a4edfdbdff45a295e4ec343095c",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "RO"
+      },
+      {
+        "running_slot": 2,
+        "country": "GB"
+      },
+      {
+        "running_slot": 3,
+        "country": "AL"
+      },
+      {
+        "running_slot": 4,
+        "country": "DE"
+      },
+      {
+        "running_slot": 5,
+        "country": "AM"
+      },
+      {
+        "running_slot": 6,
+        "country": "BA"
+      },
+      {
+        "running_slot": 7,
+        "country": "IL"
+      },
+      {
+        "running_slot": 8,
+        "country": "FI"
+      },
+      {
+        "running_slot": 9,
+        "country": "HR"
+      },
+      {
+        "running_slot": 10,
+        "country": "PL"
+      },
+      {
+        "running_slot": 11,
+        "country": "IS"
+      },
+      {
+        "running_slot": 12,
+        "country": "TR"
+      },
+      {
+        "running_slot": 13,
+        "country": "PT"
+      },
+      {
+        "running_slot": 14,
+        "country": "LV"
+      },
+      {
+        "running_slot": 15,
+        "country": "SE"
+      },
+      {
+        "running_slot": 16,
+        "country": "DK"
+      },
+      {
+        "running_slot": 17,
+        "country": "GE"
+      },
+      {
+        "running_slot": 18,
+        "country": "UA"
+      },
+      {
+        "running_slot": 19,
+        "country": "FR"
+      },
+      {
+        "running_slot": 20,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 21,
+        "country": "GR"
+      },
+      {
+        "running_slot": 22,
+        "country": "ES"
+      },
+      {
+        "running_slot": 23,
+        "country": "RS"
+      },
+      {
+        "running_slot": 24,
+        "country": "RU"
+      },
+      {
+        "running_slot": 25,
+        "country": "NO"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2009,
+    "published_at_source": "2009-05-14",
+    "source_url": "https://www.tvforum.co.uk/tvhome/eurovision-2009-moscow-russia-28635/page-25",
+    "source_file": "data/raw/final_validation/order2009.html",
+    "source_sha256": "053bf0f01fc68485e775c864ce9503cf0babb1b697b9b3b8ca7fee1b9ff25cce",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "LT"
+      },
+      {
+        "running_slot": 2,
+        "country": "IL"
+      },
+      {
+        "running_slot": 3,
+        "country": "FR"
+      },
+      {
+        "running_slot": 4,
+        "country": "SE"
+      },
+      {
+        "running_slot": 5,
+        "country": "HR"
+      },
+      {
+        "running_slot": 6,
+        "country": "PT"
+      },
+      {
+        "running_slot": 7,
+        "country": "IS"
+      },
+      {
+        "running_slot": 8,
+        "country": "GR"
+      },
+      {
+        "running_slot": 9,
+        "country": "AM"
+      },
+      {
+        "running_slot": 10,
+        "country": "RU"
+      },
+      {
+        "running_slot": 11,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 12,
+        "country": "BA"
+      },
+      {
+        "running_slot": 13,
+        "country": "MD"
+      },
+      {
+        "running_slot": 14,
+        "country": "MT"
+      },
+      {
+        "running_slot": 15,
+        "country": "EE"
+      },
+      {
+        "running_slot": 16,
+        "country": "DK"
+      },
+      {
+        "running_slot": 17,
+        "country": "DE"
+      },
+      {
+        "running_slot": 18,
+        "country": "TR"
+      },
+      {
+        "running_slot": 19,
+        "country": "AL"
+      },
+      {
+        "running_slot": 20,
+        "country": "NO"
+      },
+      {
+        "running_slot": 21,
+        "country": "UA"
+      },
+      {
+        "running_slot": 22,
+        "country": "RO"
+      },
+      {
+        "running_slot": 23,
+        "country": "GB"
+      },
+      {
+        "running_slot": 24,
+        "country": "FI"
+      },
+      {
+        "running_slot": 25,
+        "country": "ES"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2010,
+    "published_at_source": "2010-05-28",
+    "source_url": "https://www.ebu.ch/fr/news/2010/second-semi-final-result--all-25",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 2,
+        "country": "ES"
+      },
+      {
+        "running_slot": 3,
+        "country": "NO"
+      },
+      {
+        "running_slot": 4,
+        "country": "MD"
+      },
+      {
+        "running_slot": 5,
+        "country": "CY"
+      },
+      {
+        "running_slot": 6,
+        "country": "BA"
+      },
+      {
+        "running_slot": 7,
+        "country": "BE"
+      },
+      {
+        "running_slot": 8,
+        "country": "RS"
+      },
+      {
+        "running_slot": 9,
+        "country": "BY"
+      },
+      {
+        "running_slot": 10,
+        "country": "IE"
+      },
+      {
+        "running_slot": 11,
+        "country": "GR"
+      },
+      {
+        "running_slot": 12,
+        "country": "GB"
+      },
+      {
+        "running_slot": 13,
+        "country": "GE"
+      },
+      {
+        "running_slot": 14,
+        "country": "TR"
+      },
+      {
+        "running_slot": 15,
+        "country": "AL"
+      },
+      {
+        "running_slot": 16,
+        "country": "IS"
+      },
+      {
+        "running_slot": 17,
+        "country": "UA"
+      },
+      {
+        "running_slot": 18,
+        "country": "FR"
+      },
+      {
+        "running_slot": 19,
+        "country": "RO"
+      },
+      {
+        "running_slot": 20,
+        "country": "RU"
+      },
+      {
+        "running_slot": 21,
+        "country": "AM"
+      },
+      {
+        "running_slot": 22,
+        "country": "DE"
+      },
+      {
+        "running_slot": 23,
+        "country": "PT"
+      },
+      {
+        "running_slot": 24,
+        "country": "IL"
+      },
+      {
+        "running_slot": 25,
+        "country": "DK"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2011,
+    "published_at_source": "2011-05-13",
+    "source_url": "https://www.ebu.ch/news/2011/second-semi-final-result",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "FI"
+      },
+      {
+        "running_slot": 2,
+        "country": "BA"
+      },
+      {
+        "running_slot": 3,
+        "country": "DK"
+      },
+      {
+        "running_slot": 4,
+        "country": "LT"
+      },
+      {
+        "running_slot": 5,
+        "country": "HU"
+      },
+      {
+        "running_slot": 6,
+        "country": "IE"
+      },
+      {
+        "running_slot": 7,
+        "country": "SE"
+      },
+      {
+        "running_slot": 8,
+        "country": "EE"
+      },
+      {
+        "running_slot": 9,
+        "country": "GR"
+      },
+      {
+        "running_slot": 10,
+        "country": "RU"
+      },
+      {
+        "running_slot": 11,
+        "country": "FR"
+      },
+      {
+        "running_slot": 12,
+        "country": "IT"
+      },
+      {
+        "running_slot": 13,
+        "country": "CH"
+      },
+      {
+        "running_slot": 14,
+        "country": "GB"
+      },
+      {
+        "running_slot": 15,
+        "country": "MD"
+      },
+      {
+        "running_slot": 16,
+        "country": "DE"
+      },
+      {
+        "running_slot": 17,
+        "country": "RO"
+      },
+      {
+        "running_slot": 18,
+        "country": "AT"
+      },
+      {
+        "running_slot": 19,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 20,
+        "country": "SI"
+      },
+      {
+        "running_slot": 21,
+        "country": "IS"
+      },
+      {
+        "running_slot": 22,
+        "country": "ES"
+      },
+      {
+        "running_slot": 23,
+        "country": "UA"
+      },
+      {
+        "running_slot": 24,
+        "country": "RS"
+      },
+      {
+        "running_slot": 25,
+        "country": "GE"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2012,
+    "published_at_source": "2012-05-25T14:18:53+00:00",
+    "source_url": "https://eurovoix.com/2012/05/25/baku12-the-final-running-order/",
+    "source_file": "data/raw/final_validation/order2012.html",
+    "source_sha256": "2eb0c199dbe4b6d4bdd4a64e9aa55510b1b11d0a45e7a36531c265b1701e7cab",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "GB"
+      },
+      {
+        "running_slot": 2,
+        "country": "HU"
+      },
+      {
+        "running_slot": 3,
+        "country": "AL"
+      },
+      {
+        "running_slot": 4,
+        "country": "LT"
+      },
+      {
+        "running_slot": 5,
+        "country": "BA"
+      },
+      {
+        "running_slot": 6,
+        "country": "RU"
+      },
+      {
+        "running_slot": 7,
+        "country": "IS"
+      },
+      {
+        "running_slot": 8,
+        "country": "CY"
+      },
+      {
+        "running_slot": 9,
+        "country": "FR"
+      },
+      {
+        "running_slot": 10,
+        "country": "IT"
+      },
+      {
+        "running_slot": 11,
+        "country": "EE"
+      },
+      {
+        "running_slot": 12,
+        "country": "NO"
+      },
+      {
+        "running_slot": 13,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 14,
+        "country": "RO"
+      },
+      {
+        "running_slot": 15,
+        "country": "DK"
+      },
+      {
+        "running_slot": 16,
+        "country": "GR"
+      },
+      {
+        "running_slot": 17,
+        "country": "SE"
+      },
+      {
+        "running_slot": 18,
+        "country": "TR"
+      },
+      {
+        "running_slot": 19,
+        "country": "ES"
+      },
+      {
+        "running_slot": 20,
+        "country": "DE"
+      },
+      {
+        "running_slot": 21,
+        "country": "MT"
+      },
+      {
+        "running_slot": 22,
+        "country": "MK"
+      },
+      {
+        "running_slot": 23,
+        "country": "IE"
+      },
+      {
+        "running_slot": 24,
+        "country": "RS"
+      },
+      {
+        "running_slot": 25,
+        "country": "UA"
+      },
+      {
+        "running_slot": 26,
+        "country": "MD"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2013,
+    "published_at_source": "2013-05-17T00:56:39+00:00",
+    "source_url": "https://esctoday.com/64445/eurovision-song-contest-2013-the-final-running-order/",
+    "source_file": "data/raw/final_validation/order2013.html",
+    "source_sha256": "45d2a88186127a2979fe9c6f5f9fb754ed57cbf90d642fc2cfbc03ec9cdfd9c3",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "FR"
+      },
+      {
+        "running_slot": 2,
+        "country": "LT"
+      },
+      {
+        "running_slot": 3,
+        "country": "MD"
+      },
+      {
+        "running_slot": 4,
+        "country": "FI"
+      },
+      {
+        "running_slot": 5,
+        "country": "ES"
+      },
+      {
+        "running_slot": 6,
+        "country": "BE"
+      },
+      {
+        "running_slot": 7,
+        "country": "EE"
+      },
+      {
+        "running_slot": 8,
+        "country": "BY"
+      },
+      {
+        "running_slot": 9,
+        "country": "MT"
+      },
+      {
+        "running_slot": 10,
+        "country": "RU"
+      },
+      {
+        "running_slot": 11,
+        "country": "DE"
+      },
+      {
+        "running_slot": 12,
+        "country": "AM"
+      },
+      {
+        "running_slot": 13,
+        "country": "NL"
+      },
+      {
+        "running_slot": 14,
+        "country": "RO"
+      },
+      {
+        "running_slot": 15,
+        "country": "GB"
+      },
+      {
+        "running_slot": 16,
+        "country": "SE"
+      },
+      {
+        "running_slot": 17,
+        "country": "HU"
+      },
+      {
+        "running_slot": 18,
+        "country": "DK"
+      },
+      {
+        "running_slot": 19,
+        "country": "IS"
+      },
+      {
+        "running_slot": 20,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 21,
+        "country": "GR"
+      },
+      {
+        "running_slot": 22,
+        "country": "UA"
+      },
+      {
+        "running_slot": 23,
+        "country": "IT"
+      },
+      {
+        "running_slot": 24,
+        "country": "NO"
+      },
+      {
+        "running_slot": 25,
+        "country": "GE"
+      },
+      {
+        "running_slot": 26,
+        "country": "IE"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2014,
+    "published_at_source": "2014-05-09",
+    "source_url": "https://www.esc-plus.com/running-order-announced/",
+    "source_file": "data/raw/final_validation/order2014.html",
+    "source_sha256": "9819955b35e765be803bca531f49b3cc234c32ac42f6e35895cdae92f2fcd4f4",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "UA"
+      },
+      {
+        "running_slot": 2,
+        "country": "BY"
+      },
+      {
+        "running_slot": 3,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 4,
+        "country": "IS"
+      },
+      {
+        "running_slot": 5,
+        "country": "NO"
+      },
+      {
+        "running_slot": 6,
+        "country": "RO"
+      },
+      {
+        "running_slot": 7,
+        "country": "AM"
+      },
+      {
+        "running_slot": 8,
+        "country": "ME"
+      },
+      {
+        "running_slot": 9,
+        "country": "PL"
+      },
+      {
+        "running_slot": 10,
+        "country": "GR"
+      },
+      {
+        "running_slot": 11,
+        "country": "AT"
+      },
+      {
+        "running_slot": 12,
+        "country": "DE"
+      },
+      {
+        "running_slot": 13,
+        "country": "SE"
+      },
+      {
+        "running_slot": 14,
+        "country": "FR"
+      },
+      {
+        "running_slot": 15,
+        "country": "RU"
+      },
+      {
+        "running_slot": 16,
+        "country": "IT"
+      },
+      {
+        "running_slot": 17,
+        "country": "SI"
+      },
+      {
+        "running_slot": 18,
+        "country": "FI"
+      },
+      {
+        "running_slot": 19,
+        "country": "ES"
+      },
+      {
+        "running_slot": 20,
+        "country": "CH"
+      },
+      {
+        "running_slot": 21,
+        "country": "HU"
+      },
+      {
+        "running_slot": 22,
+        "country": "MT"
+      },
+      {
+        "running_slot": 23,
+        "country": "DK"
+      },
+      {
+        "running_slot": 24,
+        "country": "NL"
+      },
+      {
+        "running_slot": 25,
+        "country": "SM"
+      },
+      {
+        "running_slot": 26,
+        "country": "GB"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2015,
+    "published_at_source": "2015-05-22T10:32:00+04:00",
+    "source_url": "https://armenpress.am/en/article/806344",
+    "source_file": "data/raw/final_validation/order2015.html",
+    "source_sha256": "215360be03873050c1c5edd6c6973a0851803a3f756d2b8f177a6fbb03ddf708",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "SI"
+      },
+      {
+        "running_slot": 2,
+        "country": "FR"
+      },
+      {
+        "running_slot": 3,
+        "country": "IL"
+      },
+      {
+        "running_slot": 4,
+        "country": "EE"
+      },
+      {
+        "running_slot": 5,
+        "country": "GB"
+      },
+      {
+        "running_slot": 6,
+        "country": "AM"
+      },
+      {
+        "running_slot": 7,
+        "country": "LT"
+      },
+      {
+        "running_slot": 8,
+        "country": "RS"
+      },
+      {
+        "running_slot": 9,
+        "country": "NO"
+      },
+      {
+        "running_slot": 10,
+        "country": "SE"
+      },
+      {
+        "running_slot": 11,
+        "country": "CY"
+      },
+      {
+        "running_slot": 12,
+        "country": "AU"
+      },
+      {
+        "running_slot": 13,
+        "country": "BE"
+      },
+      {
+        "running_slot": 14,
+        "country": "AT"
+      },
+      {
+        "running_slot": 15,
+        "country": "GR"
+      },
+      {
+        "running_slot": 16,
+        "country": "ME"
+      },
+      {
+        "running_slot": 17,
+        "country": "DE"
+      },
+      {
+        "running_slot": 18,
+        "country": "PL"
+      },
+      {
+        "running_slot": 19,
+        "country": "LV"
+      },
+      {
+        "running_slot": 20,
+        "country": "RO"
+      },
+      {
+        "running_slot": 21,
+        "country": "ES"
+      },
+      {
+        "running_slot": 22,
+        "country": "HU"
+      },
+      {
+        "running_slot": 23,
+        "country": "GE"
+      },
+      {
+        "running_slot": 24,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 25,
+        "country": "RU"
+      },
+      {
+        "running_slot": 26,
+        "country": "AL"
+      },
+      {
+        "running_slot": 27,
+        "country": "IT"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2016,
+    "published_at_source": "2016-05-13T10:38:21+04:00",
+    "source_url": "https://armenpress.am/en/article/847102",
+    "source_file": "data/raw/final_validation/order2016.html",
+    "source_sha256": "abe92fae4a5d0ccdddc415bddedc75ff514c432141d32041d35c34520732afd3",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "BE"
+      },
+      {
+        "running_slot": 2,
+        "country": "CZ"
+      },
+      {
+        "running_slot": 3,
+        "country": "NL"
+      },
+      {
+        "running_slot": 4,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 5,
+        "country": "HU"
+      },
+      {
+        "running_slot": 6,
+        "country": "IT"
+      },
+      {
+        "running_slot": 7,
+        "country": "IL"
+      },
+      {
+        "running_slot": 8,
+        "country": "BG"
+      },
+      {
+        "running_slot": 9,
+        "country": "SE"
+      },
+      {
+        "running_slot": 10,
+        "country": "DE"
+      },
+      {
+        "running_slot": 11,
+        "country": "FR"
+      },
+      {
+        "running_slot": 12,
+        "country": "PL"
+      },
+      {
+        "running_slot": 13,
+        "country": "AU"
+      },
+      {
+        "running_slot": 14,
+        "country": "CY"
+      },
+      {
+        "running_slot": 15,
+        "country": "RS"
+      },
+      {
+        "running_slot": 16,
+        "country": "LT"
+      },
+      {
+        "running_slot": 17,
+        "country": "HR"
+      },
+      {
+        "running_slot": 18,
+        "country": "RU"
+      },
+      {
+        "running_slot": 19,
+        "country": "ES"
+      },
+      {
+        "running_slot": 20,
+        "country": "LV"
+      },
+      {
+        "running_slot": 21,
+        "country": "UA"
+      },
+      {
+        "running_slot": 22,
+        "country": "MT"
+      },
+      {
+        "running_slot": 23,
+        "country": "GE"
+      },
+      {
+        "running_slot": 24,
+        "country": "AT"
+      },
+      {
+        "running_slot": 25,
+        "country": "GB"
+      },
+      {
+        "running_slot": 26,
+        "country": "AM"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2017,
+    "published_at_source": "2017-05-12",
+    "source_url": "https://eurovisionworld.com/esc/eurovision-2017-running-order-in-grand-final-decided",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "IL"
+      },
+      {
+        "running_slot": 2,
+        "country": "PL"
+      },
+      {
+        "running_slot": 3,
+        "country": "BY"
+      },
+      {
+        "running_slot": 4,
+        "country": "AT"
+      },
+      {
+        "running_slot": 5,
+        "country": "AM"
+      },
+      {
+        "running_slot": 6,
+        "country": "NL"
+      },
+      {
+        "running_slot": 7,
+        "country": "MD"
+      },
+      {
+        "running_slot": 8,
+        "country": "HU"
+      },
+      {
+        "running_slot": 9,
+        "country": "IT"
+      },
+      {
+        "running_slot": 10,
+        "country": "DK"
+      },
+      {
+        "running_slot": 11,
+        "country": "PT"
+      },
+      {
+        "running_slot": 12,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 13,
+        "country": "HR"
+      },
+      {
+        "running_slot": 14,
+        "country": "AU"
+      },
+      {
+        "running_slot": 15,
+        "country": "GR"
+      },
+      {
+        "running_slot": 16,
+        "country": "ES"
+      },
+      {
+        "running_slot": 17,
+        "country": "NO"
+      },
+      {
+        "running_slot": 18,
+        "country": "GB"
+      },
+      {
+        "running_slot": 19,
+        "country": "CY"
+      },
+      {
+        "running_slot": 20,
+        "country": "RO"
+      },
+      {
+        "running_slot": 21,
+        "country": "DE"
+      },
+      {
+        "running_slot": 22,
+        "country": "UA"
+      },
+      {
+        "running_slot": 23,
+        "country": "BE"
+      },
+      {
+        "running_slot": 24,
+        "country": "SE"
+      },
+      {
+        "running_slot": 25,
+        "country": "BG"
+      },
+      {
+        "running_slot": 26,
+        "country": "FR"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2018,
+    "published_at_source": "2018-05-11",
+    "source_url": "https://eurovisionworld.com/esc/eurovision-2018-running-order-in-grand-final-decided",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "UA"
+      },
+      {
+        "running_slot": 2,
+        "country": "ES"
+      },
+      {
+        "running_slot": 3,
+        "country": "SI"
+      },
+      {
+        "running_slot": 4,
+        "country": "LT"
+      },
+      {
+        "running_slot": 5,
+        "country": "AT"
+      },
+      {
+        "running_slot": 6,
+        "country": "EE"
+      },
+      {
+        "running_slot": 7,
+        "country": "NO"
+      },
+      {
+        "running_slot": 8,
+        "country": "PT"
+      },
+      {
+        "running_slot": 9,
+        "country": "GB"
+      },
+      {
+        "running_slot": 10,
+        "country": "RS"
+      },
+      {
+        "running_slot": 11,
+        "country": "DE"
+      },
+      {
+        "running_slot": 12,
+        "country": "AL"
+      },
+      {
+        "running_slot": 13,
+        "country": "FR"
+      },
+      {
+        "running_slot": 14,
+        "country": "CZ"
+      },
+      {
+        "running_slot": 15,
+        "country": "DK"
+      },
+      {
+        "running_slot": 16,
+        "country": "AU"
+      },
+      {
+        "running_slot": 17,
+        "country": "FI"
+      },
+      {
+        "running_slot": 18,
+        "country": "BG"
+      },
+      {
+        "running_slot": 19,
+        "country": "MD"
+      },
+      {
+        "running_slot": 20,
+        "country": "SE"
+      },
+      {
+        "running_slot": 21,
+        "country": "HU"
+      },
+      {
+        "running_slot": 22,
+        "country": "IL"
+      },
+      {
+        "running_slot": 23,
+        "country": "NL"
+      },
+      {
+        "running_slot": 24,
+        "country": "IE"
+      },
+      {
+        "running_slot": 25,
+        "country": "CY"
+      },
+      {
+        "running_slot": 26,
+        "country": "IT"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2019,
+    "published_at_source": "2019-05-17T14:26:00+00:00",
+    "source_url": "https://eurovisionunion.com/2019/05/17/here-is-the-eurovision-2019-running-order/",
+    "source_file": "data/raw/final_validation/order2019.html",
+    "source_sha256": "2664d236ef6af7532f2e6f06bb978b6cbe8c38ffd7be8f52e19a3cd657cbfdea",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "MT"
+      },
+      {
+        "running_slot": 2,
+        "country": "AL"
+      },
+      {
+        "running_slot": 3,
+        "country": "CZ"
+      },
+      {
+        "running_slot": 4,
+        "country": "DE"
+      },
+      {
+        "running_slot": 5,
+        "country": "RU"
+      },
+      {
+        "running_slot": 6,
+        "country": "DK"
+      },
+      {
+        "running_slot": 7,
+        "country": "SM"
+      },
+      {
+        "running_slot": 8,
+        "country": "MK"
+      },
+      {
+        "running_slot": 9,
+        "country": "SE"
+      },
+      {
+        "running_slot": 10,
+        "country": "SI"
+      },
+      {
+        "running_slot": 11,
+        "country": "CY"
+      },
+      {
+        "running_slot": 12,
+        "country": "NL"
+      },
+      {
+        "running_slot": 13,
+        "country": "GR"
+      },
+      {
+        "running_slot": 14,
+        "country": "IL"
+      },
+      {
+        "running_slot": 15,
+        "country": "NO"
+      },
+      {
+        "running_slot": 16,
+        "country": "GB"
+      },
+      {
+        "running_slot": 17,
+        "country": "IS"
+      },
+      {
+        "running_slot": 18,
+        "country": "EE"
+      },
+      {
+        "running_slot": 19,
+        "country": "BY"
+      },
+      {
+        "running_slot": 20,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 21,
+        "country": "FR"
+      },
+      {
+        "running_slot": 22,
+        "country": "IT"
+      },
+      {
+        "running_slot": 23,
+        "country": "RS"
+      },
+      {
+        "running_slot": 24,
+        "country": "CH"
+      },
+      {
+        "running_slot": 25,
+        "country": "AU"
+      },
+      {
+        "running_slot": 26,
+        "country": "ES"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2021,
+    "published_at_source": "2021-05-20T23:18:47+00:00",
+    "source_url": "https://eurovoix.com/2021/05/21/eurovision-2021-grand-final-running-order-announced/",
+    "source_file": "data/raw/final_validation/order2021.html",
+    "source_sha256": "79b91c889cf810f59ac263cf7cefa13a26bb356afd79c2de07ae95982f4611d9",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "CY"
+      },
+      {
+        "running_slot": 2,
+        "country": "AL"
+      },
+      {
+        "running_slot": 3,
+        "country": "IL"
+      },
+      {
+        "running_slot": 4,
+        "country": "BE"
+      },
+      {
+        "running_slot": 5,
+        "country": "RU"
+      },
+      {
+        "running_slot": 6,
+        "country": "MT"
+      },
+      {
+        "running_slot": 7,
+        "country": "PT"
+      },
+      {
+        "running_slot": 8,
+        "country": "RS"
+      },
+      {
+        "running_slot": 9,
+        "country": "GB"
+      },
+      {
+        "running_slot": 10,
+        "country": "GR"
+      },
+      {
+        "running_slot": 11,
+        "country": "CH"
+      },
+      {
+        "running_slot": 12,
+        "country": "IS"
+      },
+      {
+        "running_slot": 13,
+        "country": "ES"
+      },
+      {
+        "running_slot": 14,
+        "country": "MD"
+      },
+      {
+        "running_slot": 15,
+        "country": "DE"
+      },
+      {
+        "running_slot": 16,
+        "country": "FI"
+      },
+      {
+        "running_slot": 17,
+        "country": "BG"
+      },
+      {
+        "running_slot": 18,
+        "country": "LT"
+      },
+      {
+        "running_slot": 19,
+        "country": "UA"
+      },
+      {
+        "running_slot": 20,
+        "country": "FR"
+      },
+      {
+        "running_slot": 21,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 22,
+        "country": "NO"
+      },
+      {
+        "running_slot": 23,
+        "country": "NL"
+      },
+      {
+        "running_slot": 24,
+        "country": "IT"
+      },
+      {
+        "running_slot": 25,
+        "country": "SE"
+      },
+      {
+        "running_slot": 26,
+        "country": "SM"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2022,
+    "published_at_source": "2022-05-13",
+    "source_url": "https://eurovisionworld.com/esc/eurovision-2022-running-order-in-the-grand-final",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "CZ"
+      },
+      {
+        "running_slot": 2,
+        "country": "RO"
+      },
+      {
+        "running_slot": 3,
+        "country": "PT"
+      },
+      {
+        "running_slot": 4,
+        "country": "FI"
+      },
+      {
+        "running_slot": 5,
+        "country": "CH"
+      },
+      {
+        "running_slot": 6,
+        "country": "FR"
+      },
+      {
+        "running_slot": 7,
+        "country": "NO"
+      },
+      {
+        "running_slot": 8,
+        "country": "AM"
+      },
+      {
+        "running_slot": 9,
+        "country": "IT"
+      },
+      {
+        "running_slot": 10,
+        "country": "ES"
+      },
+      {
+        "running_slot": 11,
+        "country": "NL"
+      },
+      {
+        "running_slot": 12,
+        "country": "UA"
+      },
+      {
+        "running_slot": 13,
+        "country": "DE"
+      },
+      {
+        "running_slot": 14,
+        "country": "LT"
+      },
+      {
+        "running_slot": 15,
+        "country": "AZ"
+      },
+      {
+        "running_slot": 16,
+        "country": "BE"
+      },
+      {
+        "running_slot": 17,
+        "country": "GR"
+      },
+      {
+        "running_slot": 18,
+        "country": "IS"
+      },
+      {
+        "running_slot": 19,
+        "country": "MD"
+      },
+      {
+        "running_slot": 20,
+        "country": "SE"
+      },
+      {
+        "running_slot": 21,
+        "country": "AU"
+      },
+      {
+        "running_slot": 22,
+        "country": "GB"
+      },
+      {
+        "running_slot": 23,
+        "country": "PL"
+      },
+      {
+        "running_slot": 24,
+        "country": "RS"
+      },
+      {
+        "running_slot": 25,
+        "country": "EE"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2023,
+    "published_at_source": "2023-05-12",
+    "source_url": "https://eurovisionworld.com/esc/eurovision-2023-running-order-in-the-grand-final",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "AT"
+      },
+      {
+        "running_slot": 2,
+        "country": "PT"
+      },
+      {
+        "running_slot": 3,
+        "country": "CH"
+      },
+      {
+        "running_slot": 4,
+        "country": "PL"
+      },
+      {
+        "running_slot": 5,
+        "country": "RS"
+      },
+      {
+        "running_slot": 6,
+        "country": "FR"
+      },
+      {
+        "running_slot": 7,
+        "country": "CY"
+      },
+      {
+        "running_slot": 8,
+        "country": "ES"
+      },
+      {
+        "running_slot": 9,
+        "country": "SE"
+      },
+      {
+        "running_slot": 10,
+        "country": "AL"
+      },
+      {
+        "running_slot": 11,
+        "country": "IT"
+      },
+      {
+        "running_slot": 12,
+        "country": "EE"
+      },
+      {
+        "running_slot": 13,
+        "country": "FI"
+      },
+      {
+        "running_slot": 14,
+        "country": "CZ"
+      },
+      {
+        "running_slot": 15,
+        "country": "AU"
+      },
+      {
+        "running_slot": 16,
+        "country": "BE"
+      },
+      {
+        "running_slot": 17,
+        "country": "AM"
+      },
+      {
+        "running_slot": 18,
+        "country": "MD"
+      },
+      {
+        "running_slot": 19,
+        "country": "UA"
+      },
+      {
+        "running_slot": 20,
+        "country": "NO"
+      },
+      {
+        "running_slot": 21,
+        "country": "DE"
+      },
+      {
+        "running_slot": 22,
+        "country": "LT"
+      },
+      {
+        "running_slot": 23,
+        "country": "IL"
+      },
+      {
+        "running_slot": 24,
+        "country": "SI"
+      },
+      {
+        "running_slot": 25,
+        "country": "HR"
+      },
+      {
+        "running_slot": 26,
+        "country": "GB"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "year": 2024,
+    "published_at_source": "2024-05-10",
+    "source_url": "https://eurovisionworld.com/esc/eurovision-2024-running-order-for-the-grand-final",
+    "source_file": "data/raw/final_validation/order_web_evidence.json",
+    "source_sha256": "eaeedfed600ea5786a2b85de305d7b05d80daefefb9da195b6d43e556fd8ef61",
+    "extraction_method": "Numbered country list from cached web-tool response; direct HTTP returned 403.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "SE"
+      },
+      {
+        "running_slot": 2,
+        "country": "UA"
+      },
+      {
+        "running_slot": 3,
+        "country": "DE"
+      },
+      {
+        "running_slot": 4,
+        "country": "LU"
+      },
+      {
+        "running_slot": 6,
+        "country": "IL"
+      },
+      {
+        "running_slot": 7,
+        "country": "LT"
+      },
+      {
+        "running_slot": 8,
+        "country": "ES"
+      },
+      {
+        "running_slot": 9,
+        "country": "EE"
+      },
+      {
+        "running_slot": 10,
+        "country": "IE"
+      },
+      {
+        "running_slot": 11,
+        "country": "LV"
+      },
+      {
+        "running_slot": 12,
+        "country": "GR"
+      },
+      {
+        "running_slot": 13,
+        "country": "GB"
+      },
+      {
+        "running_slot": 14,
+        "country": "NO"
+      },
+      {
+        "running_slot": 15,
+        "country": "IT"
+      },
+      {
+        "running_slot": 16,
+        "country": "RS"
+      },
+      {
+        "running_slot": 17,
+        "country": "FI"
+      },
+      {
+        "running_slot": 18,
+        "country": "PT"
+      },
+      {
+        "running_slot": 19,
+        "country": "AM"
+      },
+      {
+        "running_slot": 20,
+        "country": "CY"
+      },
+      {
+        "running_slot": 21,
+        "country": "CH"
+      },
+      {
+        "running_slot": 22,
+        "country": "SI"
+      },
+      {
+        "running_slot": 23,
+        "country": "HR"
+      },
+      {
+        "running_slot": 24,
+        "country": "GE"
+      },
+      {
+        "running_slot": 25,
+        "country": "FR"
+      },
+      {
+        "running_slot": 26,
+        "country": "AT"
+      }
+    ],
+    "note": "Current article removes NL. Other original slots unchanged; NL exclusion independently known by 10:19 UTC before cutoff."
+  },
+  {
+    "year": 2025,
+    "published_at_source": "2025-05-16T10:57:33+02:00",
+    "source_url": "https://escxtra.com/2025/05/16/eurovision-2025-grand-final-running-order-released/",
+    "source_file": "data/raw/final_validation/order2025.html",
+    "source_sha256": "0a9707dd46612ef491141a46f2044827219e724c9cf80b2338a4f912b069fdcd",
+    "extraction_method": "Complete numbered country list from cached contemporary article HTML.",
+    "slots": [
+      {
+        "running_slot": 1,
+        "country": "NO"
+      },
+      {
+        "running_slot": 2,
+        "country": "LU"
+      },
+      {
+        "running_slot": 3,
+        "country": "EE"
+      },
+      {
+        "running_slot": 4,
+        "country": "IL"
+      },
+      {
+        "running_slot": 5,
+        "country": "LT"
+      },
+      {
+        "running_slot": 6,
+        "country": "ES"
+      },
+      {
+        "running_slot": 7,
+        "country": "UA"
+      },
+      {
+        "running_slot": 8,
+        "country": "GB"
+      },
+      {
+        "running_slot": 9,
+        "country": "AT"
+      },
+      {
+        "running_slot": 10,
+        "country": "IS"
+      },
+      {
+        "running_slot": 11,
+        "country": "LV"
+      },
+      {
+        "running_slot": 12,
+        "country": "NL"
+      },
+      {
+        "running_slot": 13,
+        "country": "FI"
+      },
+      {
+        "running_slot": 14,
+        "country": "IT"
+      },
+      {
+        "running_slot": 15,
+        "country": "PL"
+      },
+      {
+        "running_slot": 16,
+        "country": "DE"
+      },
+      {
+        "running_slot": 17,
+        "country": "GR"
+      },
+      {
+        "running_slot": 18,
+        "country": "AM"
+      },
+      {
+        "running_slot": 19,
+        "country": "CH"
+      },
+      {
+        "running_slot": 20,
+        "country": "MT"
+      },
+      {
+        "running_slot": 21,
+        "country": "PT"
+      },
+      {
+        "running_slot": 22,
+        "country": "DK"
+      },
+      {
+        "running_slot": 23,
+        "country": "SE"
+      },
+      {
+        "running_slot": 24,
+        "country": "FR"
+      },
+      {
+        "running_slot": 25,
+        "country": "SM"
+      },
+      {
+        "running_slot": 26,
+        "country": "AL"
+      }
+    ],
+    "note": ""
+  }
+]

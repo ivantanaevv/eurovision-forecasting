@@ -1,0 +1,50 @@
+{
+  "id": 12,
+  "country": "HR",
+  "artist": "Let 3",
+  "song": "Mama ŠČ!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hGuGfdEJ5Pw",
+    "https://www.youtube-nocookie.com/embed/AyKj8jA0Qoc",
+    "https://www.youtube-nocookie.com/embed/6p8eFd2UxJk",
+    "https://www.youtube-nocookie.com/embed/JPiY1v3EfNc",
+    "https://www.youtube-nocookie.com/embed/isZ_4AnCTnA",
+    "https://www.youtube-nocookie.com/embed/834Jj8u45zA",
+    "https://www.youtube-nocookie.com/embed/n0MZBxp8rIQ"
+  ],
+  "bpm": 135,
+  "tone": "C major",
+  "artistPeople": [
+    "Mrle",
+    "Prlja"
+  ],
+  "backings": [
+    "Dražen Baljak",
+    "Ivan Bojčić",
+    "Matej Zec",
+    "Žanil Tataj - Žak"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Damir Martinović Mrle",
+    "Zoran Prodanović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Damir Martinović Mrle"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Albina",
+    "Branimir Mihaljević",
+    "Damir Kedžo",
+    "Jelena Balent",
+    "Nikša Bratoš"
+  ],
+  "spokesperson": "Maja Ciglenečki"
+}

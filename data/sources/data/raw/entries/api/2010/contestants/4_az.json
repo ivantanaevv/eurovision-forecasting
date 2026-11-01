@@ -1,0 +1,41 @@
+{
+  "id": 4,
+  "country": "AZ",
+  "artist": "Safura",
+  "song": "Drip drop",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7zWO-V0dmHg",
+    "https://www.youtube-nocookie.com/embed/54qYAw9qtRc",
+    "https://www.youtube-nocookie.com/embed/OU4AVBHjXgU"
+  ],
+  "bpm": 147,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Safura Aliyeva"
+  ],
+  "backings": [
+    "Anna Bergenholtz",
+    "Johanna Eriksson",
+    "Marlene Strand",
+    "Samantha Powell"
+  ],
+  "dancers": [
+    "Denis Khrystyuk"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Anders Bagge",
+    "Stefan Örn"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sandra Bjurman"
+  ],
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Husniyya Maharramova"
+  ],
+  "jury": null,
+  "spokesperson": "Tamilla Shirinova"
+}

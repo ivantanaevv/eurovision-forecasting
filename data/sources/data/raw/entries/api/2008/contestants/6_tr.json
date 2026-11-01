@@ -1,0 +1,38 @@
+{
+  "id": 6,
+  "country": "TR",
+  "artist": "Mor ve Ötesi",
+  "song": "Deli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A__hliu_9UE",
+    "https://www.youtube-nocookie.com/embed/VeOtv894ls8",
+    "https://www.youtube-nocookie.com/embed/GQdwd4rSMmk",
+    "https://www.youtube-nocookie.com/embed/ARQWYnh76O4"
+  ],
+  "bpm": 151,
+  "tone": "A minor",
+  "artistPeople": [
+    "Burak Güven",
+    "Harun Tekin",
+    "Kerem Kabadayı",
+    "Kerem Özyeğen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Burak Güven",
+    "Harun Tekin",
+    "Kerem Kabadayı",
+    "Kerem Özyeğen"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

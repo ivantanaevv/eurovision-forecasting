@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "country": "BE",
+  "artist": "Blanche",
+  "song": "City Lights",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oxsCmChDYwA",
+    "https://www.youtube-nocookie.com/embed/xbomdE81_mA",
+    "https://www.youtube-nocookie.com/embed/SznlioGhq2k",
+    "https://www.youtube-nocookie.com/embed/sE4D4OgvHFc",
+    "https://www.youtube-nocookie.com/embed/JoHBXcZBzfg",
+    "https://www.youtube-nocookie.com/embed/IZOeF8X_BMw",
+    "https://www.youtube-nocookie.com/embed/i2pg32g86EY"
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "Ellie Delvaux"
+  ],
+  "backings": [
+    "Jess Peet",
+    "Susanna Marie Cork"
+  ],
+  "dancers": null,
+  "stageDirector": "Jean-Jacques Marotte",
+  "composers": [
+    "Emmanuel Delcourt",
+    "Pierre Dumoulin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Blanche",
+    "Pierre Dumoulin"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Etienne Baffrey",
+    "Jean-François Pottier",
+    "Kevin Cocco",
+    "Mia Lena",
+    "Typh Barrow"
+  ],
+  "spokesperson": "Fanny Gillard"
+}

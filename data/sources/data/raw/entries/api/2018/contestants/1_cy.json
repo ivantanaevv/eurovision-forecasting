@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "country": "CY",
+  "artist": "Eleni Foureira",
+  "song": "Fuego",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vyDTbJ4wenY",
+    "https://www.youtube-nocookie.com/embed/54PHdAEmJkM",
+    "https://www.youtube-nocookie.com/embed/-DRsfNObKIQ",
+    "https://www.youtube-nocookie.com/embed/QXLBLwPhNYM",
+    "https://www.youtube-nocookie.com/embed/6cRDQaBFiIA",
+    "https://www.youtube-nocookie.com/embed/KX6T9kHF6WM",
+    "https://www.youtube-nocookie.com/embed/R890Y1fYzXY"
+  ],
+  "bpm": 101,
+  "tone": "A major",
+  "artistPeople": [
+    "Eleni Foureira"
+  ],
+  "backings": [
+    "Celia Caap",
+    "Teddy Sky",
+    "Marlene Lindahl"
+  ],
+  "dancers": [
+    "Keisha von Arnold",
+    "Lovisa Bengtsson"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Alex Papaconstantinou",
+    "Anderz Wrethov",
+    "Didrick",
+    "Geraldo Sandell",
+    "Viktor Svensson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anderz Wrethov",
+    "Didrick",
+    "Geraldo Sandell",
+    "Viktor Svensson"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Kostas Konstantinou",
+    "Vaso Komninou"
+  ],
+  "jury": [
+    "Demetra Georgiou",
+    "Elias Antoniades",
+    "Ioannis Hadjigeorgiou",
+    "Kalliopi Kouroupi",
+    "Pavlos Palechorites"
+  ],
+  "spokesperson": "Hovig"
+}

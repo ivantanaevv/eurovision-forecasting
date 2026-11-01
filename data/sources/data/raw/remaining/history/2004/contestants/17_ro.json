@@ -1,0 +1,31 @@
+{
+  "id": 17,
+  "country": "RO",
+  "artist": "Sanda Ladosi",
+  "song": "I Admit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1QwC2gsmGkA"
+  ],
+  "bpm": 108,
+  "tone": "C minor",
+  "artistPeople": [
+    "Sanda Ladoşi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "George Popa"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Irina Gligor"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Andreea Demirgian"
+  ],
+  "jury": null,
+  "spokesperson": "Andreea Marin"
+}

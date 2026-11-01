@@ -1,0 +1,46 @@
+{
+  "id": 22,
+  "country": "HR",
+  "artist": "Nina Kraljić",
+  "song": "Lighthouse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8QUM-_EbE2o",
+    "https://www.youtube-nocookie.com/embed/ZPDKaOgkAGY",
+    "https://www.youtube-nocookie.com/embed/U6bmKB3SHPY",
+    "https://www.youtube-nocookie.com/embed/yBrADG8lWFY",
+    "https://www.youtube-nocookie.com/embed/iw9VBlBCpmo",
+    "https://www.youtube-nocookie.com/embed/Earnf5kAqP0"
+  ],
+  "bpm": 116,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Nina Kraljić"
+  ],
+  "backings": [
+    "Andrej Babić",
+    "Danijela Večerinović",
+    "Lino Lacmanović Ćućić",
+    "Martina Majerle"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andreas Grass",
+    "Nikola Paryla"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Boris Đurđević",
+    "Damir Kedžo",
+    "Duško Mandić",
+    "Kim Verson",
+    "Pamela Ramljak"
+  ],
+  "spokesperson": "Nevena Rendeli"
+}

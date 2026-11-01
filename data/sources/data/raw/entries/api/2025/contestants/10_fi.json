@@ -1,0 +1,52 @@
+{
+  "id": 10,
+  "country": "FI",
+  "artist": "Erika Vikman",
+  "song": "Ich komme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V3vbVd1ynnk",
+    "https://www.youtube-nocookie.com/embed/4m1c46KAc3o",
+    "https://www.youtube-nocookie.com/embed/Kg3QoTpnqyw",
+    "https://www.youtube-nocookie.com/embed/PFWtYcKb7C8",
+    "https://www.youtube-nocookie.com/embed/5aieMiQOQtk",
+    "https://www.youtube-nocookie.com/embed/ZmqAzTbMe0I",
+    "https://www.youtube-nocookie.com/embed/LZgBfNTZavw"
+  ],
+  "bpm": 147,
+  "tone": "G major",
+  "artistPeople": [
+    "Erika Susanna Vikman"
+  ],
+  "backings": [
+    "Heini Ikonen",
+    "Jepa Lambert",
+    "Teri Mantere"
+  ],
+  "dancers": null,
+  "stageDirector": "Sergio Jaen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Christel Roosberg",
+    "Jori Roosberg"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aslak Paltto",
+    "Eva Frantz",
+    "Galyna Sergeyeva",
+    "Heli Huovinen",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Arja Sinikka Koriseva-Karmala",
+    "Haza von Hertzen",
+    "Miikka Juhani Maunula",
+    "Neea Pauliina Jokinen",
+    "Panu Juhana Hattunen"
+  ],
+  "spokesperson": "Jasmin Beloued"
+}

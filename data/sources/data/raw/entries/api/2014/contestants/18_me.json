@@ -1,0 +1,47 @@
+{
+  "id": 18,
+  "country": "ME",
+  "artist": "Sergej Ćetković",
+  "song": "Moj Svijet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6FJtzRSKHKg",
+    "https://www.youtube-nocookie.com/embed/Xym7CQFFTOU",
+    "https://www.youtube-nocookie.com/embed/b_fKzZodQOE",
+    "https://www.youtube-nocookie.com/embed/wrGHn4mOriw",
+    "https://www.youtube-nocookie.com/embed/ZUeQOWo9HsQ"
+  ],
+  "bpm": 107,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Sergej Ćetković"
+  ],
+  "backings": [
+    "Dragan Brnas-Fudo",
+    "Ivana Čabraja",
+    "Martina Majerle"
+  ],
+  "dancers": null,
+  "stageDirector": "Marko Novaković",
+  "composers": [
+    "Sergej Ćetković"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emina Jahović",
+    "Sergej Ćetković"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": [
+    "Mihailo Radonjić",
+    "Senad Gacevic",
+    "Slobodan Bučevac",
+    "Stefan Filipović",
+    "Zoja Đurović"
+  ],
+  "spokesperson": "Tijana Mišković"
+}

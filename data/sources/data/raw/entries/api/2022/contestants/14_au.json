@@ -1,0 +1,44 @@
+{
+  "id": 14,
+  "country": "AU",
+  "artist": "Sheldon Riley",
+  "song": "Not The Same",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wosfFz2FJPU",
+    "https://www.youtube-nocookie.com/embed/jxe0t8sbI-M",
+    "https://www.youtube-nocookie.com/embed/ByUD4d89_is",
+    "https://www.youtube-nocookie.com/embed/H3hm_dz4KJw",
+    "https://www.youtube-nocookie.com/embed/Vto2YHkolKM",
+    "https://www.youtube-nocookie.com/embed/okX1e90GE_I"
+  ],
+  "bpm": 127,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Sheldon Riley Hernandez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Cam Nacson",
+    "Sheldon Riley"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sheldon Riley"
+  ],
+  "writers": null,
+  "broadcaster": "SBS",
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "jury": [
+    "Bridget Hustwaite",
+    "Dylan Lewis",
+    "Matt Okine",
+    "Milly Petriella",
+    "Montaigne"
+  ],
+  "spokesperson": "Courtney Act"
+}

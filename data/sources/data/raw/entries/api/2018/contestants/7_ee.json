@@ -1,0 +1,48 @@
+{
+  "id": 7,
+  "country": "EE",
+  "artist": "Elina Nechayeva",
+  "song": "La forza",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ImawXdXIGd8",
+    "https://www.youtube-nocookie.com/embed/xf0Qg2r93gY",
+    "https://www.youtube-nocookie.com/embed/7k-8O0QQhlk",
+    "https://www.youtube-nocookie.com/embed/n5MDR4g3ZBY",
+    "https://www.youtube-nocookie.com/embed/yS7C7ccuN3c",
+    "https://www.youtube-nocookie.com/embed/-muxzGUKcPQ",
+    "https://www.youtube-nocookie.com/embed/Y-RpE1r0FbE"
+  ],
+  "bpm": 97,
+  "tone": "D minor",
+  "artistPeople": [
+    "Elina Netšajeva"
+  ],
+  "backings": [
+    "Mihkel Mattisen",
+    "Timo Vendt"
+  ],
+  "dancers": null,
+  "stageDirector": "Filip Adamo, Rennie Mirro",
+  "composers": [
+    "Mihkel Mattisen",
+    "Timo Vendt"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Elina Nechayeva",
+    "Ksenia Kuchukova"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Allan Roosileht",
+    "Anett Kulbin",
+    "Eva Palm",
+    "Karl Killing",
+    "Rainer Ild"
+  ],
+  "spokesperson": "Ott Evestus"
+}

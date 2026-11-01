@@ -1,0 +1,39 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Anouk",
+  "song": "Birds",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n5iazXvMw5o",
+    "https://www.youtube-nocookie.com/embed/bu3MO78fT08"
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "artistPeople": [
+    "Anouk Teeuwe"
+  ],
+  "backings": [
+    "Ricardo Burgrust",
+    "Shirma Rouse",
+    "Yerry Rellum"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Anouk",
+    "Martin Gjerstad",
+    "Tore Johanson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anouk"
+  ],
+  "writers": null,
+  "broadcaster": "TROS",
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Cornald Maas"
+}

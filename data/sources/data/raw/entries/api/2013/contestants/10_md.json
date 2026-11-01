@@ -1,0 +1,43 @@
+{
+  "id": 10,
+  "country": "MD",
+  "artist": "Aliona Moon",
+  "song": "O mie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xckgLUv73Jc",
+    "https://www.youtube-nocookie.com/embed/a2MAIExkd7I",
+    "https://www.youtube-nocookie.com/embed/GJFlPTC6544",
+    "https://www.youtube-nocookie.com/embed/DtUPtVl-61o",
+    "https://www.youtube-nocookie.com/embed/QnovBLZsnpc",
+    "https://www.youtube-nocookie.com/embed/o9TOg45p2cE",
+    "https://www.youtube-nocookie.com/embed/o9TOg45p2cE"
+  ],
+  "bpm": 128,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Aliona Munteanu"
+  ],
+  "backings": [
+    "Iuri Ribac",
+    "Mircea Palamari",
+    "Vladimir Hinou"
+  ],
+  "dancers": [
+    "Vadim Tsurkan"
+  ],
+  "stageDirector": "Pasha Parfeni",
+  "composers": [
+    "Pasha Parfeni"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yuliana Scutaru"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Lidia Scarlat"
+  ],
+  "jury": null,
+  "spokesperson": "Olivia Furtună"
+}

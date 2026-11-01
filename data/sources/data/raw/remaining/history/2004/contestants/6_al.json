@@ -1,0 +1,41 @@
+{
+  "id": 6,
+  "country": "AL",
+  "artist": "Anjeza Shahini",
+  "song": "The Image Of You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NrVrCJFCejs",
+    "https://www.youtube-nocookie.com/embed/P4iCsY2harc",
+    "https://www.youtube-nocookie.com/embed/GnDkv9MaHgE",
+    "https://www.youtube-nocookie.com/embed/6fhG7Th4gQQ",
+    "https://www.youtube-nocookie.com/embed/GP7M-VuMnXI",
+    "https://www.youtube-nocookie.com/embed/_ZknYLHa_7k"
+  ],
+  "bpm": 130,
+  "tone": "C# major",
+  "artistPeople": [
+    "Anjeza Shahini"
+  ],
+  "backings": [
+    "Arbër Arapi",
+    "Klajdi Musabelli",
+    "Rosela Gjylbegu",
+    "Tergita Gusta"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Edmond Zhulali"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Xhuli Teilor"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "jury": null,
+  "spokesperson": "Zhani Ciko"
+}

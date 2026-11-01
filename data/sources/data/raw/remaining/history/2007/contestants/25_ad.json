@@ -1,0 +1,39 @@
+{
+  "id": 25,
+  "country": "AD",
+  "artist": "Anonymous",
+  "song": "Salvem el món",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RcbefpUPuLA",
+    "https://www.youtube-nocookie.com/embed/zOYO0KqcMsk",
+    "https://www.youtube-nocookie.com/embed/KJOKMSeQXhs"
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "artistPeople": [
+    "Guillem Gallego",
+    "Niki Francesca",
+    "Alejandro Martínez"
+  ],
+  "backings": [
+    "Edgar",
+    "Ivan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Guillem Gallego",
+    "Niki Francesca",
+    "Alejandro Martínez"
+  ],
+  "broadcaster": "RTVA",
+  "commentators": [
+    "Josep Lluís Trabal",
+    "Meri Picart"
+  ],
+  "jury": null,
+  "spokesperson": "Marian van de Wal"
+}

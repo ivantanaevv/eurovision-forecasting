@@ -1,0 +1,50 @@
+{
+  "id": 0,
+  "country": "SE",
+  "artist": "Måns Zelmerlöw",
+  "song": "Heroes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5sGOwFVUU0I",
+    "https://www.youtube-nocookie.com/embed/AoO1V_eOEPA",
+    "https://www.youtube-nocookie.com/embed/-msutN_OkU4",
+    "https://www.youtube-nocookie.com/embed/LJ41d11t02c",
+    "https://www.youtube-nocookie.com/embed/oqMi3IjaqqE",
+    "https://www.youtube-nocookie.com/embed/3avE4Zsp14g",
+    "https://www.youtube-nocookie.com/embed/wP2e1_TYNm8"
+  ],
+  "bpm": 124,
+  "tone": "C# major",
+  "artistPeople": [
+    "Måns Zelmerlöw"
+  ],
+  "backings": [
+    "Alexander Holmgren",
+    "Britta Bergström",
+    "Jeanette Olsson",
+    "Linnea Deb",
+    "Micke Blomqvist"
+  ],
+  "dancers": null,
+  "stageDirector": "David Nordström, Fredrik Rydman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anton Hård af Segerstad",
+    "Joy Deb",
+    "Linnea Deb"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Sanna Nielsen"
+  ],
+  "jury": [
+    "Filip Adamo",
+    "Henrik Johnsson",
+    "Isa Tengblad",
+    "Lina Hedlund",
+    "Rennie Mirro"
+  ],
+  "spokesperson": "Mariette"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 18,
+  "country": "GR",
+  "artist": "Demy",
+  "song": "This is Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iO14p2uCzkM",
+    "https://www.youtube-nocookie.com/embed/f2g9oAaoCeU",
+    "https://www.youtube-nocookie.com/embed/nVrlEB1bN3w",
+    "https://www.youtube-nocookie.com/embed/RP7JNf9MxtM",
+    "https://www.youtube-nocookie.com/embed/fjvHk6ilY8M",
+    "https://www.youtube-nocookie.com/embed/MoHnVULbGVY",
+    "https://www.youtube-nocookie.com/embed/BdFQtUa6Mpk"
+  ],
+  "bpm": 128,
+  "tone": "F major",
+  "artistPeople": [
+    "Dimitra Papadea (Δήμητρα Παπαδέα)"
+  ],
+  "backings": [
+    "Erasmia Markidi",
+    "Evgenia Liakou",
+    "Iasonas Mandilas",
+    "Paris Paraskevadis-Planets"
+  ],
+  "dancers": [
+    "Marcos Giakoumoglou"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John Ballard",
+    "Romy Papadea"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Akis Anastasiadis",
+    "Aris Petrakis",
+    "Dimitris Ougarezos",
+    "Vicky Gerothodorou",
+    "Xenia Ghali"
+  ],
+  "spokesperson": "Constantinos Christoforou"
+}

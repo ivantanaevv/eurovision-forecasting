@@ -1,0 +1,111 @@
+{
+  "url": "https://www.eurovision.com/eurovision-song-contest/baku-2012/baku-2012-grand-final/",
+  "retrieved_utc": "2026-10-24T16:22:54.204Z",
+  "method": "cua_browser_rendered_scoreboard",
+  "rows": [
+    {
+      "label": "Scoreboard entry for Sweden",
+      "text": "1\n\nSweden\n\nLoreen\n\nEuphoria\n\nWinner\n\n372 points\n\nRunning Order\n17"
+    },
+    {
+      "label": "Scoreboard entry for Russia",
+      "text": "2\n\nRussia\n\nBuranovskiye Babushki\n\nParty For Everybody\n\n259 points\n\nRunning Order\n6"
+    },
+    {
+      "label": "Scoreboard entry for Serbia",
+      "text": "3\n\nSerbia\n\nŽeljko Joksimović\n\nNije Ljubav Stvar\n\n214 points\n\nRunning Order\n24"
+    },
+    {
+      "label": "Scoreboard entry for Azerbaijan",
+      "text": "4\n\nAzerbaijan\n\nSabina Babayeva\n\nWhen The Music Dies\n\n150 points\n\nRunning Order\n13"
+    },
+    {
+      "label": "Scoreboard entry for Albania",
+      "text": "5\n\nAlbania\n\nRona Nishliu\n\nSuus\n\n146 points\n\nRunning Order\n3"
+    },
+    {
+      "label": "Scoreboard entry for Estonia",
+      "text": "6\n\nEstonia\n\nOtt Lepland\n\nKuula\n\n120 points\n\nRunning Order\n11"
+    },
+    {
+      "label": "Scoreboard entry for Türkiye",
+      "text": "7\n\nTürkiye\n\nCan Bonomo\n\nLove Me Back\n\n112 points\n\nRunning Order\n18"
+    },
+    {
+      "label": "Scoreboard entry for Germany",
+      "text": "8\n\nGermany\n\nRoman Lob\n\nStanding Still\n\n110 points\n\nRunning Order\n20"
+    },
+    {
+      "label": "Scoreboard entry for Italy",
+      "text": "9\n\nItaly\n\nNina Zilli\n\nL'Amore È Femmina (Out Of Love)\n\n101 points\n\nRunning Order\n10"
+    },
+    {
+      "label": "Scoreboard entry for Spain",
+      "text": "10\n\nSpain\n\nPastora Soler\n\nQuédate Conmigo (Stay With Me)\n\n97 points\n\nRunning Order\n19"
+    },
+    {
+      "label": "Scoreboard entry for Moldova",
+      "text": "11\n\nMoldova\n\nPasha Parfeny\n\nLăutar\n\n81 points\n\nRunning Order\n26"
+    },
+    {
+      "label": "Scoreboard entry for Romania",
+      "text": "12\n\nRomania\n\nMandinga\n\nZaleilah\n\n71 points\n\nRunning Order\n14"
+    },
+    {
+      "label": "Scoreboard entry for North Macedonia",
+      "text": "13\n\nNorth Macedonia\n\nKaliopi\n\nCrno I Belo\n\n71 points\n\nRunning Order\n22"
+    },
+    {
+      "label": "Scoreboard entry for Lithuania",
+      "text": "14\n\nLithuania\n\nDonny Montell\n\nLove Is Blind\n\n70 points\n\nRunning Order\n4"
+    },
+    {
+      "label": "Scoreboard entry for Ukraine",
+      "text": "15\n\nUkraine\n\nGaitana\n\nBe My Guest\n\n65 points\n\nRunning Order\n25"
+    },
+    {
+      "label": "Scoreboard entry for Cyprus",
+      "text": "16\n\nCyprus\n\nIvi Adamou\n\nLa La Love\n\n65 points\n\nRunning Order\n8"
+    },
+    {
+      "label": "Scoreboard entry for Greece",
+      "text": "17\n\nGreece\n\nEleftheria Eleftheriou\n\nAphrodisiac\n\n64 points\n\nRunning Order\n16"
+    },
+    {
+      "label": "Scoreboard entry for Bosnia & Herzegovina",
+      "text": "18\n\nBosnia & Herzegovina\n\nMaya Sar\n\nKorake Ti Znam\n\n55 points\n\nRunning Order\n5"
+    },
+    {
+      "label": "Scoreboard entry for Ireland",
+      "text": "19\n\nIreland\n\nJedward\n\nWaterline\n\n46 points\n\nRunning Order\n23"
+    },
+    {
+      "label": "Scoreboard entry for Iceland",
+      "text": "20\n\nIceland\n\nGreta Salóme & Jónsi\n\nNever Forget\n\n46 points\n\nRunning Order\n7"
+    },
+    {
+      "label": "Scoreboard entry for Malta",
+      "text": "21\n\nMalta\n\nKurt Calleja\n\nThis Is The Night\n\n41 points\n\nRunning Order\n21"
+    },
+    {
+      "label": "Scoreboard entry for France",
+      "text": "22\n\nFrance\n\nAnggun\n\nEcho (You And I)\n\n21 points\n\nRunning Order\n9"
+    },
+    {
+      "label": "Scoreboard entry for Denmark",
+      "text": "23\n\nDenmark\n\nSoluna Samay\n\nShould've Known Better\n\n21 points\n\nRunning Order\n15"
+    },
+    {
+      "label": "Scoreboard entry for Hungary",
+      "text": "24\n\nHungary\n\nCompact Disco\n\nSound Of Our Hearts\n\n19 points\n\nRunning Order\n2"
+    },
+    {
+      "label": "Scoreboard entry for United Kingdom",
+      "text": "25\n\nUnited Kingdom\n\nEngelbert Humperdinck\n\nLove Will Set You Free\n\n12 points\n\nRunning Order\n1"
+    },
+    {
+      "label": "Scoreboard entry for Norway",
+      "text": "26\n\nNorway\n\nTooji\n\nStay\n\n7 points\n\nRunning Order\n12"
+    }
+  ]
+}

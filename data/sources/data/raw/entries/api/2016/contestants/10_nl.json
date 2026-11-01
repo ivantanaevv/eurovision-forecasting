@@ -1,0 +1,53 @@
+{
+  "id": 10,
+  "country": "NL",
+  "artist": "Douwe Bob",
+  "song": "Slow Down",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PwF9DI89q1w",
+    "https://www.youtube-nocookie.com/embed/vytgHD2pqyk",
+    "https://www.youtube-nocookie.com/embed/ffVDyQbUstY",
+    "https://www.youtube-nocookie.com/embed/ht4ECv6b8OQ",
+    "https://www.youtube-nocookie.com/embed/0oMUudm-pgU"
+  ],
+  "bpm": 124,
+  "tone": "E minor",
+  "artistPeople": [
+    "Douwe Bob Posthuma"
+  ],
+  "backings": [
+    "Jan-Peter Hoekstra",
+    "Jeroen Overman",
+    "Matthijs van Duijvenbode",
+    "Stijn van Dalen",
+    "Thijs Boontjes"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": [
+    "Douwe Bob Posthuma",
+    "Jan Peter Hoekstra",
+    "Jeroen Overman",
+    "Matthijs van Duijvenbode"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Douwe Bob Posthuma",
+    "Jan Peter Hoekstra",
+    "Jeroen Overman"
+  ],
+  "writers": null,
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "Holger Schwedt",
+    "Jennie Lena",
+    "Marga Bult",
+    "Ruud de Wild",
+    "Setske Mostaert"
+  ],
+  "spokesperson": "Trijntje Oosterhuis"
+}

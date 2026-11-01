@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Fame",
+  "song": "Give Me Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-qAkQRczjDI",
+    "https://www.youtube-nocookie.com/embed/tpKQlcmo0PM"
+  ],
+  "bpm": 132,
+  "tone": "D major",
+  "artistPeople": [
+    "Jessica Andersson",
+    "Magnus Bäcklund"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Jenny Petersson",
+    "Martin Kagemark",
+    "Micke Blomqvist"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Calle Kindbom",
+    "Carl Lösnitz"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Kattis Ahlström"
+}

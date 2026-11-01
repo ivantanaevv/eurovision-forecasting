@@ -1,0 +1,35 @@
+{
+  "history_window_calendar_years": 5,
+  "smoothing_pseudocount": 3,
+  "history_A_source_start": 2003,
+  "comparable_split_start": 2016,
+  "cancelled_years": [2020],
+  "historical_ties_before_2008": "Keep published shared places. These years only supply historical features, not Plackett-Luce training rankings.",
+  "predecessor_countries": "Keep CS (Serbia and Montenegro) separate from RS and ME. Do not transfer predecessor results.",
+  "voting": {
+    "substitute_public_voters": {"2016": ["SM"], "2017": ["SM"], "2018": ["SM"], "2019": ["SM"], "2021": ["SM"], "2022": ["SM"], "2023": ["SM"], "2024": ["SM"], "2025": ["SM"]},
+    "substitute_jury_voters": {"2016": [], "2017": [], "2018": [], "2019": ["BY"], "2021": [], "2022": ["AZ", "GE", "ME", "PL", "RO", "SM"], "2023": [], "2024": [], "2025": []},
+    "audit_method": "Cross-check every public point and eligible candidate against the published final matrix. Review year-specific voting exceptions. Public channel is treated as a real national audience result unless the reviewed exception register flags a substitute; this is a source-audit classification, not an audit of raw telephone votes.",
+    "unknown_policy": "Fail on incomplete matrices, inconsistent candidate sets or an unclassified exception. Do not infer zero from a missing primary record.",
+    "substitute_target_policy": "Retain full group in national_votes with eligible_C=0 and target_first_place blank. Keep official_channel_winner only as an audit field.",
+    "row_policy": "Rest of the World goes to non_national_votes, outside national_votes and pair history.",
+    "references": {
+      "primary_substitute_explanation": "https://www.eurovision.de/news/Fragen-und-Antworten,faq117.html",
+      "primary_split_rules": "https://www.ebu.ch/news/2016/02/eurovision-song-contest-voting-u",
+      "jury_2019_correction": "https://www.ebu.ch/news/2019/05/ebu-issues-statement-on-eurovision-song-contest-grand-final-jury-result",
+      "jury_2022_statement": "https://eurovision.tv/mediacentre/release/ebu-statement-irregular-voting-2022",
+      "jury_2022_preserved_description": "https://www.euronews.com/culture/2022/05/16/eurovision-jury-results-of-six-countries-removed-after-voting-irregularities-identified",
+      "year_specific_substitute_validation": "data/raw/remaining/validation/San_Marino_YEAR.html"
+    }
+  },
+  "geography": {
+    "source": "Natural Earth v5.1.2, 10m populated places and admin-0 boundary lines land",
+    "capital_selection": "Exactly one ADM0CAP=1 feature for each country ISO_A2. Use the source capital consistently, including Amsterdam, Podgorica and Jerusalem; preserve coordinates and NE_ID.",
+    "earth_radius_km": 6371.0088,
+    "distance": "Haversine great-circle distance between source capital coordinates; log1p(distance_km).",
+    "border": "An explicit Natural Earth TYPE=Land line between the two ADM0_A3 country codes. Exclude water indicators. Do not merge separately coded territories or dependencies into the parent state.",
+    "territory_examples": "GB-IE=1; GB-ES=0 (Gibraltar separate), GB-CY=0 (sovereign bases separate), FR-NL=0 (Saint Martin/Sint Maarten separate); Denmark-Sweden bridge is not a land border.",
+    "historical_stability": "For the modeled countries and this admin-0 definition, the binary adjacency used in C is unchanged in 2016-2025. Changes to disputed lines in RU-UA, RU-GE and AM-AZ do not change the existence of a land border. Separate territories are not silently mapped to another participant.",
+    "available_at": "Static geographic facts, computed retrospectively from a pinned map. Contemporary populations and other time-varying map attributes are not used."
+  }
+}

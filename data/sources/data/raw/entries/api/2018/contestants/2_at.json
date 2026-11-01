@@ -1,0 +1,51 @@
+{
+  "id": 2,
+  "country": "AT",
+  "artist": "Cesár Sampson",
+  "song": "Nobody But You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a8Yvzo1puoE",
+    "https://www.youtube-nocookie.com/embed/usUA5BfU9pg",
+    "https://www.youtube-nocookie.com/embed/I8MyztgOTv8",
+    "https://www.youtube-nocookie.com/embed/1vGFeXbm04Y",
+    "https://www.youtube-nocookie.com/embed/3OCT4sosrQo",
+    "https://www.youtube-nocookie.com/embed/aca2yb9_qqs",
+    "https://www.youtube-nocookie.com/embed/7T3hg_Y1xAo"
+  ],
+  "bpm": 85,
+  "tone": "G major",
+  "artistPeople": [
+    "Cesár Sampson"
+  ],
+  "backings": [
+    "Kiko Pereira",
+    "Rachelle Jeanty",
+    "Ricardo Soler",
+    "Sandra Kurzweil",
+    "Sunay Balkan"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Borislav Milanov",
+    "Cesár Sampson",
+    "Joacim Persson",
+    "Johan Alkenäs",
+    "Sebastian Arman"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Florian Cojocaru",
+    "Hannes Tschürtz",
+    "Ina Regen",
+    "Monika Ballwein",
+    "Nathan Trent"
+  ],
+  "spokesperson": "Katharina Bellowitsch"
+}

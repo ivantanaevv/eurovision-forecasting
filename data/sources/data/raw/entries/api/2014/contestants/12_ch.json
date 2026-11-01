@@ -1,0 +1,50 @@
+{
+  "id": 12,
+  "country": "CH",
+  "artist": "Sebalter",
+  "song": "Hunter Of Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DqjoM8ZlyMc",
+    "https://www.youtube-nocookie.com/embed/kjWG0oNpWog",
+    "https://www.youtube-nocookie.com/embed/7FTrglTLRXI",
+    "https://www.youtube-nocookie.com/embed/KKBGzgEvRQI"
+  ],
+  "bpm": 88,
+  "tone": "A minor",
+  "artistPeople": [
+    "Sebastiano Paù-Lessi"
+  ],
+  "backings": [
+    "Christoph Pedretti",
+    "Marco Cuzzovaglia",
+    "Mattia Bordignon",
+    "Patric Scott",
+    "Rocco Casella"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sebastiano Paù-Lessi"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Alessandro Bertoglio",
+    "Gabriel Vetter",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Peter Schneider",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Ivan Broggini",
+    "Marcus van Lier",
+    "Mélanie Freymond",
+    "Pascal Vonlanthen",
+    "Sina Bellwald"
+  ],
+  "spokesperson": "Kurt Aeschbacher"
+}

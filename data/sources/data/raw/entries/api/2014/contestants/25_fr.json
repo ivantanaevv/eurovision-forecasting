@@ -1,0 +1,51 @@
+{
+  "id": 25,
+  "country": "FR",
+  "artist": "Twin Twin",
+  "song": "Moustache",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vjkqciwP034",
+    "https://www.youtube-nocookie.com/embed/hWJFfnHNOWI",
+    "https://www.youtube-nocookie.com/embed/JgETLmo7utQ"
+  ],
+  "bpm": 128,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "François Djemel",
+    "Lorent Ardouvin",
+    "Patrick Biyik"
+  ],
+  "backings": [
+    "Ulrich Kwasi"
+  ],
+  "dancers": [
+    "Céline Baron",
+    "Jonathan Jenvrin"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Kim N'Guyen",
+    "Pierre Beyres"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "François Ardouvin",
+    "Lorent Idir"
+  ],
+  "writers": null,
+  "broadcaster": "FT3",
+  "commentators": [
+    "Audrey Chauveau",
+    "Bruno Berberes",
+    "Cyril Féraud",
+    "Natasha St-Pier"
+  ],
+  "jury": [
+    "Boris Bergman",
+    "Fabrice Marchal",
+    "Fanny Llado",
+    "Jean-Marc Sauvagnargues",
+    "Julie Solia"
+  ],
+  "spokesperson": "Elodie Suigo"
+}

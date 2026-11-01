@@ -1,0 +1,32 @@
+{
+  "id": 21,
+  "country": "PT",
+  "artist": "Rita Guerra",
+  "song": "Deixa-me sonhar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mhH7Xv7NkTU",
+    "https://www.youtube-nocookie.com/embed/V00OGSJuaw8"
+  ],
+  "bpm": 126,
+  "tone": "F major",
+  "artistPeople": [
+    "Rita Maria Azevedo Mafra Guerra"
+  ],
+  "backings": [
+    "Beto"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Paulo Martins"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Margarida Mercês de Mello"
+  ],
+  "jury": null,
+  "spokesperson": "Helena Ramos"
+}

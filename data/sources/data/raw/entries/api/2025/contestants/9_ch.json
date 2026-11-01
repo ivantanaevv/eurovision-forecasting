@@ -1,0 +1,47 @@
+{
+  "id": 9,
+  "country": "CH",
+  "artist": "Zoë Më",
+  "song": "Voyage",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5TMc6HzimQo",
+    "https://www.youtube-nocookie.com/embed/F4lALgxBiYI",
+    "https://www.youtube-nocookie.com/embed/dGX54zRExR8",
+    "https://www.youtube-nocookie.com/embed/pz5JAbZxSYk",
+    "https://www.youtube-nocookie.com/embed/61fLi8ziHDk",
+    "https://www.youtube-nocookie.com/embed/bb8Kx6SUdaM",
+    "https://www.youtube-nocookie.com/embed/Pjj5sbYVUiM"
+  ],
+  "bpm": 170,
+  "tone": "C minor",
+  "artistPeople": [
+    "Zoë Anina Kressler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Theo Adams",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emily Middlemas",
+    "Tom Oehler",
+    "Zoë Më"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Ellis Cavallini",
+    "Gian-Andrea Costa",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Cyrill Camenzind",
+    "Gabriela Mennel",
+    "Giordano Tatum Rush",
+    "Mary Clapasson",
+    "Tiffany Athena Limacher"
+  ],
+  "spokesperson": "Mélanie Freymond, Sven Epiney"
+}

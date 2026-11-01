@@ -1,0 +1,111 @@
+{
+  "url": "https://www.eurovision.com/eurovision-song-contest/malmo-2013/malmo-2013-grand-final/",
+  "retrieved_utc": "2026-10-24T16:22:43.636Z",
+  "method": "cua_browser_rendered_scoreboard",
+  "rows": [
+    {
+      "label": "Scoreboard entry for Denmark",
+      "text": "1\n\nDenmark\n\nEmmelie de Forest\n\nOnly Teardrops\n\nWinner\n\n281 points\n\nRunning Order\n18"
+    },
+    {
+      "label": "Scoreboard entry for Azerbaijan",
+      "text": "2\n\nAzerbaijan\n\nFarid Mammadov\n\nHold Me\n\n234 points\n\nRunning Order\n20"
+    },
+    {
+      "label": "Scoreboard entry for Ukraine",
+      "text": "3\n\nUkraine\n\nZlata Ognevich\n\nGravity\n\n214 points\n\nRunning Order\n22"
+    },
+    {
+      "label": "Scoreboard entry for Norway",
+      "text": "4\n\nNorway\n\nMargaret Berger\n\nI Feed You My Love\n\n191 points\n\nRunning Order\n24"
+    },
+    {
+      "label": "Scoreboard entry for Russia",
+      "text": "5\n\nRussia\n\nDina Garipova\n\nWhat If\n\n174 points\n\nRunning Order\n10"
+    },
+    {
+      "label": "Scoreboard entry for Greece",
+      "text": "6\n\nGreece\n\nKoza Mostra feat. Agathon Iakovidis\n\nAlcohol Is Free\n\n152 points\n\nRunning Order\n21"
+    },
+    {
+      "label": "Scoreboard entry for Italy",
+      "text": "7\n\nItaly\n\nMarco Mengoni\n\nL'Essenziale\n\n126 points\n\nRunning Order\n23"
+    },
+    {
+      "label": "Scoreboard entry for Malta",
+      "text": "8\n\nMalta\n\nGianluca\n\nTomorrow\n\n120 points\n\nRunning Order\n9"
+    },
+    {
+      "label": "Scoreboard entry for Netherlands",
+      "text": "9\n\nNetherlands\n\nAnouk\n\nBirds\n\n114 points\n\nRunning Order\n13"
+    },
+    {
+      "label": "Scoreboard entry for Hungary",
+      "text": "10\n\nHungary\n\nByeAlex\n\nKedvesem (Zoohacker Remix)\n\n84 points\n\nRunning Order\n17"
+    },
+    {
+      "label": "Scoreboard entry for Moldova",
+      "text": "11\n\nMoldova\n\nAliona Moon\n\nO Mie\n\n71 points\n\nRunning Order\n3"
+    },
+    {
+      "label": "Scoreboard entry for Belgium",
+      "text": "12\n\nBelgium\n\nRoberto Bellarosa\n\nLove Kills\n\n71 points\n\nRunning Order\n6"
+    },
+    {
+      "label": "Scoreboard entry for Romania",
+      "text": "13\n\nRomania\n\nCezar\n\nIt's My Life\n\n65 points\n\nRunning Order\n14"
+    },
+    {
+      "label": "Scoreboard entry for Sweden",
+      "text": "14\n\nSweden\n\nRobin Stjernberg\n\nYou\n\n62 points\n\nRunning Order\n16"
+    },
+    {
+      "label": "Scoreboard entry for Georgia",
+      "text": "15\n\nGeorgia\n\nNodi Tatishvili & Sophie Gelovani\n\nWaterfall\n\n50 points\n\nRunning Order\n25"
+    },
+    {
+      "label": "Scoreboard entry for Belarus",
+      "text": "16\n\nBelarus\n\nAlyona Lanskaya\n\nSolayoh\n\n48 points\n\nRunning Order\n8"
+    },
+    {
+      "label": "Scoreboard entry for Iceland",
+      "text": "17\n\nIceland\n\nEythor Ingi\n\nÉg Á Líf\n\n47 points\n\nRunning Order\n19"
+    },
+    {
+      "label": "Scoreboard entry for Armenia",
+      "text": "18\n\nArmenia\n\nDorians\n\nLonely Planet\n\n41 points\n\nRunning Order\n12"
+    },
+    {
+      "label": "Scoreboard entry for United Kingdom",
+      "text": "19\n\nUnited Kingdom\n\nBonnie Tyler\n\nBelieve In Me\n\n23 points\n\nRunning Order\n15"
+    },
+    {
+      "label": "Scoreboard entry for Estonia",
+      "text": "20\n\nEstonia\n\nBirgit\n\nEt Uus Saaks Alguse\n\n19 points\n\nRunning Order\n7"
+    },
+    {
+      "label": "Scoreboard entry for Germany",
+      "text": "21\n\nGermany\n\nCascada\n\nGlorious\n\n18 points\n\nRunning Order\n11"
+    },
+    {
+      "label": "Scoreboard entry for Lithuania",
+      "text": "22\n\nLithuania\n\nAndrius Pojavis\n\nSomething\n\n17 points\n\nRunning Order\n2"
+    },
+    {
+      "label": "Scoreboard entry for France",
+      "text": "23\n\nFrance\n\nAmandine Bourgeois\n\nL'enfer Et Moi\n\n14 points\n\nRunning Order\n1"
+    },
+    {
+      "label": "Scoreboard entry for Finland",
+      "text": "24\n\nFinland\n\nKrista Siegfrids\n\nMarry Me\n\n13 points\n\nRunning Order\n4"
+    },
+    {
+      "label": "Scoreboard entry for Spain",
+      "text": "25\n\nSpain\n\nESDM\n\nContigo Hasta El Final (With You Until The End)\n\n8 points\n\nRunning Order\n5"
+    },
+    {
+      "label": "Scoreboard entry for Ireland",
+      "text": "26\n\nIreland\n\nRyan Dolan\n\nOnly Love Survives\n\n5 points\n\nRunning Order\n26"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 33,
+  "country": "EE",
+  "artist": "Suntribe",
+  "song": "Let's Get Loud",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mqvOUfdwQtw",
+    "https://www.youtube-nocookie.com/embed/-OJz-MQawp0",
+    "https://www.youtube-nocookie.com/embed/r4yWGkWQBDk",
+    "https://www.youtube-nocookie.com/embed/q84BGGwdNPY",
+    "https://www.youtube-nocookie.com/embed/BfstDcpsDm8"
+  ],
+  "bpm": 116,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Daana Ots",
+    "Jaanika Vilipo",
+    "Laura",
+    "Laura Remmel",
+    "Mari-Leen Kaselaan",
+    "Rebecca Kontus"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sven Lõhmus"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Maarja-Liis Ilus"
+}

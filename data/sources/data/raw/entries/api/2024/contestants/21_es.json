@@ -1,0 +1,51 @@
+{
+  "id": 21,
+  "country": "ES",
+  "artist": "Nebulossa",
+  "song": "Zorra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FOMoQoHG5aU",
+    "https://www.youtube-nocookie.com/embed/GdagS_0hX8k",
+    "https://www.youtube-nocookie.com/embed/RUa9TMRzmlI",
+    "https://www.youtube-nocookie.com/embed/zSZqlQZ0_us",
+    "https://www.youtube-nocookie.com/embed/Uxv-wy2v9H4",
+    "https://www.youtube-nocookie.com/embed/stz5edjh5S0",
+    "https://www.youtube-nocookie.com/embed/sktUENhU4YY"
+  ],
+  "bpm": 130,
+  "tone": "A minor",
+  "artistPeople": [
+    "María Bas"
+  ],
+  "backings": [
+    "Ana Villa",
+    "Mark Dasousa"
+  ],
+  "dancers": [
+    "César Ferrío",
+    "Iosu Martínez"
+  ],
+  "stageDirector": "Israel Reyes, Juan Sebastián",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "María Bas",
+    "Mark Dasousa"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Sònia Urbano",
+    "Tony Aguilar",
+    "Xavi Martínez"
+  ],
+  "jury": [
+    "Gema Del Valle De La Cruz",
+    "Irene Garrido Pascual",
+    "Juan Manuel Pinzás Sueiro",
+    "Pedro Hernández Herrera",
+    "Rosa María Comin"
+  ],
+  "spokesperson": "Soraya Arnelas"
+}

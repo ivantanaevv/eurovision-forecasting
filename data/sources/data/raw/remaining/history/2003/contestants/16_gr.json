@@ -1,0 +1,39 @@
+{
+  "id": 16,
+  "country": "GR",
+  "artist": "Mando",
+  "song": "Never Let You Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gNJ3XgelGUU",
+    "https://www.youtube-nocookie.com/embed/DgU2gxn4s8A",
+    "https://www.youtube-nocookie.com/embed/CcDU66imXtI",
+    "https://www.youtube-nocookie.com/embed/ucSsctax4o8"
+  ],
+  "bpm": 172,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Adamantia Stamatopoulou"
+  ],
+  "backings": [
+    "Chriso Stamatopoulou",
+    "Johnny Jam",
+    "Kostas Chrisis",
+    "Tasos Fotiadis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mando"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Teri Siganos"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

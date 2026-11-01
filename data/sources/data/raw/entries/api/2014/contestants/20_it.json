@@ -1,0 +1,41 @@
+{
+  "id": 20,
+  "country": "IT",
+  "artist": "Emma",
+  "song": "La Mia Città",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8W5ZlalAMV8",
+    "https://www.youtube-nocookie.com/embed/Si9K0ChHzDI"
+  ],
+  "bpm": 136,
+  "tone": "F major",
+  "artistPeople": [
+    "Emmanuela Marrone"
+  ],
+  "backings": [
+    "Arianna Mereu"
+  ],
+  "dancers": null,
+  "stageDirector": "Leandro Emede, Nicolò Cerioni",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emma Marrone"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Filippo Solibello",
+    "Linus",
+    "Marco Ardemagni",
+    "Nicola Savino"
+  ],
+  "jury": [
+    "Andrea Laffranchi",
+    "Andrea Miro",
+    "Francesco Pasquero",
+    "Luca de Gennaro",
+    "Paola Folli"
+  ],
+  "spokesperson": "Linus"
+}

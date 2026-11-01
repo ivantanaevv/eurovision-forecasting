@@ -1,0 +1,50 @@
+{
+  "id": 17,
+  "country": "NL",
+  "artist": "Waylon",
+  "song": "Outlaw In 'Em",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/p7jHz5asMs8",
+    "https://www.youtube-nocookie.com/embed/hsm98vYn4DI",
+    "https://www.youtube-nocookie.com/embed/BtPKKWgNR9g",
+    "https://www.youtube-nocookie.com/embed/GN7xRnsVWPo",
+    "https://www.youtube-nocookie.com/embed/SzpujDSrxdA",
+    "https://www.youtube-nocookie.com/embed/kO5PecEt14Q"
+  ],
+  "bpm": 87,
+  "tone": "E major",
+  "artistPeople": [
+    "Willem Bijkerk"
+  ],
+  "backings": [
+    "Justin Pieplenbosch"
+  ],
+  "dancers": [
+    "Brandon Likiyo",
+    "Pierre Anganda",
+    "Pieter Likiyo",
+    "Roger Makadi"
+  ],
+  "stageDirector": "Hans Pannecoucke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ilya Toshinskiy",
+    "Jim Beaver",
+    "Waylon"
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "Arno Krabman",
+    "Lesley Joanna van der Aa",
+    "Rick Vol",
+    "Robert Ester",
+    "Sharon den Adel"
+  ],
+  "spokesperson": "Amy Vol, Lisa Vol, Shelley Vol"
+}

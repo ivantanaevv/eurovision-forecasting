@@ -1,0 +1,56 @@
+{
+  "id": 3,
+  "country": "CH",
+  "artist": "Luca Hänni",
+  "song": "She Got Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8aUYzqAIdoM",
+    "https://www.youtube-nocookie.com/embed/zEGgKQf1cws",
+    "https://www.youtube-nocookie.com/embed/6PxoMWtAC7M",
+    "https://www.youtube-nocookie.com/embed/j7zJoWwbz4Y",
+    "https://www.youtube-nocookie.com/embed/Oae2OMg8Ooo",
+    "https://www.youtube-nocookie.com/embed/BuX_gI1b5NI"
+  ],
+  "bpm": 97,
+  "tone": "F# major",
+  "artistPeople": [
+    "Luca Hänni"
+  ],
+  "backings": [
+    "Daniel Asamoah",
+    "David Lei Brandt",
+    "Greg Curtis jr."
+  ],
+  "dancers": [
+    "Hanna Levitt-Collins",
+    "Keisha von Arnold"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Frazer Mac",
+    "Jon Hällgren",
+    "Laurell Barker",
+    "Luca Hänni",
+    "Lukas Hällgren"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bastian Baker",
+    "Clarissa Tami",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sebalter",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Cyrill Camenzind",
+    "Eliane Müller",
+    "Leticia Ribeiro De Carvalho",
+    "Rocco Casella",
+    "Willy Dezelu"
+  ],
+  "spokesperson": "Gabriel Broggini, Ivan Broggini"
+}

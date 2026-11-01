@@ -1,0 +1,48 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Elhaida Dani",
+  "song": "I'm Alive",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fsH9iVaZSaA",
+    "https://www.youtube-nocookie.com/embed/GtpMLqiplfY",
+    "https://www.youtube-nocookie.com/embed/Flj9_lhJZEc",
+    "https://www.youtube-nocookie.com/embed/mfWXiTFUpzw",
+    "https://www.youtube-nocookie.com/embed/5vsYEPG1BBI",
+    "https://www.youtube-nocookie.com/embed/P0ISb0D_Qd4",
+    "https://www.youtube-nocookie.com/embed/hDfAUPvkELQ"
+  ],
+  "bpm": 155,
+  "tone": "E major",
+  "artistPeople": [
+    "Elhaida Dani"
+  ],
+  "backings": [
+    "Erga Halilaj",
+    "Gerona Hyska",
+    "Olsa Papandili"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Chris",
+    "Zzap"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sokol Marsi"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Arta Marku",
+    "Bojken Lako",
+    "Klodian Qafoku",
+    "Olsa Toqi",
+    "Zhani Ciko"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

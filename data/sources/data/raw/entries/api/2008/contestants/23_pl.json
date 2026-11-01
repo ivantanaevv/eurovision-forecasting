@@ -1,0 +1,38 @@
+{
+  "id": 23,
+  "country": "PL",
+  "artist": "Isis Gee",
+  "song": "For Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Q8f5AueE7g",
+    "https://www.youtube-nocookie.com/embed/kgtsjKlmRSE",
+    "https://www.youtube-nocookie.com/embed/KepFGShYKSk",
+    "https://www.youtube-nocookie.com/embed/IGkmKMvabPs"
+  ],
+  "bpm": 140,
+  "tone": "B major",
+  "artistPeople": [
+    "Tamara Diane Gołębiowska"
+  ],
+  "backings": [
+    "Adam Gołębiowski",
+    "Asia",
+    "Beata Lapuk",
+    "Gosia",
+    "Patrycja Kawecka"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Isis Gee"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Radosław Brzózka"
+}

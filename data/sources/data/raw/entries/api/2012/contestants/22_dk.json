@@ -1,0 +1,42 @@
+{
+  "id": 22,
+  "country": "DK",
+  "artist": "Soluna Samay",
+  "song": "Should've Known Better",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U5X2r_t-KBk",
+    "https://www.youtube-nocookie.com/embed/_DJy1uC58pQ",
+    "https://www.youtube-nocookie.com/embed/YKWvUEY8pPA",
+    "https://www.youtube-nocookie.com/embed/Vc8wURs0x1g"
+  ],
+  "bpm": 95,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Soluna Samay Kettel Ziegler"
+  ],
+  "backings": [
+    "Anja Akselbo",
+    "Barbara Moleko",
+    "Ihan Haydar",
+    "Jesper Faaborg Jensen",
+    "Kewan Padré Hussein"
+  ],
+  "dancers": null,
+  "stageDirector": "Vicky Leander",
+  "composers": [
+    "Chief 1",
+    "Isam Bachiri",
+    "Remee"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Chief 1"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": null,
+  "spokesperson": "Louise Wolff"
+}

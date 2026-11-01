@@ -1,0 +1,48 @@
+{
+  "id": 13,
+  "country": "MT",
+  "artist": "Michela",
+  "song": "Chameleon",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H-byNyainRA",
+    "https://www.youtube-nocookie.com/embed/mRwLt9HCjbk",
+    "https://www.youtube-nocookie.com/embed/tdyQ-ebzFgk",
+    "https://www.youtube-nocookie.com/embed/ZlvVCFIuQ_c",
+    "https://www.youtube-nocookie.com/embed/AyXlDQx5ovM",
+    "https://www.youtube-nocookie.com/embed/jDw1OXqZ6w0"
+  ],
+  "bpm": 98,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Michela Pace"
+  ],
+  "backings": [
+    "Albin Lindén",
+    "Amanda Arin",
+    "Destiny Chukunyere"
+  ],
+  "dancers": [
+    "Amir Ashoor",
+    "Nyat Kireab Fredriksson"
+  ],
+  "stageDirector": "Ambra Succi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Borislav Milanov",
+    "Joacim Persson",
+    "Johan Alkenäs",
+    "Paula Winger"
+  ],
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": [
+    "Arthur Caruana",
+    "Carlo Borg Bonaci",
+    "Eileen Ann Spiteri",
+    "Matthew James Borg",
+    "Nicole Frendo"
+  ],
+  "spokesperson": "Ben Camille"
+}

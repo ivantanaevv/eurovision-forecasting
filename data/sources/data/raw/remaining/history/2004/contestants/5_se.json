@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "country": "SE",
+  "artist": "Lena Philipsson",
+  "song": "It Hurts",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/na2qDYmm7LM",
+    "https://www.youtube-nocookie.com/embed/yGuvuCbbKw8",
+    "https://www.youtube-nocookie.com/embed/VV1uSMm7H8U",
+    "https://www.youtube-nocookie.com/embed/l41G1YQGM_Q"
+  ],
+  "bpm": 127,
+  "tone": "B major",
+  "artistPeople": [
+    "Maria Magdalena Filipsson"
+  ],
+  "backings": [
+    "Britta Bergström",
+    "Dea Norberg",
+    "Jenny Petersson",
+    "Martin Kagemark",
+    "Micke Blomqvist"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Thomas 'Orup' Eriksson"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Jovan Radomir"
+}

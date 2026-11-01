@@ -1,0 +1,35 @@
+{
+  "id": 23,
+  "country": "MT",
+  "artist": "Fabrizio Faniello",
+  "song": "I Do",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kiORqJIala8",
+    "https://www.youtube-nocookie.com/embed/9vEgfCg-7Zg",
+    "https://www.youtube-nocookie.com/embed/zTjgrUm77BU"
+  ],
+  "bpm": 136,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Fabrizio Faniello"
+  ],
+  "backings": [
+    "Toni Dominos",
+    "Veronica Harriet"
+  ],
+  "dancers": null,
+  "stageDirector": "Alex Panayi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aldo Spiteri",
+    "Fabrizio Faniello"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Moira Delia"
+}
