@@ -24,6 +24,9 @@
 \date{November 2026}
 \begin{document}
 \maketitle
+\begin{center}\small
+Data, code, and results: \url{https://github.com/ivantanaevv/eurovision-forecasting}
+\end{center}
 \begin{abstract}
 We forecast three Grand Final outcomes: a top-ten finish, an audience rank above the jury rank, and the winner of each country's televote. Bayesian ranking, probit, and categorical-choice models are evaluated by expanding-window backtests for 2021--2024 and a separate 2025 test. To measure the contribution of bookmakers, we refit each feature model without odds on the same observations. Adding odds reduces the development-period top-ten Brier score by about 49\% and national-winner log loss by 33--37\%. It provides almost no improvement for audience--jury differences, where country-specific historical frequencies perform best. Hierarchical pair effects improve national-winner forecasts when odds are included, but their additional value without odds is small. The 2025 national-winner results are metric-dependent: odds improve log loss in both feature models, while worsening M1's Brier score and top-choice accuracy. Archived odds have no verified measurement time, so these gains describe predictive association in the archived data; their real-time attainability remains unverified.
 \end{abstract}
@@ -395,6 +398,7 @@ The proposal's three targets were retained. It envisaged overall results for 200
 The proposal suggested Beta--Bernoulli baselines and probit extensions across the tasks. That specification was retained for B. A instead uses a Plackett--Luce ranking model, and C a categorical model, so their simulated or categorical forecasts respect the number of available winning positions. Their baselines learn historical recipient strength under the same likelihoods as the extensions. C uses directed pair effects; a voter-only intercept would cancel in its softmax likelihood. The matched no-odds runs were added after the lecturer's feedback on the presentation.
 
 \section{Reproducibility and numerical provenance}\label{app:provenance}
+\enlargethispage{3\baselineskip}
 Market results come from the three \texttt{forecast\_*\_validation/market/} directories. No-odds aggregates are extracted from the supplied \texttt{matched\_core} notebooks, including the completed C notebook, and retain their four-decimal display precision. The models were not refitted for this report.
 
 \begin{table}[H]\centering\small
@@ -418,7 +422,7 @@ Table \ref{tab:prior} & No-odds A cell 19, B/C cell 17; market sensitivity CSVs 
 
 The accompanying \texttt{evidence/} directory contains numerical source tables and provenance records with source hashes. \texttt{build\_report\_assets.py} and \texttt{build\_extended\_assets.py} regenerate the LaTeX tables and vector figures from those CSVs. The no-odds annual plots are included as the original notebook PNGs; all figure files are in \texttt{figures/}. Forecast-level no-odds probabilities in the displayed notebook tables are rounded to 0.1 percentage point, while aggregate losses have four decimal places. Score comparisons use the saved aggregate losses; the rounded forecast tables are used only for the forecast-level figures.
 
-The saved data-build verification records 21 matching final CSVs, matching values across six Excel sheets, and 46 passing tests; its JSON record is included in \texttt{evidence/}. Repository packaging and the final submission notebook remain separate deliverables.
+The saved data-build verification records 21 matching final CSVs, matching values across six Excel sheets, and 46 passing tests; its JSON record is included in \texttt{evidence/}. The data, modelling notebooks, validation results, and reproduction instructions are available at \url{https://github.com/ivantanaevv/eurovision-forecasting}. In the repository, the report assets and evidence are stored under \texttt{report/}.
 
 \begingroup
 \small
